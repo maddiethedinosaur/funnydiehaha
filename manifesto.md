@@ -2,35 +2,28 @@
 
 ## Table of Contents
 
-- [Intro](#intro)
-- [Chapter 1: State, Class, and Party](#chapter-1--state--class--and-party)
-- [Chapter 2: Communist Society](#chapter-2--communist-society)
-- [Chapter 3: Fascism and Anti-Fascism](#chapter-3--fascism-and-anti-fascism)
-- [Chapter 4: Unions](#chapter-4--unions)
-- [Chapter 5: Historical Materialism](#chapter-5--historical-materialism)
-- [Chapter 6: Centralization and Decentralization](#chapter-6--centralization-and-decentralization)
-- [Chapter 7: Reform and Revolution](#chapter-7--reform-and-revolution)
+- [Section 1: Preamble](#section-1--preamble)
+- [Section 2: About the Party](#section-2--about-the-party)
+- [Section 3: Views and Aims](#section-3--views-and-aims)
+- [Section 4: Organization](#section-4--organization)
 
-## Intro
+## Section 1: Preamble
 
-## Chapter 1: State, Class, and Party
+## Section 2: About the Party
 
-## Chapter 2: Communist Society
+## Section 3: Views and Aims
 
-### Private Property
+### Views
+#### For
+1. **Pro-Communism**:
+yoyo this is test
+4. **Pro-Vanguard**:
+#### Against
+1. **Anti-Capitalism**:
+2. **Anti-Work**:
+3. **Anti-United Front**:
+5. **Anti-Substitutionism**:
+6. **Anti-War**:
+1. **Anti-Capitalism**:
 
-### Wage Labour
-
-### The Division of Labour
-
-### Production and Distribution
-
-## Chapter 3: Fascism and Anti-Fascism
-
-## Chapter 4: Unions
-
-## Chapter 5: Historical Materialism
-
-## Chapter 6: Centralization and Decentralization
-
-## Chapter 7: Reform and Revolution
+## Section 4: Organization
