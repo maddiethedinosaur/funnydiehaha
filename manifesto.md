@@ -38,7 +38,7 @@ A violent proletarian revolution is necessary for the overthrow of the bourgeois
 #### Against
 1. **Anti-Capitalism**:
 
-The International Communist League is opposed to capitalism in all forms, whether worker managed, state managed or privately managed. Capitalism is not a system of management but a mode of production. 
+The Internationalist Communist League is opposed to capitalism in all forms, whether worker managed, state managed or privately managed. Capitalism is not a system of management but a mode of production. 
 
 2. **Anti-Work**:
 
