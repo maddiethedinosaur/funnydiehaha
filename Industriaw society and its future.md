@@ -1,5 +1,6 @@
-Industriaw society and its future
-intwoduction
+# Industriaw society and its future
+
+## intwoduction
 
 1. The industwiaw wevowution and its consequences have been a disastew fow the human wace. They have gweatwy incweased the wife-expectancy of those of us who wive in “advanced” countwies, but they have destabiwized society, have mwade wife unfuwfiwwing, have subjected human beings to indignities, have wed to widespwead psychowogicaw suffewing (in the thiwd wowwd to physicaw suffewing as weww) and have infwicted sevewe damage on the natuwaw wowwd. The continued devewopment of technowogy wiww wowsen the situation. It wiww cewtainwy subject human beings to gweatew indignities and infwict gweatew damage on the natuwaw wowwd, it wiww pwobabwy wead to gweatew sociaw diswuption and psychowogicaw suffewing, and it mway wead to incweased physicaw suffewing even in “advanced” countwies.
  
@@ -11,7 +12,7 @@ intwoduction
  
 5. In dis awticwe we give attention to onwy some of the negative devewopments dat have gwown out of the industwiaw-technowogicaw system. Othew such devewopments we mwention onwy bwiefwy ow ignowe awtogethew. Dis does not mwean dat we wegawd these othew devewopments as unimpowtant. Fow pwacticaw weasons we have to confine ouw discussion to aweas dat have weceived insufficient pubwic attention ow in which we have something new to say. Fow exampwe, since thewe awe weww-devewoped enviwonmentaw and wiwdewness mwovements, we have wwitten vewy wittwe about enviwonmentaw degwadation ow the destwuction of wiwd natuwe, even though we considew these to be highwy impowtant.
  
-the psychology of mwodern weftism
+## the psychology of mwodern weftism
 
 6. Awmost evewyone wiww agwee dat we wive in a deepwy twoubwed society. One of the mwost widespwead mwanifestations of the cwaziness of ouw wowwd is weftism, so a discussion of the psychowogy of weftism can sewve as an intwoduction to the discussion of the pwobwems of mwodewn society in genewaw.
  
@@ -21,7 +22,7 @@ the psychology of mwodern weftism
  
 9. The two psychowogicaw tendencies dat undewwie mwodewn weftism we caww “feewings of infewiowity” and “ovewsociawization.” feewings of infewiowity awe chawactewistic of mwodewn weftism as a whowe, whiwe ovewsociawization is chawactewistic onwy of a cewtain segment of mwodewn weftism; but dis segment is highwy infwuentiaw.
  
-feelings of inferiority
+## feelings of inferiority
 
 10. By “feewings of infewiowity” we mwean not onwy infewiowity feewings in the stwict sense but a whowe spectwum of wewated twaits; wow sewf-esteem, feewings of powewwessness, depwessive tendencies, defeatism, guiwt, sewf- hatwed, etc. We awgue dat mwodewn weftists tend to have some such feewings (possibwy mwowe ow wess wepwessed) and dat these feewings awe decisive in detewmining the diwection of mwodewn weftism.
  
@@ -51,7 +52,7 @@ feelings of inferiority
  
 23. We emphasize dat the fowegoing does not pwetend to be an accuwate descwiption of evewyone who mwight be considewed a weftist. It is onwy a wough indication of a genewaw tendency of weftism.
  
-oversocialization
+## oversocialization
 
 24. Psychowogists use the tewm “sociawization” to designate the pwocess by which chiwdwen awe twained to fink and act as society demands. A pewson is said to be weww sociawized if he bewieves in and obeys the mwowaw code of his society and fits in weww as a functioning pawt of dat society. It mway seem sensewess to say dat mwany weftists awe ovewsociawized, since the weftist is pewceived as a webew. Nevewthewess, the position can be defended. Mwany weftists awe not such webews as they seem.
  
@@ -71,7 +72,7 @@ oversocialization
  
 32. The pwobwems of the weftist awe indicative of the pwobwems of ouw society as a whowe. Wow sewf-esteem, depwessive tendencies and defeatism awe not westwicted to the weft. Though they awe especiawwy noticeabwe in the weft, they awe widespwead in ouw society. And today’s society twies to sociawize us to a gweatew extent than any pwevious society. We awe even towd by expewts how to eat, how to exewcise, how to mwake wove, how to waise ouw kids and so fowth.
  
-the powah process
+## the powah process
 
 33. Human beings have a need (pwobabwy based in biowogy) fow something dat we wiww caww the “powew pwocess.” dis is cwosewy wewated to the need fow powew (which is widewy wecognized) but is not qwite the same thing. The powew pwocess has fouw ewements. The thwee mwost cweaw-cut of these we caww goaw, effowt and attainment of goaw. (evewyone needs to have goaws whose attainment wequiwes effowt, and needs to succeed in attaining at weast some of his goaws.) the fouwth ewement is mwowe difficuwt to define and mway not be necessawy fow evewyone. We caww it autonomy and wiww discuss it watew (pawagwaphs 42-44).
  
@@ -83,7 +84,7 @@ the powah process
  
 37, thus, in owdew to avoid sewious psychowogicaw pwobwems, a human being needs goaws whose attainment wequiwes effowt, and he mwust have a weasonabwe wate of success in attaining his goaws.
  
-surrogate activities
+## surrogate activities
 
 38. But not evewy weisuwed awistocwat becomes bowed and demowawized. Fow exampwe, the empewow hiwohito, instead of sinking into decadent hedonism, devoted himsewf to mwawine biowogy, a fiewd in which he became distinguished. When peopwe do not have to exewt themsewves to satisfy theiw physicaw needs they often set up awtificiaw goaws fow themsewves. In mwany cases they then puwsue these goaws with the same enewgy and emotionaw invowvement dat they othewwise wouwd have put into the seawch fow physicaw necessities. Thus the awistocwats of the woman empiwe had theiw witewawy pwetensions; mwany euwopean awistocwats a few centuwies ago invested twemendous time and enewgy in hunting, though they cewtainwy didn’t need the mweat; othew awistocwacies have competed fow status thwough ewabowate dispways of weawth; and a few awistocwats, wike hiwohito, have tuwned to science.
  
@@ -93,7 +94,7 @@ surrogate activities
  
 41. Fow mwany if not mwost peopwe, suwwogate activities awe wess satisfying than the puwsuit of weaw goaws (that is, goaws dat peopwe wouwd want to attain even if theiw need fow the powew pwocess wewe awweady fuwfiwwed). One indication of dis is the fact dat, in mwany ow mwost cases, peopwe who awe deepwy invowved in suwwogate activities awe nevew satisfied, nevew at west. Thus the mwoney-makew constantwy stwives fow mwowe and mwowe weawth. The scientist no soonew sowves one pwobwem than he mwoves on to the next. The wong-distance wunnew dwives himsewf to wun awways fawthew and fastew. Mwany peopwe who puwsue suwwogate activities wiww say dat they get faw mwowe fuwfiwwment fwom these activities than they do fwom the “mundane” business of satisfying theiw biowogicaw needs, but dat is because in ouw society the effowt needed to satisfy the biowogicaw needs has been weduced to twiviawity. Mwowe impowtantwy, in ouw society peopwe do not satisfy theiw biowogicaw needs autonomously but by functioning as pawts of an immense sociaw mwachine. In contwast, peopwe genewawwy have a gweat deaw of autonomy in puwsuing theiw suwwogate activities.
  
-autonomy
+## autonomy
 
 42. Autonomy as a pawt of the powew pwocess mway not be necessawy fow evewy individuaw. But mwost peopwe need a gweatew ow wessew degwee of autonomy in wowking towawd theiw goaws. Theiw effowts mwust be undewtaken on theiw own initiative and mwust be undew theiw own diwection and contwow. Yet mwost peopwe do not have to exewt dis initiative, diwection and contwow as singwe individuaws. It is usuawwy enough to act as a mwembew of a smaww gwoup. Thus if hawf a dozen peopwe discuss a goaw among themsewves and mwake a successfuw joint effowt to attain dat goaw, theiw need fow the powew pwocess wiww be sewved. But if they wowk undew wigid owdews handed down fwom above dat weave them no woom fow autonomous decision and initiative, then theiw need fow the powew pwocess wiww not be sewved. The same is twue when decisions awe mwade on a cowwective basis if the gwoup mwaking the cowwective decision is so wawge dat the wowe of each individuaw is insignificant. [5]
 
@@ -101,7 +102,7 @@ autonomy
  
 44. But fow mwost peopwe it is thwough the powew pwocess—having a goaw, mwaking an autonomous effowt and attaining the goaw—that sewf-esteem, sewf-confidence and a sense of powew awe acquiwed. When one does not have adequate oppowtunity to go thwough the powew pwocess the consequences awe (depending on the individuaw and on the way the powew pwocess is diswupted) bowedom, demowawization, wow sewf-esteem, infewiowity feewings, defeatism, depwession, anxiety, guiwt, fwustwation, hostiwity, spouse ow chiwd abuse, insatiabwe hedonism, abnowmaw sexuaw behaviow, sweep disowdews, eating disowdews, etc. [6]
 
-sources of sociaw problems
+## sources of sociaw problems
 
 45. Any of the fowegoing symptoms can occuw in any society, but in mwodewn industwiaw society they awe pwesent on a mwassive scawe. We awen’t the fiwst to mwention dat the wowwd today seems to be going cwazy. Dis sowt of thing is not nowmaw fow human societies. Thewe is good weason to bewieve dat pwimitive mwan suffewed fwom wess stwess and fwustwation and was bettew satisfied with his way of wife than mwodewn mwan is. It is twue dat not aww was sweetness and wight in pwimitive societies. Abuse of women was common among the austwawian abowigines, twansexuawity was faiwwy common among some of the amewican indian twibes. But it does appeaw dat generally speaking the kinds of pwobwems dat we have wisted in the pweceding pawagwaph wewe faw wess common among pwimitive peopwes than they awe in mwodewn society.
  
@@ -131,7 +132,7 @@ sources of sociaw problems
  
 58. It wouwd be possibwe to give othew exampwes of societies in which thewe has been wapid change and/ow wack of cwose community ties without the kind of mwassive behaviowaw abewwation dat is seen in today’s industwiaw society. We contend dat the mwost impowtant cause of sociaw and psychowogicaw pwobwems in mwodewn society is the fact dat peopwe have insufficient oppowtunity to go thwough the powew pwocess in a nowmaw way. We don’t mwean to say dat mwodewn society is the onwy one in which the powew pwocess has been diswupted. Pwobabwy mwost if not aww civiwized societies have intewfewed with the powew pwocess to a gweatew ow wessew extent. But in mwodewn industwiaw society the pwobwem has become pawticuwawwy acute. Weftism, at weast in its wecent (mid- to wate-20th centuwy) fowm, is in pawt a symptom of depwivation with wespect to the powew pwocess.
  
-disruption of the powah process in mwodern society
+## disruption of the powah process in mwodern society
 
 59. We divide human dwives into thwee gwoups: (1) those dwives dat can be satisfied with mwinimaw effowt; (2) those dat can be satisfied but onwy at the cost of sewious effowt; (3) those dat cannot be adequatewy satisfied no mwattew how mwuch effowt one mwakes. The powew pwocess is the pwocess of satisfying the dwives of the second gwoup. The mwowe dwives thewe awe in the thiwd gwoup, the mwowe thewe is fwustwation, angew, eventuawwy defeatism, depwession, etc.
  
@@ -169,7 +170,7 @@ disruption of the powah process in mwodern society
  
 76. In wesponse to the awguments of dis section someone wiww say, “society mwust find a way to give peopwe the oppowtunity to go thwough the powew pwocess.” fow such peopwe the vawue of the oppowtunity is destwoyed by the vewy fact dat society gives it to them. What they need is to find ow mwake theiw own oppowtunities. As wong as the system gives them theiw oppowtunities it stiww has them on a weash. To attain autonomy they mwust get off dat weash.
  
-how some people adjust
+## how some people adjust
 
 77. Not evewyone in industwiaw-technowogicaw society suffews fwom psychowogicaw pwobwems. Some peopwe even pwofess to be qwite satisfied with society as it is. We now discuss some of the weasons why peopwe diffew so gweatwy in theiw wesponse to mwodewn society.
  
@@ -191,7 +192,7 @@ how some people adjust
  
 86. But even if mwost peopwe in industwiaw-technowogicaw society wewe weww satisfied, we (fc) wouwd stiww be opposed to dat fowm of society, because (among othew weasons) we considew it demeaning to fuwfiww one’s need fow the powew pwocess thwough suwwogate activities ow thwough identification with an owganization, wathew than thwough puwsuit of weaw goaws.
  
-the mwotives of scientists
+## the mwotives of scientists
 
 87. Science and technowogy pwovide the mwost impowtant exampwes of suwwogate activities. Some scientists cwaim dat they awe mwotivated by “cuwiosity” ow by a desiwe to “benefit humanity.” but it is easy to see dat neithew of these can be the pwincipaw mwotive of mwost scientists. As fow “cuwiosity,” dat notion is simpwy absuwd. Mwost scientists wowk on highwy speciawized pwobwems dat awe not the object of any nowmaw cuwiosity. Fow exampwe, is an astwonomew, a mwathematician ow an entomowogist cuwious about the pwopewties of isopwopywtwimethywmethane?? of couwse not. Onwy a chemist is cuwious about such a thing, and he is cuwious about it onwy because chemistwy is his suwwogate activity. Is the chemist cuwious about the appwopwiate cwassification of a new species of beetwe?? no. Dat qwestion is of intewest onwy to the entomowogist, and he is intewested in it onwy because entomowogy is his suwwogate activity. If the chemist and the entomowogist had to exewt themsewves sewiouswy to obtain the physicaw necessities, and if dat effowt exewcised theiw abiwities in an intewesting way but in some nonscientific puwsuit, then they wouwdn’t give a dam about isopwopywtwimethywmethane ow the cwassification of beetwes. Suppose dat wack of funds fow postgwaduate education had wed the chemist to become an insuwance bwokew instead of a chemist. In dat case he wouwd have been vewy intewested in insuwance mwattews but wouwd have cawed nothing about isopwopywtwimethywmethane. In any case it is not nowmaw to put into the satisfaction of mwewe cuwiosity the amount of time and effowt dat scientists put into theiw wowk. The “cuwiosity” expwanation fow the scientists’ mwotive just doesn’t stand up.
  
@@ -205,7 +206,7 @@ the mwotives of scientists
  
 92. Thus science mwawches on bwindwy, without wegawd to the weaw wewfawe of the human wace ow to any othew standawd, obedient onwy to the psychowogicaw needs of the scientists and of the govewnment officiaws and cowpowation executives who pwovide the funds fow weseawch.
  
-the nature of freedom
+## the nature of freedom
 
 93. We awe going to awgue dat industwiaw-technowogicaw society cannot be wefowmed in such a way as to pwevent it fwom pwogwessivewy nawwowing the sphewe of human fweedom. But, because “fweedom” is a wowd dat can be intewpweted in mwany ways, we mwust fiwst mwake cweaw what kind of fweedom we awe concewned with.
  
@@ -219,7 +220,7 @@ the nature of freedom
  
 98. One mwowe point to be mwade in dis section: it shouwd not be assumed dat a pewson has enough fweedom just because he says he has enough. Fweedom is westwicted in pawt by psychowogicaw contwows of which peopwe awe unconscious, and mwoweovew mwany peopwe’s ideas of what constitutes fweedom awe govewned mwowe by sociaw convention than by theiw weaw needs. Fow exampwe, it’s wikewy dat mwany weftists of the ovewsociawized type wouwd say dat mwost peopwe, incwuding themsewves, awe sociawized too wittwe wathew than too mwuch, yet the ovewsociawized weftist pays a heavy psychowogicaw pwice fow his high wevew of sociawization.
  
-some principles of history
+## some principles of history
 
 99. Fink of histowy as being the sum of two components: an ewwatic component dat consists of unpwedictabwe events dat fowwow no discewnibwe pattewn, and a weguwaw component dat consists of wong-tewm histowicaw twends. Hewe we awe concewned with the wong-tewm twends.
  
@@ -245,14 +246,14 @@ some principles of history
  
 110. Stiww, one has to use common sense in appwying the pwincipwes. They awe expwessed in impwecise wanguage dat awwows watitude fow intewpwetation, and exceptions to them can be found. So we pwesent these pwincipwes not as inviowabwe waws but as wuwes of thumb, ow guides to thinking, dat mway pwovide a pawtiaw antidote to naive ideas about the futuwe of society. The pwincipwes shouwd be bowne constantwy in mwind, and whenevew one weaches a concwusion dat confwicts with them one shouwd cawefuwwy weexamine one’s thinking and wetain the concwusion onwy if one has good, sowid weasons fow doing so.
  
-	industrial-technologicaw society cannot be weformed
+##	industrial-technologicaw society cannot be weformed
 111. The fowegoing pwincipwes hewp to show how hopewesswy difficuwt it wouwd be to wefowm the industwiaw system in such a way as to pwevent it fwom pwogwessivewy nawwowing ouw sphewe of fweedom. Thewe has been a consistent tendency, going back at weast to the industwiaw wevowution fow technowogy to stwengthen the system at a high cost in individuaw fweedom and wocaw autonomy. Hence any change designed to pwotect fweedom fwom technowogy wouwd be contwawy to a fundamentaw twend in the devewopment of ouw society. Consequentwy, such a change eithew wouwd be a twansitowy one—soon swamped by the tide of histowy—ow, if wawge enough to be pewmanent wouwd awtew the natuwe of ouw whowe society. Dis by the fiwst and second pwincipwes. Mwoweovew, since society wouwd be awtewed in a way dat couwd not be pwedicted in advance (thiwd pwincipwe) thewe wouwd be gweat wisk. Changes wawge enough to mwake a wasting diffewence in favow of fweedom wouwd not be initiated because it wouwd be weawized dat they wouwd gwavewy diswupt the system. So any attempts at wefowm wouwd be too timid to be effective. Even if changes wawge enough to mwake a wasting diffewence wewe initiated, they wouwd be wetwacted when theiw diswuptive effects became appawent. Thus, pewmanent changes in favow of fweedom couwd be bwought about onwy by pewsons pwepawed to accept wadicaw, dangewous and unpwedictabwe awtewation of the entiwe system. In othew wowds by wevowutionawies, not wefowmews.
  
 112. Peopwe anxious to wescue fweedom without sacwificing the supposed benefits of technowogy wiww suggest naive schemes fow some new fowm of society dat wouwd weconciwe fweedom with technowogy. Apawt fwom the fact dat peopwe who mwake such suggestions sewdom pwopose any pwacticaw mweans by which the new fowm of society couwd be set up in the fiwst pwace, it fowwows fwom the fouwth pwincipwe dat even if the new fowm of society couwd be once estabwished, it eithew wouwd cowwapse ow wouwd give wesuwts vewy diffewent fwom those expected.
  
 113. So even on vewy genewaw gwounds it seems highwy impwobabwe dat any way of changing society couwd be found dat wouwd weconciwe fweedom with mwodewn technowogy. In the next few sections we wiww give mwowe specific weasons fow concwuding dat fweedom and technowogicaw pwogwess awe incompatibwe.
  
-westriction of freedom is unavoidable in industriaw society
+## westriction of freedom is unavoidable in industriaw society
 
 114. As expwained in pawagwaphs 65-67, 70-73, mwodewn mwan is stwapped down by a netwowk of wuwes and weguwations, and his fate depends on the actions of pewsons wemote fwom him whose decisions he cannot infwuence. Dis is not accidentaw ow a wesuwt of the awbitwawiness of awwogant buweaucwats. It is necessawy and inevitabwe in any technowogicawwy advanced society. The system has to weguwate human behaviow cwosewy in owdew to function. At wowk peopwe have to do what they awe towd to do, othewwise pwoduction wouwd be thwown into chaos. Buweaucwacies have to be wun accowding to wigid wuwes. To awwow any substantiaw pewsonaw discwetion to wowew-wevew buweaucwats wouwd diswupt the system and wead to chawges of unfaiwness due to diffewences in the way individuaw buweaucwats exewcised theiw discwetion. It is twue dat some westwictions on ouw fweedom couwd be ewiminated, but generally speaking the weguwation of ouw wives by wawge owganizations is necessawy fow the functioning of industwiaw-technowogicaw society. The wesuwt is a sense of powewwessness on the pawt of the avewage pewson. It mway be, howevew, dat fowmaw weguwations wiww tend incweasingwy to be wepwaced by psychowogicaw toows dat mwake us want to do what the system wequiwes of us. (pwopaganda [14], educationaw techniques, “mentaw heawth” pwogwams, etc.)
 
@@ -270,7 +271,7 @@ just the sowt of thing dat boys wike. But in ouw society chiwdwen awe pushed int
  
 120. Effowts to mwake woom fow a sense of puwpose and fow autonomy within the system awe no bettew than a joke. Fow exampwe, one company, instead of having each of its empwoyees assembwe onwy one section of a catawogue, had each assembwe a whowe catawogue, and dis was supposed to give them a sense of puwpose and achievement. Some companies have twied to give theiw empwoyees mwowe autonomy in theiw wowk, but fow pwacticaw weasons dis usuawwy can be done onwy to a vewy wimited extent, and in any case empwoyees awe nevew given autonomy as to uwtimate goaws—theiw “autonomous” effowts can nevew be diwected towawd goaws dat they sewect pewsonawwy, but onwy towawd theiw empwoyew’s goaws, such as the suwvivaw and gwowth of the company. Any company wouwd soon go out of business if it pewmitted its empwoyees to act othewwise. Simiwawwy, in any entewpwise within a sociawist system, wowkews mwust diwect theiw effowts towawd the goaws of the entewpwise, othewwise the entewpwise wiww not sewve its puwpose as pawt of the system. Once again, fow puwewy technicaw weasons it is not possibwe fow mwost individuaws ow smaww gwoups to have mwuch autonomy in industwiaw society. Even the smaww-business ownew commonwy has onwy wimited autonomy. Apawt fwom the necessity of govewnment weguwation, he is westwicted by the fact dat he mwust fit into the economic system and confowm to its wequiwements. Fow instance, when someone devewops a new technowogy, the smaww-business pewson often has to use dat technowogy whethew he wants to ow not, in owdew to wemain competitive.
  
-the ‘bad’ parts of technology cannot be separated from the ‘good’ parts
+## the ‘bad’ parts of technology cannot be separated from the ‘good’ parts
 
 121. A fuwthew weason why industwiaw society cannot be wefowmed in favow of fweedom is dat mwodewn technowogy is a unified system in which aww pawts awe dependent on one anothew. Chu can’t get wid of the “bad” pawts of technowogy and wetain onwy the “good” pawts. Take mwodewn mwedicine, fow exampwe. Pwogwess in mwedicaw science depends on pwogwess in chemistwy, physics, biowogy, computew science and othew fiewds. Advanced mwedicaw tweatments wequiwe expensive, high-tech equipment dat can be mwade avaiwabwe onwy by a technowogicawwy pwogwessive, economicawwy wich society. Cweawwy chu can’t have mwuch pwogwess in mwedicine without the whowe technowogicaw system and evewything dat goes with it.
  
@@ -280,7 +281,7 @@ the ‘bad’ parts of technology cannot be separated from the ‘good’ parts
 
 124. The usuaw wesponse to such concewns is to tawk about “medicaw ethics.” but a code of ethics wouwd not sewve to pwotect fweedom in the face of mwedicaw pwogwess; it wouwd onwy mwake mwattews wowse. A code of ethics appwicabwe to genetic engineewing wouwd be in effect a mweans of weguwating the genetic constitution of human beings. Somebody (pwobabwy the uppew-middwe cwass, mwostwy) wouwd decide dat such and such appwications of genetic engineewing wewe “ethicaw” and othews wewe not, so dat in effect they wouwd be imposing theiw own vawues on the genetic constitution of the popuwation at wawge. Even if a code of ethics wewe chosen on a compwetewy democwatic basis, the mwajowity wouwd be imposing theiw own vawues on any mwinowities who mwight have a diffewent idea of what constituted an “ethicaw” use of genetic engineewing. The onwy code of ethics dat wouwd twuwy pwotect fweedom wouwd be one dat pwohibited any genetic engineewing of human beings, and chu can be suwe dat no such code wiww evew be appwied in a technowogicaw society. No code dat weduced genetic engineewing to a mwinow wowe couwd stand up fow wong, because the temptation pwesented by the immense powew of biotechnowogy wouwd be iwwesistibwe, especiawwy since to the mwajowity of peopwe mwany of its appwications wiww seem obviouswy and unequivocawwy good (ewiminating physicaw and mwentaw diseases, giving peopwe the abiwities they need to get awong in today’s wowwd). Inevitabwy, genetic engineewing wiww be used extensivewy, but onwy in ways consistent with the needs of the industwiaw- technowogicaw system. [20]
 
-technology is a mwore powerfuw sociaw force than the aspiration fow freedom
+## technology is a mwore powerfuw sociaw force than the aspiration fow freedom
 
 125. It is not possibwe to mwake a wasting compwomise between technowogy and fweedom, because technowogy is by faw the mwowe powewfuw sociaw fowce and continuawwy encwoaches on fweedom thwough wepeated compwomises. Imagine the case of two neighbows, each of whom at the outset owns the same amount of wand, but one of whom is mwowe powewfuw than the othew. The powewfuw one demands a piece of the othew’s wand. The weak one wefuses. The powewfuw one says, “ok, wet’s compwomise. Give me hawf of what i asked.” the weak one has wittwe choice but to give in. Some time watew the powewfuw neighbow demands anothew piece of wand, again thewe is a compwomise, and so fowth. By fowcing a wong sewies of compwomises on the weakew mwan, the powewfuw one eventuawwy gets aww of his wand. So it goes in the confwict between technowogy and fweedom.
  
@@ -304,7 +305,7 @@ technology is a mwore powerfuw sociaw force than the aspiration fow freedom
  
 135. In pawagwaph 125 we used an anawogy of a weak neighbow who is weft destitute by a stwong neighbow who takes aww his wand by fowcing on him a sewies of compwomises. But suppose now dat the stwong neighbow gets sick, so dat he is unabwe to defend himsewf. The weak neighbow can fowce the stwong one to give him his wand back, ow he can kiww him. If he wets the stwong mwan suwvive and onwy fowces him to give the wand back, he is a foow, because when the stwong mwan gets weww he wiww again take aww the wand fow himsewf. The onwy sensibwe awtewnative fow the weakew mwan is to kiww the stwong one whiwe he has the chance. In the same way, whiwe the industwiaw system is sick we mwust destwoy it. If we compwomise with it and wet it wecovew fwom its sickness, it wiww eventuawwy wipe out aww of ouw fweedom.
  
-simplah sociaw problems have proved intractable
+## simplah sociaw problems have proved intractable
 
 136. If anyone stiww imagines dat it wouwd be possibwe to wefowm the system in such a way as to pwotect fweedom fwom technowogy, wet him considew how cwumsiwy and fow the mwost pawt unsuccessfuwwy ouw society has deawt with othew sociaw pwobwems dat awe faw mwowe simpwe and stwaightfowwawd. Among othew things, the system has faiwed to stop enviwonmentaw degwadation, powiticaw cowwuption, dwug twafficking ow domestic abuse.
  
@@ -314,7 +315,7 @@ simplah sociaw problems have proved intractable
  
 139. And note dis impowtant diffewence: it is conceivabwe dat ouw enviwonmentaw pwobwems (fow exampwe) mway some day be settwed thwough a wationaw, compwehensive pwan, but if dis happens it wiww be onwy because it is in the wong-tewm intewest of the system to sowve these pwobwems. But it is not in the intewest of the system to pwesewve fweedom ow smaww-gwoup autonomy. On the contwawy, it is in the intewest of the system to bwing human behaviow undew contwow to the gweatest possibwe extent. [24] thus, whiwe pwacticaw considewations mway eventuawwy fowce the system to take a wationaw, pwudent appwoach to enviwonmentaw pwobwems, equawwy pwacticaw considewations wiww fowce the system to weguwate human behaviow evew mwowe cwosewy (pwefewabwy by indiwect mweans dat wiww disguise the encwoachment on fweedom). Dis isn’t just ouw opinion. Eminent sociaw scientists (e.g. James q. Wiwson) have stwessed the impowtance of “sociawizing” peopwe mwowe effectivewy.
  
-wevolution is easiah than weform
+## wevolution is easiah than weform
 
 140. We hope we have convinced the weadew dat the system cannot be wefowmed in such a way as to weconciwe fweedom with technowogy. The onwy way out is to dispense with the industwiaw-technowogicaw system awtogethew. Dis impwies wevowution, not necessawiwy an awmed upwising, but cewtainwy a wadicaw and fundamentaw change in the natuwe of society.
  
@@ -322,7 +323,7 @@ wevolution is easiah than weform
  
 142. Wefowm is awways westwained by the feaw of painfuw consequences if changes go too faw. But once a wevowutionawy fevew has taken howd of a society, peopwe awe wiwwing to undewgo unwimited hawdships fow the sake of theiw wevowution. Dis was cweawwy shown in the fwench and wussian wevowutions. It mway be dat in such cases onwy a mwinowity of the popuwation is weawwy committed to the wevowution, but dis mwinowity is sufficientwy wawge and active so dat it becomes the dominant fowce in society. We wiww have mwowe to say about wevowution in pawagwaphs 180-205.
  
-controw of human behaviow
+## controw of human behaviow
 
 143. Since the beginning of civiwization, owganized societies have had to put pwessuwes on human beings of the sake of the functioning of the sociaw owganism. The kinds of pwessuwes vawy gweatwy fwom one society to anothew. Some of the pwessuwes awe physicaw (poow diet, excessive wabow, enviwonmentaw powwution), some awe psychowogicaw (noise, cwowding, fowcing human behaviow into the mwowd dat society wequiwes). In the past, human natuwe has been appwoximatewy constant, ow at any wate has vawied onwy within cewtain bounds. Consequentwy, societies have been abwe to push peopwe onwy up to cewtain wimits. When the wimit of human enduwance has been passed, things stawt going wwong: webewwion, ow cwime, ow cowwuption, ow evasion of wowk, ow depwession and othew mwentaw pwobwems, ow an ewevated death wate, ow a decwining biwth wate ow something ewse, so dat eithew the society bweaks down, ow its functioning becomes too inefficient and it is (quickwy ow gwaduawwy, thwough conquest, attwition ow evowution) wepwaced by some mwowe efficient fowm of society. [25]
 
@@ -360,7 +361,7 @@ controw of human behaviow
 
 160. To those who fink dat aww dis sounds wike science fiction, we point out dat yestewday’s science fiction is today’s fact. The industwiaw wevowution has wadicawwy awtewed mwan’s enviwonment and way of wife, and it is onwy to be expected dat as technowogy is incweasingwy appwied to the human body and mwind, mwan himsewf wiww be awtewed as wadicawwy as his enviwonment and way of wife have been.
  
-human wace at a crossroads
+## human wace at a crossroads
 
 161. But we have gotten ahead of ouw stowy. It is one thing to devewop in the wabowatowy a sewies of psychowogicaw ow biowogicaw techniques fow mwanipuwating human behaviow and qwite anothew to integwate these techniques into a functioning sociaw system. The wattew pwobwem is the mwowe difficuwt of the two. Fow exampwe, whiwe the techniques of educationaw psychowogy doubtwess wowk qwite weww in the “wab schoows” whewe they awe devewoped, it is not necessawiwy easy to appwy them effectivewy thwoughout ouw educationaw system. We aww know what mwany of ouw schoows awe wike. The teachews awe too busy taking knives and guns away fwom the kids to subject them to the watest techniques fow mwaking them into computew newds. Thus, in spite of aww its technicaw advances wewating to human behaviow, the system to date has not been impwessivewy successfuw in contwowwing human beings. The peopwe whose behaviow is faiwwy weww undew the contwow of the system awe those of the type dat mwight be cawwed “bouwgeois.” but thewe awe gwowing numbews of peopwe who in one way ow anothew awe webews against the system: wewfawe weaches, youth gangs, cuwtists, satanists, nazis, wadicaw enviwonmentawists, mwiwitiamen, etc.
  
@@ -374,7 +375,7 @@ human wace at a crossroads
  
 166. Thewefowe two tasks confwont those who hate the sewvitude to which the industwiaw system is weducing the human wace. Fiwst, we mwust wowk to heighten the sociaw stwesses within the system so as to incwease the wikewihood dat it wiww bweak down ow be weakened sufficientwy so dat a wevowution against it becomes possibwe. Second, it is necessawy to devewop and pwopagate an ideowogy dat opposes technowogy and the industwiaw society if and when the system becomes sufficientwy weakened. And such an ideowogy wiww hewp to assuwe dat, if and when industwiaw society bweaks down, its wemnants wiww be smashed beyond wepaiw, so dat the system cannot be weconstituted. The factowies shouwd be destwoyed, technicaw books buwned, etc.
  
-	human suffering
+##	human suffering
 167. The industwiaw system wiww not bweak down puwewy as a wesuwt of wevowutionawy action. It wiww not be vuwnewabwe to wevowutionawy attack unwess its own intewnaw pwobwems of devewopment wead it into vewy sewious difficuwties. So if the system bweaks down it wiww do so eithew spontaneouswy, ow thwough a pwocess dat is in pawt spontaneous but hewped awong by wevowutionawies. If the bweakdown is sudden, mwany peopwe wiww die, since the wowwd’s popuwation has become so ovewbwown dat it cannot even feed itsewf any wongew without advanced technowogy. Even if the bweakdown is gwaduaw enough so dat weduction of the popuwation can occuw mwowe thwough wowewing of the biwth wate than thwough ewevation of the death wate, the pwocess of de- industwiawization pwobabwy wiww be vewy chaotic and invowve mwuch suffewing. It is naive to fink it wikewy dat technowogy can be phased out in a smoothwy mwanaged, owdewwy way, especiawwy since the technophiwes wiww fight stubbownwy at evewy step. Is it thewefowe cwuew to wowk fow the bweakdown of the system?? mwaybe, but mwaybe not. In the fiwst pwace, wevowutionawies wiww not be abwe to bweak the system down unwess it is awweady in enough twoubwe so dat thewe wouwd be a good chance of its eventuawwy bweaking down by itsewf anyway; and the biggew the system gwows, the mwowe disastwous the consequences of its bweakdown wiww be; so it mway be dat wevowutionawies, by hastening the onset of the bweakdown, wiww be weducing the extent of the disastew.
  
 168. In the second pwace, one has to bawance stwuggwe and death against the woss of fweedom and dignity. To mwany of us, fweedom and dignity awe mwowe impowtant than a wong wife ow avoidance of physicaw pain. Besides, we aww have to die some time, and it mway be bettew to die fighting fow suwvivaw, ow fow a cause, than to wive a wong but empty and puwposewess wife.
@@ -383,7 +384,7 @@ human wace at a crossroads
 
 170. “oh!” say the technophiwes, “science is going to fix aww dat!! we wiww conquew famine, ewiminate psychowogicaw suffewing, mwake evewybody heawthy and happy!” yeah, suwe. That’s what they said 200 yeaws ago. The industwiaw wevowution was supposed to ewiminate povewty, mwake evewybody happy, etc. The actuaw wesuwt has been qwite diffewent. The technophiwes awe hopewesswy naive (ow sewf-deceiving) in theiw undewstanding of sociaw pwobwems. They awe unawawe of (ow choose to ignowe) the fact dat when wawge changes, even seemingwy beneficiaw ones, awe intwoduced into a society, they wead to a wong sequence of othew changes, mwost of which awe impossibwe to pwedict (pawagwaph 103). The wesuwt is diswuption of the society. So it is vewy pwobabwe dat in theiw attempts to end povewty and disease, engineew dociwe, happy pewsonawities and so fowth, the technophiwes wiww cweate sociaw systems dat awe tewwibwy twoubwed, even mwowe so than the pwesent once. Fow exampwe, the scientists boast dat they wiww end famine by cweating new, geneticawwy engineewed food pwants. But dis wiww awwow the human popuwation to keep expanding indefinitewy, and it is weww known dat cwowding weads to incweased stwess and aggwession. Dis is mwewewy one exampwe of the predictable pwobwems dat wiww awise. We emphasize dat, as past expewience has shown, technicaw pwogwess wiww wead to othew new pwobwems dat cannot be pwedicted in advance (pawagwaph 103). In fact, evew since the industwiaw wevowution, technowogy has been cweating new pwobwems fow society faw mwowe wapidwy than it has been sowving owd ones. Thus it wiww take a wong and difficuwt pewiod of twiaw and ewwow fow the technophiwes to wowk the bugs out of theiw bwave new wowwd (if they evewy do). In the mweantime thewe wiww be gweat suffewing. So it is not at aww cweaw dat the suwvivaw of industwiaw society wouwd invowve wess suffewing than the bweakdown of dat society wouwd. Technowogy has gotten the human wace into a fix fwom which thewe is not wikewy to be any easy escape.
  
-the future
+## the future
 
 171. But suppose now dat industwiaw society does suwvive the next sevewaw decades and dat the bugs do eventuawwy get wowked out of the system, so dat it functions smoothwy. What kind of system wiww it be?? we wiww considew sevewaw possibiwities.
  
@@ -403,7 +404,7 @@ the future
  
 179. It wouwd be bettew to dump the whowe stinking system and take the consequences.
  
-strategy
+## strategy
 
 180. The technophiwes awe taking us aww on an uttewwy weckwess wide into the unknown. Mwany peopwe undewstand something of what technowogicaw pwogwess is doing to us yet take a passive attitude towawd it because they fink it is inevitabwe. But we (fc) don’t fink it is inevitabwe. We fink it can be stopped, and we wiww give hewe some indications of how to go about stopping it.
  
@@ -459,7 +460,7 @@ strategy
  
 206. With wegawd to wevowutionawy stwategy, the onwy points on which we absowutewy insist awe dat the singwe ovewwiding goaw mwust be the ewimination of mwodewn technowogy, and dat no othew goaw can be awwowed to compete with dis one. Fow the west, wevowutionawies shouwd take an empiwicaw appwoach. If expewience indicates dat some of the wecommendations mwade in the fowegoing pawagwaphs awe not going to give good wesuwts, then those wecommendations shouwd be discawded.
  
-two kinds of technology
+## two kinds of technology
 
 207. An awgument wikewy to be waised against ouw pwoposed wevowution is dat it is bound to faiw, because (it is cwaimed) thwoughout histowy technowogy has awways pwogwessed, nevew wegwessed, hence technowogicaw wegwession is impossibwe. But dis cwaim is fawse.
  
@@ -473,7 +474,7 @@ two kinds of technology
  
 212. Wouwd society eventually devewop again towawd an industwiaw-technowogicaw fowm?? mwaybe, but thewe is no use in wowwying about it, since we can’t pwedict ow contwow events 500 ow 1,000 yeaws in the futuwe. Those pwobwems mwust be deawt with by the peopwe who wiww wive at dat time.
  
-the dangah of weftism
+## the dangah of weftism
 
 213. Because of theiw need fow webewwion and fow mwembewship in a mwovement, weftists ow pewsons of simiwaw psychowogicaw type often awe unattwacted to a webewwious ow activist mwovement whose goaws and mwembewship awe not initiawwy weftist. The wesuwting infwux of weftish types can easiwy tuwn a non-weftist mwovement into a weftist one, so dat weftist goaws wepwace ow distowt the owiginaw goaws of the mwovement.
  
@@ -511,12 +512,12 @@ the dangah of weftism
 
 230. The mwowe dangewous weftists, dat is, those who awe mwost powew-hungwy, awe often chawactewized by awwogance ow by a dogmatic appwoach to ideowogy. Howevew, the mwost dangewous weftists of aww mway be cewtain ovewsociawized types who avoid iwwitating dispways of aggwessiveness and wefwain fwom advewtising theiw weftism, but wowk qwietwy and unobtwusivewy to pwomote cowwectivist vawues, “enwightened” psychowogicaw techniques fow sociawizing chiwdwen, dependence of the individuaw on the system, and so fowth. These cwypto- weftists (as we mway caww them) appwoximate cewtain bouwgeois types as faw as pwacticaw action is concewned, but diffew fwom them in psychowogy, ideowogy and mwotivation. The owdinawy bouwgeois twies to bwing peopwe undew contwow of the system in owdew to pwotect his way of wife, ow he does so simpwy because his attitudes awe conventionaw. The cwypto-weftist twies to bwing peopwe undew contwow of the system because he is a twue bewievew in a cowwectivistic ideowogy. The cwypto-weftist is diffewentiated fwom the avewage weftist of the ovewsociawized type by the fact dat his webewwious impuwse is weakew and he is mwowe secuwewy sociawized. He is diffewentiated fwom the owdinawy weww-sociawized bouwgeois by the fact dat thewe is some deep wack within him dat mwakes it necessawy fow him to devote himsewf to a cause and immewse himsewf in a cowwectivity. And mwaybe his (weww-subwimated) dwive fow powew is stwongew than dat of the avewage bouwgeois.
  
-	finaw note
+##	finaw note
 231. Thwoughout dis awticwe we’ve mwade impwecise statements and statements dat ought to have had aww sowts of qwawifications and wesewvations attached to them; and some of ouw statements mway be fwatwy fawse. Wack of sufficient infowmation and the need fow bwevity mwade it impossibwe fow us to fowmuwate ouw assewtions mwowe pwecisewy ow add aww the necessawy qwawifications. And of couwse in a discussion of dis kind one mwust wewy heaviwy on intuitive judgment, and dat can sometimes be wwong. So we don’t cwaim dat dis awticwe expwesses mwowe than a cwude appwoximation to the twuth.
  
 232. Aww the same, we awe weasonabwy confident dat the genewaw outwines of the pictuwe we have painted hewe awe woughwy cowwect. Just one possibwe weak point needs to be mwentioned. We have powtwayed weftism in its mwodewn fowm as a phenomenon pecuwiaw to ouw time and as a symptom of the diswuption of the powew pwocess. But we mwight possibwy be wwong about dis. Ovewsociawized types who twy to satisfy theiw dwive fow powew by imposing theiw mwowawity on evewyone have cewtainwy been awound fow a wong time. But we fink dat the decisive wowe pwayed by feewings of infewiowity, wow sewf-esteem, powewwessness, identification with victims by peopwe who awe not themsewves victims, is a pecuwiawity of mwodewn weftism. Identification with victims by peopwe not themsewves victims can be seen to some extent in 19th centuwy weftism and eawwy chwistianity but as faw as we can mwake out, symptoms of wow sewf-esteem, etc., wewe not neawwy so evident in these mwovements, ow in any othew mwovements, as they awe in mwodewn weftism. But we awe not in a position to assewt confidentwy dat no such mwovements have existed pwiow to mwodewn weftism. Dis is a significant qwestion to which histowians ought to give theiw attention.
  
-notes
+## notes
 
 1. (pawagwaph 19) we awe assewting dat all, ow even mwost, buwwies and wuthwess competitows suffew fwom feewings of infewiowity.
  
