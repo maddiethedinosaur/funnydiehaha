@@ -2,7 +2,7 @@
 1. I am for the party, but do not believe any existing organization is the party nor its sole nuclei.
 2. The party must be international, and centralised to act as the brain of the class.
 3. The party doesn't head the state, but it is part of the proletarian dictatorship, as are all other revolutionary forms of proletarian organization, such as the Soviets.
-4. The party spreads the revolutionary programme to the class and intervenes within class struggles.
+4. The party spreads the revolutionary programme to the class by interving within class struggles.
 5. The party leads the class during a revolution.
 
 # Communist Society
