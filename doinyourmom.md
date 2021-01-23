@@ -1,37 +1,24 @@
 # The Party
-1. I am for the party, but do not believe any existing organization is the party nor its sole nuclei.
-2. The party must be international, and centralised to act as the brain of the class.
-3. The party doesn't head the state, but it is part of the proletarian dictatorship, as are all other revolutionary forms of proletarian organization, such as the Soviets.
-4. The party spreads the revolutionary programme to the class by interving within class struggles.
-5. The party leads the class during a revolution.
+1. The ICL is for the party, but does not believe any existing organization is the party nor its sole nuclei.
+2. The party must be international and centralised.
+3. The party spreads the revolutionary programme in the class by interving within class struggles.
+4. The party leads the class during the revolution.
 
 # Communist Society
-1. Communist society has no borders. 
-2. Communist society has no class. 
-3. Communist society has no money. 
-4. Communist society has no commodity production. 
-5. Communist society has no police. 
-6. Communist society has no armies. 
-7. Communist society has no state. 
-8. Communist society has no scarcity. 
-9. Communist society has no religion. 
-10. Communist society has no family. 
-11. Communist society has no prisons. 
-12. Communist society has no schools. 
-13. Communist society has no exchange. 
-14. Communist society has no wage labour.
-15. Communist society has no work.
-16. In the lower phase of communist society, distribution is based upon contribution. Under higher phase communism, distribution is based on need. 
+1. Communist society has no borders, class, money, commodity production, police, armies, state, scarcity, family, prisons, schools, exchange, wage labour, or work.
+2. In the lower phase of communist society, distribution is based upon contribution.
+3. Under higher phase communism, distribution is based on need. 
 
 # Proletarian Dictatorship
-1. The proletarian dictatorship is not a defence of nations like China, Vietnam, Cuba, North Korea, etc. On the contrary, the proletarian dictatorship will have to be established in those countries via a working-class revolution.
-2. Police and the standing army do not exist during the proletarian dictatorship, as police are a tool of the bourgeois and standing armies usually lead to bureaucratization.
+1. The proletarian dictatorship is organized via soviets on various levels. The soviets are organizations of delegates from the whole working class of a specific region, on the lowest level belonging to a town.
+2. The proletarian dictatorship is not a defence of nations like China, Vietnam, Cuba, North Korea, etc. On the contrary, the proletarian dictatorship will have to be established in those countries via a working-class revolution.
+3. Police and the standing army do not exist during the proletarian dictatorship, as police are a tool of the bourgeois and standing armies usually lead to bureaucratization.
 
-1. My views of the world are those of Marx’s Scientific Socialism.
-2. I see communism as the only viable solution for the survival of humanity.
-3. I believe an international revolution led by the vanguard party is the only way to establish the proletarian dictatorship via the soviets for the establishment of communist society.
+# Humanity
+1. The ICL views communism as the only viable solution for the survival of the human species.
 
-5. I do not believe the soviets are organizations of workers from a specific factory, nor are they organizations of workers of a specific trade. On the contrary, they are organizations of delegates from the whole proletariat of a specific region, on the lowest level belonging to a town.
+# Revolution
+1. The ICL believes in the neccesity of a international revolution led by the vanguard party as the only way to establish the proletarian dictatorship.
 
 1. I do not advocate communism because it will create “equality.” I advocate for communism because we believe it is the emancipation of humanity, and will lead to the material human community and a new era of human freedom and development.
 2. I believe the internationals of “Social-Democracy”, “Trotskyism” and “Marxism-Leninism” are the internationals of betrayal and the "communist" and "socialist" parties are bourgeois.
@@ -46,5 +33,3 @@
 11. I do not believe Marxism is a “historically invariant” theory. Marxism is a fluid and changing doctrine, and is not set in stone. Support for a “historically invariant” Marxism is an abandonment of Marxist historical materialism.
 12. I am opposed to civilization as I believe it alienates people from the environment, leads to the division of labour, leads to class society and is inherently exploitative.
 13. I do not support giving the central committee of the party the responsibility of developing theory by itself, isolated from the rest of the party as I believe this is a recipe for half-baked theory and disaster.
-# Philosophy
-1. 
