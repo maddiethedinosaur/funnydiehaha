@@ -21,11 +21,19 @@
 1. The ICL believes in the neccesity of a international revolution led by the vanguard party as the only way to establish the proletarian dictatorship.
 
 1. I do not advocate communism because it will create “equality.” I advocate for communism because we believe it is the emancipation of humanity, and will lead to the material human community and a new era of human freedom and development.
-2. I believe the internationals of “Social-Democracy”, “Trotskyism” and “Marxism-Leninism” are the internationals of betrayal and the "communist" and "socialist" parties are bourgeois.
-3. I see all unions, whether “rank-and-file”, “industrial” or “trade” as tools of the capitalist class to either keep consciousness low and fuck over workers or act as cul-de-sacs of any potential revolutionary action. I am for revolutionary organization completely outside and against the unions, although I believe that communists should work inside the unions to spread our programme, as unions have some of the highest concentrations of workers in some countries.
-4. I am against collaboration with bourgeois and pseudo-proletarian parties and as such oppose the united front, which is a front opposed to the best interests of the class.
-5. I oppose both fascism and anti-fascism. Historically anti-fascism has been used by Roosevelt, Churchill, Stalin and De Gaulle to justify mass slaughter of the proletariat and has been used as a cul-de-sac for revolutionary consciousness by the bourgeoisie.
-6. I reject all “national liberation” ideologies as bourgeois, as the proletariat itself must revolt across the globe to establish a proletarian dictatorship, instead of the whole of the “colonized peoples” revolting and establishing a new bourgeois dictatorship.
+# The United Front
+1. The ICL recongizes the internationals of “Social-Democracy”, “Trotskyism” and “Marxism-Leninism” as the internationals of betrayal and the "communist" and "socialist" parties as bourgeois.
+2. The ICL is against collaboration with bourgeois and pseudo-proletarian parties and as such oppose the united front, which is a front opposed to the best interests of the class.
+3. The ICL opposes both fascism and anti-fascism. Historically anti-fascism has been used by Roosevelt, Churchill, Stalin and De Gaulle to justify mass slaughter of the proletariat and has been used as a way to distract the class from struggle.
+
+# Unions
+1. All unions, whether “rank-and-file”, “industrial” or “trade” are either tools of the capitalist class that must be fought or blunt instruments unable to affect the system in any way.
+2. The ICL is for proletarian organization completely outside and against the unions.
+3. The ICL believes that communists should work inside the unions to spread the revolutionary programme, although we should never merge with the union.
+
+# National Liberation
+1. The ICL does not support any “national liberation” movements or ideologies and views them as bourgeois.
+2. The proletariat itself must revolt across the globe to establish a proletarian dictatorship, instead of the whole of the “colonized/imperialized peoples” revolting and establishing a new bourgeois dictatorship.
 7. I see parliamentary politics as a bourgeois merry-go-round and advocate abstentionism in elections. Change does not come through the ballot box, but through workers’ taking action against the capitalist class.
 8. I am opposed to mandatory labour and believe that the division of labour (employment of people for a specific task) and employment itself (labour under communism is not paid, not because people work for nothing but because money no longer exists) should be done away with.
 9. I believe that the family unit only serves a purpose in capitalism and should be done away with in favour of free association.
