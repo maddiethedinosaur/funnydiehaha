@@ -16,11 +16,11 @@
 
 # Humanity
 1. The ICL views communism as the only viable solution for the survival of the human species.
+1. The ICL believes communism will lead to a new era of human freedom and development.
 
 # Revolution
 1. The ICL believes in the neccesity of a international revolution led by the vanguard party as the only way to establish the proletarian dictatorship.
 
-1. I do not advocate communism because it will create “equality.” I advocate for communism because we believe it is the emancipation of humanity, and will lead to the material human community and a new era of human freedom and development.
 # The United Front
 1. The ICL recongizes the internationals of “Social-Democracy”, “Trotskyism” and “Marxism-Leninism” as the internationals of betrayal and the "communist" and "socialist" parties as bourgeois.
 2. The ICL is against collaboration with bourgeois and pseudo-proletarian parties and as such oppose the united front, which is a front opposed to the best interests of the class.
@@ -33,11 +33,17 @@
 
 # National Liberation
 1. The ICL does not support any “national liberation” movements or ideologies and views them as bourgeois.
-2. The proletariat itself must revolt across the globe to establish a proletarian dictatorship, instead of the whole of the “colonized/imperialized peoples” revolting and establishing a new bourgeois dictatorship.
-7. I see parliamentary politics as a bourgeois merry-go-round and advocate abstentionism in elections. Change does not come through the ballot box, but through workers’ taking action against the capitalist class.
-8. I am opposed to mandatory labour and believe that the division of labour (employment of people for a specific task) and employment itself (labour under communism is not paid, not because people work for nothing but because money no longer exists) should be done away with.
-9. I believe that the family unit only serves a purpose in capitalism and should be done away with in favour of free association.
+2. The proletariat itself must revolt across the globe to establish a global proletarian dictatorship, instead of the whole of the “colonized/imperialized peoples” revolting and establishing a new bourgeois dictatorship.
 
-11. I do not believe Marxism is a “historically invariant” theory. Marxism is a fluid and changing doctrine, and is not set in stone. Support for a “historically invariant” Marxism is an abandonment of Marxist historical materialism.
-12. I am opposed to civilization as I believe it alienates people from the environment, leads to the division of labour, leads to class society and is inherently exploitative.
-13. I do not support giving the central committee of the party the responsibility of developing theory by itself, isolated from the rest of the party as I believe this is a recipe for half-baked theory and disaster.
+# Parliament
+1. The ICL sees parliamentary politics as a bourgeois merry-go-round and advocate abstentionism in elections. Change does not come through the ballot box, but through proletarians taking action against the capitalist class.
+2. The ICL chooses to not intervene in elections, but does intervene in class struggle.
+
+# Work
+1. The ICL stands opposed to mandatory labour and supports the abolition of the division of labour.
+
+# Family
+1. The family is a social, legal, and financial unit represented as relatives expected to follow biological lines of descent.
+2. The ICL supports the abolition of the family unit.
+3. The family only serves a purpose in capitalist society.
+4. The family will be replaced by free association and communal methods of raising children.
