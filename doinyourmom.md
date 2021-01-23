@@ -1,3 +1,8 @@
+# "Actually Existing Socialism"
+1. "Actually existing socialism" is a bourgeois lie.
+2. No country that calls itself socialist is or was.
+3. These supposedly "socialist" states failed either due to being nationalist revolutions or isolation to one country.
+
 # Communist Society
 1. Communist society has no borders, class, money, commodity production, police, armies, state, scarcity, family, prisons, schools, exchange, wage labour, or work.
 2. In the lower phase of communist society, distribution is based upon contribution.
@@ -48,3 +53,8 @@
 
 # Work
 1. The ICL stands opposed to mandatory labour and supports the abolition of the division of labour.
+
+# War
+1. The ICL is unconditionally anti-war.
+2. It does not support either side in capitalist conflicts
+3. The ICL supports proletarian uprising against both sides in wars.
