@@ -27,5 +27,6 @@
 1968: Notes on Democratic Centralism [Cliff]
 1993: Against Democracy [Wildcat]
 2004: Platform of the ICC [International Communist Current]
+2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme [Internationalist Communist Tendency]
 2009: Capitalist Realism: Is There No Alternative? [Fisher]
 2020: Platform of the ICT [Internationalist Communist Tendency]
