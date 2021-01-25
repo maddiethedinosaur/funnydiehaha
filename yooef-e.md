@@ -1,3 +1,5 @@
-12 (matt the marxist-humanist): you're pretty chill ig
+12 (matt the marxist-humanist): you're pretty chill ig.
 
-5 (sammy): cute and very kind
+5 (sammy): cute and very kind.
+
+6 (blumbo): you are pretty based.
