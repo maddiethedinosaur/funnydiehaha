@@ -6,7 +6,7 @@
 
 3 (rosa luxemburg stan): you simp for luxemburg.
 
-16 (strider): i don't know.
+16 (strider): i like barely interact with you so idk.
 
 0 (sinistra): poggers person and cute. you like a lot of my tweets too.
 
