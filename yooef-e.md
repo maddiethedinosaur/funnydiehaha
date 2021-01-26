@@ -11,3 +11,7 @@
 0 (sinistra): poggers person and cute. you like a lot of my tweets too.
 
 23 (crab): you're pretty chill and funny. we should play roblox sometime.
+
+7 (red): cool person and good friend of mine.
+
+194 (katsuragi system): you seem pretty nice.
