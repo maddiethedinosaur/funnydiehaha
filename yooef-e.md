@@ -8,5 +8,5 @@
 
 16 (strider): i don't know.
 
-0 (sinistra): poggers person and cute. you like a lot of my tweets too
+0 (sinistra): poggers person and cute. you like a lot of my tweets too.
 
