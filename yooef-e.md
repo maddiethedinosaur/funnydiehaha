@@ -14,4 +14,4 @@
 
 7 (red): cool person and good friend of mine.
 
-194 (katsuragi system): you seem pretty nice.
+194 (katsuragi system): you're pretty nice.
