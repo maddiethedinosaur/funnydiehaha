@@ -10,4 +10,4 @@
 
 0 (sinistra): poggers person and cute. you like a lot of my tweets too.
 
-23 (crab): you're pretty chill and funny, we should play roblox sometime.
+23 (crab): you're pretty chill and funny. we should play roblox sometime.
