@@ -15,3 +15,5 @@
 7 (red): cool person and good friend of mine.
 
 194 (katsuragi system): you're pretty nice.
+
+1917 (max): idk lol.
