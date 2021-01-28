@@ -1,16 +1,15 @@
 # ★ Maddie's Reading List ★
-![Logo of the International Communist Current](image.png)
+![A Logo of the Pacific Northwest Communists](left-communist.png)
 
 ## Table of Contents
 
-- [Marxist Internet Archive's "Short List for Beginners"](#paste-your-document-in-here)
-* [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archive-s--short-list-for-beginners--)
-* [Lenin](#lenin-)
-* [Bordiga](#bordiga-)
-* [Damen](#damen-)
-* [Internationalist Communist Tendency](#internationalist-communist-tendency-)
-* [International Communist Current](#international-communist-current-)
-* [Single Works](#single-works-)
+1. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archive-s--short-list-for-beginners--)
+2. [Lenin](#lenin-)
+3. [Bordiga](#bordiga-)
+4. [Damen](#damen-)
+5. [Internationalist Communist Tendency](#internationalist-communist-tendency-)
+6. [International Communist Current](#international-communist-current-)
+7. [Single Works](#single-works-)
 
 ## Marxist Internet Archive's "Short List for Beginners":
 
