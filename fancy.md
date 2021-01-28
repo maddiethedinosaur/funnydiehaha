@@ -1,4 +1,4 @@
-# ★ Maddie's Reading List ★
+# ★☭★ Maddie's Marxist Theory Reading List ★☭★
 ![A Logo of the Pacific Northwest Communists](left-communist.png)
 
 ## Table of Contents
