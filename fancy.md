@@ -1,10 +1,3 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 # ★ Maddie's Reading List ★
 <img src="left-communist.png" alt="A Logo of the Pacific Northwest Communists" class="center">
 
