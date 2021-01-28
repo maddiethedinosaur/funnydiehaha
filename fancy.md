@@ -34,7 +34,7 @@
 * 1918: State and Revolution
 
 ## Bordiga:
-![Amadeo Bordiga]("Amadeo Bordiga.png")
+![Amadeo Bordiga](AmadeoBordiga.png)
 
 * 1919: The System of Communist Representation
 * 1921: Party and Class
@@ -45,7 +45,7 @@
 * 1957: Fundamentals of Revolutionary Communism
 
 ## Damen:
-![Onorato Damen]("Onorato Damen.jpg")
+![Onorato Damen](OnoratoDamen.jpg)
 
 * 1946: Bourgeois Violence and Proletarian Defence
 * 1951: Centralized Party? Yes. Centralism over the Party? No!
@@ -53,21 +53,21 @@
 * 1952: Five Letters and an Outline of the Disagreement
 
 ## Internationalist Communist Tendency:
-![Internationalist Communist Party Logo]("Battaglia Communista Logo.png")
+![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
 * 2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme
 * 2019: For Communism
 * 2020: Platform of the Internationalist Communist Tendency
 
 ## International Communist Current:
-![International Communist Current Logo]("ICC Logo.png")
+![International Communist Current Logo](ICCLogo.png)
 
 * 2004: Platform of the International Communist Current
 * 2005: The Communist-Left and the Continuity of Marxism
 * 2005: Perspective of Communism
 
 ## Single Works:
-![A Situationist Artwork Named "Situationist Detournement"]("Situationist Detournement.png")
+![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
 
 * 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
 * 1934: Anti-Fascism: Formula for Confusion by Bilan
