@@ -13,17 +13,17 @@
 
 ## Marxist Internet Archive's "Short List for Beginners":
 
-* 1845: Theses on Feuerbach [read]
-* 1849: Wage-Labor and Capital
-* 1846: The German Ideology
-* 1847: Principles of Communism
-* 1848: The Communist Manifesto
-* 1859: A Contribution to the Critique of Political Economy (Preface)
-* 1867: Capital (Chapter One)
-* 1871: The Civil War in France
-* 1875: Critique of the Gotha Programme
-* 1880: Socialism: Utopian and Scientific
-* 1886: Ludwig Feuerbach and the End of Classical German Philosophy
+* 1845: Theses on Feuerbach by Karl Marx [I read this one already]
+* 1849: Wage-Labor and Capital by Karl Marx
+* 1846: The German Ideology by Karl Marx
+* 1847: Principles of Communism by Friedrich Engels
+* 1848: The Communist Manifesto by Karl Marx
+* 1859: A Contribution to the Critique of Political Economy (Preface) by Karl Marx
+* 1867: Capital (Chapter One) by Karl Marx
+* 1871: The Civil War in France by Karl Marx
+* 1875: Critique of the Gotha Programme by Karl Marx
+* 1880: Socialism: Utopian and Scientific by Friedrich Engels
+* 1886: Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
 
 ## Lenin:
 
@@ -62,10 +62,10 @@
 
 ## Single Works:
 
-* 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World [Communist Workers' Party of Germany]
-* 1934: Anti-Fascism: Formula for Confusion [Bilan]
-* 1936: Trade Unionism [Anton Pannekoek]
-* 1967: The Society of the Spectacle [Guy Debord]
-* 1968: Notes on Democratic Centralism [Tony Cliff]
-* 1993: Against Democracy [Wildcat]
-* 2009: Capitalist Realism: Is There No Alternative? [Mark Fisher]
+* 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
+* 1934: Anti-Fascism: Formula for Confusion by Bilan
+* 1936: Trade Unionism by Anton Pannekoek
+* 1967: The Society of the Spectacle by Guy Debord
+* 1968: Notes on Democratic Centralism by Tony Cliff
+* 1993: Against Democracy by Wildcat
+* 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
