@@ -1,5 +1,5 @@
 # ★ Maddie's Reading List ★
-<img src="left-communist.png" alt="A Logo of the Pacific Northwest Communists" class="center">
+![A Logo of the Pacific Northwest Communists](left-communist.png)
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
 7. [Single Works](#single-works-)
 
 ## Marxist Internet Archive's "Short List for Beginners":
+![Karl Marx and Friedrich Engels](mengels.png)
 
 * 1845: Theses on Feuerbach by Karl Marx [I read this one already]
 * 1849: Wage-Labor and Capital by Karl Marx
@@ -26,12 +27,14 @@
 * 1886: Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
 
 ## Lenin:
+![Vladimir Lenin](image.png)
 
 * 1902: What Is To Be Done?
 * 1917: Imperialism: The Highest Stage of Capitalism
 * 1918: State and Revolution
 
 ## Bordiga:
+![Amadeo Bordiga](mengels.png)
 
 * 1919: The System of Communist Representation
 * 1921: Party and Class
@@ -42,6 +45,7 @@
 * 1957: Fundamentals of Revolutionary Communism
 
 ## Damen:
+![Onorato Damen](mengels.png)
 
 * 1946: Bourgeois Violence and Proletarian Defence
 * 1951: Centralized Party? Yes. Centralism over the Party? No!
