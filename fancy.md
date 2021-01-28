@@ -1,5 +1,12 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 # ★ Maddie's Reading List ★
-![A Logo of the Pacific Northwest Communists](left-communist.png)
+<img src="left-communist.png" alt="A Logo of the Pacific Northwest Communists" class="center">
 
 ## Table of Contents
 
