@@ -9,8 +9,6 @@ Once upon a time a valiant fellow had the idea that men were drowned in water on
 ### Feuerbach: Opposition of the Materialist and Idealist Outlooks
 
 #### A. Idealism and Materialism
- 
-
 ##### The Illusions of German Ideology
 As we hear from German ideologists, Germany has in the last few years gone through an unparalleled revolution. The decomposition of the Hegelian philosophy, which began with Strauss, has developed into a universal ferment into which all the “powers of the past” are swept. In the general chaos mighty empires have arisen only to meet with immediate doom, heroes have emerged momentarily only to be hurled back into obscurity by bolder and stronger rivals. It was a revolution beside which the French Revolution was child’s play, a world struggle beside which the struggles of the Diadochi [successors of Alexander the Great] appear insignificant. Principles ousted one another, heroes of the mind overthrew each other with unheard-of rapidity, and in the three years 1842-45 more of the past was swept away in Germany than at other times in three centuries.
 
@@ -112,3 +110,8 @@ In the main we have so far considered only one aspect of human activity, the res
 
 Origin of the state and the relation of the state to civil society. ...
 
+#### B. The Illusion of the Epoch
+##### Civil Society and the Conception of History
+The form of intercourse determined by the existing productive forces at all previous historical stages, and in its turn determining these, is civil society. The latter, as is clear from what we have said above, has as its premises and basis the simple family and the multiple, the so-called tribe, the more precise determinants of this society are enumerated in our remarks above. Already here we see how this civil society is the true source and theatre of all history, and how absurd is the conception of history held hitherto, which neglects the real relationships and confines itself to high-sounding dramas of princes and states.
+
+Civil society embraces the whole material intercourse of individuals within a definite stage of the development of productive forces. It embraces the whole commercial and industrial life of a given stage and, insofar, transcends the State and the nation, though, on the other hand again, it must assert itself in its foreign relations as nationality, and inwardly must organise itself as State. The word “civil society” [bürgerliche Gesellschaft] emerged in the eighteenth century, when property relationships had already extricated themselves from the ancient and medieval communal society. Civil society as such only develops with the bourgeoisie; the social organisation evolving directly out of production and commerce, which in all ages forms the basis of the State and of the rest of the idealistic superstructure, has, however, always been designated by the same name.
