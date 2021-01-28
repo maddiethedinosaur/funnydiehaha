@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archive-s--short-list-for-beginners-)
+1. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archive-s--short-list-for-beginners)
 2. [Lenin](#lenin)
 3. [Bordiga](#bordiga)
 4. [Damen](#damen)
