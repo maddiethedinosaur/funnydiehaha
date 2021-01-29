@@ -1,10 +1,5 @@
 # ★☭★ Maddie's Marxist Theory Reading List ★☭★
 ![A Logo of the Pacific Northwest Communists](left-communist.png)
-![A Random Left-Communist Flag I Have](left-communist2.png)
-![A Random Left-Communist Flag I Have](left-communist3.png)
-![A Random Left-Communist Flag I Have](left-communist4.png)
-![A Random Left-Communist Flag I Have](left-communist5.png)
-![International Symbol of Humanism](humanist.png)
 
 ## Table of Contents
 
@@ -16,6 +11,7 @@
 6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 7. [International Communist Current](#international-communist-current)
 8. [Single Works](#single-works)
+9. [Random Images](#random-images)
 
 ## Introduction
 
@@ -790,3 +786,12 @@ In Germany, finally, the decisive struggle now on the order of the day is that b
 * 1968: Notes on Democratic Centralism by Tony Cliff
 * 1993: Against Democracy by Wildcat
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
+
+## Random Images
+
+![A Logo of the Pacific Northwest Communists](left-communist.png)
+![A Random Left-Communist Flag I Have](left-communist2.png)
+![A Random Left-Communist Flag I Have](left-communist3.png)
+![A Random Left-Communist Flag I Have](left-communist4.png)
+![A Random Left-Communist Flag I Have](left-communist5.png)
+![International Symbol of Humanism](humanist.png)
