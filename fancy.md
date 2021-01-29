@@ -1,5 +1,10 @@
 # ★☭★ Maddie's Marxist Theory Reading List ★☭★
 ![A Logo of the Pacific Northwest Communists](left-communist.png)
+![A Random Left-Communist Flag I Have](left-communist2.png)
+![A Random Left-Communist Flag I Have](left-communist3.png)
+![A Random Left-Communist Flag I Have](left-communist4.png)
+![A Random Left-Communist Flag I Have](left-communist5.png)
+![International Symbol of Humanism](humanist.png)
 
 ## Table of Contents
 
