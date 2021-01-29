@@ -787,9 +787,19 @@ In Germany, finally, the decisive struggle now on the order of the day is that b
 * 1993: Against Democracy by Wildcat
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
 
-## Random Images
+## Random Images:
 
-![A Logo of the Pacific Northwest Communists](left-communist.png)
+![Nano Pacific Northwest Communists Logo](left-communist.png)
+![Black Pacific Northwest Communists Logo](black.svg)
+![Coloured Pacific Northwest Communists Logo](color.svg)
+![Transparent Coloured Pacific Northwest Communists Logo](color-transparency.svg)
+![Hammer and Sickle Pacific Northwest Communists Logo](hammersickle.svg)
+![Micro Pacific Northwest Communists Logo](micro.svg)
+![Mini Pacific Northwest Communists Logo](mini.svg)
+![Outline Pacific Northwest Communists Logo](outline.svg)
+![Red Pacific Northwest Communists Logo](red.svg)
+![Close Cut Red Pacific Northwest Communists Logo](redclosecut.svg)
+![White Pacific Northwest Communists Logo](white.svg)
 ![A Random Left-Communist Flag I Have](left-communist2.png)
 ![A Random Left-Communist Flag I Have](left-communist3.png)
 ![A Random Left-Communist Flag I Have](left-communist4.png)
