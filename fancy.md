@@ -3,13 +3,13 @@
 
 ## Table of Contents
 
-1. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archives-short-list-for-beginners)
-2. [Lenin](#lenin)
-3. [Bordiga](#bordiga)
-4. [Damen](#damen)
-5. [Internationalist Communist Tendency](#internationalist-communist-tendency)
-6. [International Communist Current](#international-communist-current)
-7. [Single Works](#single-works)
+2. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archives-short-list-for-beginners)
+3. [Lenin](#lenin)
+4. [Bordiga](#bordiga)
+5. [Damen](#damen)
+6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
+7. [International Communist Current](#international-communist-current)
+8. [Single Works](#single-works)
 
 ## Marxist Internet Archive's "Short List for Beginners":
 ![Karl Marx and Friedrich Engels](mengels.png)
