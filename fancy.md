@@ -11,7 +11,7 @@
 6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 7. [International Communist Current](#international-communist-current)
 8. [Single Works](#single-works)
-9. [Random Images](#random-images)
+9. [Images](#images)
 
 ## Introduction
 
@@ -787,7 +787,9 @@ In Germany, finally, the decisive struggle now on the order of the day is that b
 * 1993: Against Democracy by Wildcat
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
 
-## Random Images:
+## Images:
+
+### Left-Communist
 
 ![Nano Pacific Northwest Communists Logo](left-communist.png)
 ![Black Pacific Northwest Communists Logo](black.svg)
@@ -804,4 +806,9 @@ In Germany, finally, the decisive struggle now on the order of the day is that b
 ![A Random Left-Communist Flag I Have](left-communist3.png)
 ![A Random Left-Communist Flag I Have](left-communist4.png)
 ![A Random Left-Communist Flag I Have](left-communist5.png)
+![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
+![International Communist Current Logo](ICCLogo.png)
+
+### Humanist
+
 ![International Symbol of Humanism](humanist.png)
