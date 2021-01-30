@@ -14,6 +14,7 @@
 
 ## Outfit E:
 ![Outfit E](outfit_e.png)
+
 ## Outfit F:
 ![Outfit F](outfit_f.png)
 
@@ -21,3 +22,6 @@
 
 ## Outfit G:
 ![Outfit G](outfit_g.png)
+
+## Outfit H
+![Outfit H](outfit_h.png)
