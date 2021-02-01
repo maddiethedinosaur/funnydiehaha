@@ -33,7 +33,6 @@
 ## Lenin:
 ![Vladimir Lenin](image.png)
 
-* 1902: What Is To Be Done?
 * 1917: Imperialism: The Highest Stage of Capitalism
 * 1918: State and Revolution
 
