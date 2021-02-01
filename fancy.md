@@ -46,6 +46,7 @@
 * 1926: The Lyons Theses
 * 1952: Activism
 * 1952: Dialogue with Stalin
+* 1952: The Human Species and the Earth's Crust
 * 1957: Fundamentals of Revolutionary Communism
 
 ## Damen:
