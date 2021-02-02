@@ -69,6 +69,7 @@
 * 2004: Platform of the International Communist Current
 * 2005: The Communist-Left and the Continuity of Marxism
 * 2005: Perspective of Communism
+* 2016: The Party Question
 
 ## Single Works:
 ![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
