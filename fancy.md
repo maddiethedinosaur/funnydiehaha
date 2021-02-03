@@ -87,7 +87,7 @@ Read this Lenin work [here.](./left-wing-communism-infantile-disorder.pdf)
 Read this Luxemburg work [here.](./imperialism.pdf)
 * 1915: The Junius Pamphlet
 
-Read this Luxemburg work [here.](./state-and-revolution.pdf)
+Read this Luxemburg work [here.](./junius-pamphlet.pdf)
 
 ## Bordiga:
 ![Amadeo Bordiga](AmadeoBordiga.png)
