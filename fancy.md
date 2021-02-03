@@ -4,7 +4,7 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Marxist Internet Archive's "Short List for Beginners"](#marxist-internet-archives-short-list-for-beginners)
+2. [Marx and Engels](#marx-and-engels)
 3. [Lenin](#lenin)
 4. [Bordiga](#bordiga)
 5. [Damen](#damen)
@@ -15,12 +15,13 @@
 
 ## Introduction
 
-## Marxist Internet Archive's "Short List for Beginners":
+## Marx and Engels:
 ![Karl Marx and Friedrich Engels](mengels.png)
 
 * 1845: Theses on Feuerbach by Karl Marx
 * 1849: Wage-Labor and Capital by Karl Marx
 * 1846: The German Ideology by Karl Marx
+* 1844: Paris Manuscripts by Karl Marx
 * 1847: Principles of Communism by Friedrich Engels
 * 1848: The Communist Manifesto by Karl Marx
 * 1859: A Contribution to the Critique of Political Economy (Preface) by Karl Marx
