@@ -56,12 +56,15 @@ Read this Engels work [here.](./imperialism.pdf)
 ## Other Marx and Engels:
 ![Marx and Engels](Marx-Engels.jpg)
 
-* 1844: Paris Manuscripts by Karl Marx
-
-Read this Marx work [here.](./paris-manuscripts.pdf)
 * 1844: Origin of the Family, Private Property, and the State by Friedrich Engels
 
 Read this Engels work [here.](./origin-of-the-family.pdf)
+* 1844: Paris Manuscripts by Karl Marx
+
+Read this Marx work [here.](./paris-manuscripts.pdf)
+* 1872: On Authority by Friedrich Engels
+
+Read this Engels work [here.](./on-authority.pdf
 
 ## Lenin:
 ![Vladimir Lenin](image.png)
