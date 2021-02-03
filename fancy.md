@@ -55,7 +55,7 @@ Read this Bordiga work [here.](./democratic-principle.pdf)
 * 1926: The Lyons Theses
 
 Read this Bordiga work [here.](./lyons-theses.pdf)
-* Doctrine of the Body Possessed by the Devil
+* 1951: Doctrine of the Body Possessed by the Devil
 
 Read this Bordiga work [here.](./doctrine-of-the-body-possessed-by-the-devil.pdf)
 * 1952: Activism
