@@ -55,6 +55,9 @@ Read this Bordiga work [here.](./democratic-principle.pdf)
 * 1926: The Lyons Theses
 
 Read this Bordiga work [here.](./lyons-theses.pdf)
+* Doctrine of the Body Possessed by the Devil
+
+Read this Bordiga work [here.](./doctrine-of-the-body-possessed-by-the-devil.pdf)
 * 1952: Activism
 
 Read this Bordiga work [here.](./activism.pdf)
@@ -64,6 +67,9 @@ Read this Bordiga work [here.](./dialogue-with-stalin.pdf)
 * 1952: The Human Species and the Earth's Crust
 
 Read this Bordiga work [here.](./human-species-and-the-earths-crust.pdf)
+* 1953: The Spirit of Horsepower
+
+Read this Bordiga work [here.](./spirit-of-horsepower.pdf)
 * 1957: Fundamentals of Revolutionary Communism
 
 Read this Bordiga work [here.](./fundamentals-of-revolutionary-communism.pdf)
@@ -86,6 +92,9 @@ Read this Damen work [here.](./five-letters-and-an-outline-of-disagreement.pdf)
 * 1970: Amadeo Bordiga – Beyond the Myth and the Rhetoric
 
 Read this Damen work [here.](./bordiga-beyond-the-myth.pdf)
+* 1972: You Can't Build the Party Playing with Paradoxes
+
+Read this Damen work [here.](./you-can't-build-the-party-playing-with-paradoxes.pdf)
 
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
