@@ -54,6 +54,7 @@ Read this Engels work [here.](./imperialism.pdf)
 Read this Engels work [here.](./imperialism.pdf)
 
 ## Other Marx and Engels:
+![Marx and Engels](Marx-Engels.jpg)
 
 * 1844: Paris Manuscripts by Karl Marx
 
@@ -74,6 +75,16 @@ Read this Lenin work [here.](./state-and-revolution.pdf)
 * 1920: "Left-Wing" Communism: an Infantile Disorder
 
 Read this Lenin work [here.](./left-wing-communism-infantile-disorder.pdf)
+
+## Luxemburg
+![Rosa Luxemburg](luxemburg.jpg)
+
+* 1909: The National Question
+
+Read this Luxemburg work [here.](./imperialism.pdf)
+* 1915: The Junius Pamphlet
+
+Read this Luxemburg work [here.](./state-and-revolution.pdf)
 
 ## Bordiga:
 ![Amadeo Bordiga](AmadeoBordiga.png)
