@@ -34,62 +34,88 @@
 ![Vladimir Lenin](image.png)
 
 * 1917: Imperialism: The Highest Stage of Capitalism
+Read this Lenin work [here](./imperialism.pdf)
 * 1918: State and Revolution
+Read this Lenin work [here](./state-and-revolution.pdf)
 
 ## Bordiga:
 ![Amadeo Bordiga](AmadeoBordiga.png)
 
 * 1919: The System of Communist Representation
+Read this Bordiga work [here](./system-of-communist-representation.pdf)
 * 1921: Party and Class
+Read this Bordiga work [here](./party-and-class.pdf)
 * 1922: The Democratic Principle
+Read this Bordiga work [here](./democratic-principle.pdf)
 * 1926: The Lyons Theses
+Read this Bordiga work [here](./lyons-theses.pdf)
 * 1952: Activism
+Read this Bordiga work [here](./activism.pdf)
 * 1952: Dialogue with Stalin
+Read this Bordiga work [here](./dialogue-with-stalin.pdf)
 * 1952: The Human Species and the Earth's Crust
+Read this Bordiga work [here](./human-species-and-the-earths-crust.pdf)
 * 1957: Fundamentals of Revolutionary Communism
+Read this Bordiga work [here](./fundamentals-of-revolutionary-communism.pdf)
 
 ## Damen:
 ![Onorato Damen](OnoratoDamen.jpg)
 
 * 1946: Bourgeois Violence and Proletarian Defence
+Read this Damen work [here](./bourgeois-violence.pdf)
 * 1951: Centralized Party? Yes. Centralism over the Party? No!
+Read this Damen work [here](./centralized-party.pdf)
 * 1952: Points of Disagreement with the 1952 "Platform" Drafted by Bordiga
+Read this Damen work [here](./points-of-disagreement.pdf)
 * 1952: Five Letters and an Outline of the Disagreement
+Read this Damen work [here](./five-letters-and-an-outline-of-disagreement.pdf)
 
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
 * 2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme
+Read this ICT work [here](./communist-manifesto-of-1875-gothakritik.pdf)
+* 2016: The Party Question
+Read this ICT work [here](./party-question.pdf)
 * 2019: For Communism
+Read this ICT work [here](./for-communism.pdf)
 * 2020: Platform of the Internationalist Communist Tendency
+Read this ICT work [here](./ict-platform.pdf)
 
 ## International Communist Current:
 ![International Communist Current Logo](ICCLogo.png)
 
+* 2004: Perspective of Communism
+Read part one of this ICC work [here](./perspective-of-communism-1.pdf)
+Read part two of this ICC work [here](./perspective-of-communism-2.pdf)
+Read part three of this ICC work [here](./perspective-of-communism-3.pdf)
+Read part four of this ICC work [here](./perspective-of-communism-4.pdf)
 * 2004: Platform of the International Communist Current
+Read this ICC work [here](./icc-platform.pdf)
 * 2005: The Communist-Left and the Continuity of Marxism
-* 2005: Perspective of Communism
-* 2016: The Party Question
+Read this ICC work [here](./communist-left-and-continuity-of-marxism.pdf)
+* 2005: Unions Against the Working Class
+Read this ICC work [here](./unions-against-the-working-class.pdf)
 
 ## Single Works:
 ![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
 
 * 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
+Read this work [here](./kapd-manifesto.pdf)
 * 1934: Anti-Fascism: Formula for Confusion by Bilan
+Read this work [here](./anti-fascism-formula-for-confusion.pdf)
 * 1936: Trade Unionism by Anton Pannekoek
+Read this work [here](./trade-unionism.pdf)
 * 1967: The Society of the Spectacle by Guy Debord
+Read this work [here](./society-of-the-spectacle.pdf)
 * 1968: Notes on Democratic Centralism by Tony Cliff
+Read this work [here](./notes_on_democratic_centralism.pdf)
 * 1993: Against Democracy by Wildcat
+Read this work [here](./against-democracy.pdf)
 * 2002: The Amsterdam Declaration by Humanist International
-  1. **Humanism is ethical.** It affirms the worth, dignity and autonomy of the individual and the right of every human being to the greatest possible freedom compatible with the rights of others. Humanists have a duty of care to all of humanity including future generations. Humanists believe that morality is an intrinsic part of human nature based on understanding and a concern for others, needing no external sanction.
-  2. **Humanism is rational.** It seeks to use science creatively, not destructively. Humanists believe that the solutions to the world’s problems lie in human thought and action rather than divine intervention. Humanism advocates the application of the methods of science and free inquiry to the problems of human welfare. But Humanists also believe that the application of science and technology must be tempered by human values. Science gives us the means but human values must propose the ends.
-  3. **Humanism supports democracy and human rights.** Humanism aims at the fullest possible development of every human being. It holds that democracy and human development are matters of right. The principles of democracy and human rights can be applied to many human relationships and are not restricted to methods of government.
-  4. **Humanism insists that personal liberty must be combined with social responsibility.** Humanism ventures to build a world on the idea of the free person responsible to society, and recognises our dependence on and responsibility for the natural world. Humanism is undogmatic, imposing no creed upon its adherents. It is thus committed to education free from indoctrination.
-  5. **Humanism is a response to the widespread demand for an alternative to dogmatic religion.** The world’s major religions claim to be based on revelations fixed for all time, and many seek to impose their world-views on all of humanity. Humanism recognises that reliable knowledge of the world and ourselves arises through a continuing process of observation, evaluation and revision.
-  6. **Humanism values artistic creativity and imagination** and recognises the transforming power of art. Humanism affirms the importance of literature, music, and the visual and performing arts for personal development and fulfilment.
-  7. **Humanism is a lifestance aiming at the maximum possible fulfilment** through the cultivation of ethical and creative living and offers an ethical and rational means of addressing the challenges of our times. Humanism can be a way of life for everyone everywhere.
-
+Read this work [here](./amsterdam-declaration.pdf)
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
+Read this work [here](./capitalist-realism.pdf)
 
 ## Images:
 
