@@ -83,6 +83,9 @@ Read this Damen work [here.](./points-of-disagreement.pdf)
 * 1952: Five Letters and an Outline of the Disagreement
 
 Read this Damen work [here.](./five-letters-and-an-outline-of-disagreement.pdf)
+* 1970: Amadeo Bordiga – Beyond the Myth and the Rhetoric
+
+Read this Damen work [here.](./bordiga-beyond-the-myth.pdf)
 
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
