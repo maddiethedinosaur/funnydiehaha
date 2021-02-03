@@ -34,8 +34,10 @@
 ![Vladimir Lenin](image.png)
 
 * 1917: Imperialism: The Highest Stage of Capitalism
+
 Read this Lenin work [here.](./imperialism.pdf)
 * 1918: State and Revolution
+
 Read this Lenin work [here.](./state-and-revolution.pdf)
 
 ## Bordiga:
