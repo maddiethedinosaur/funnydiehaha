@@ -5,14 +5,15 @@
 
 1. [Introduction](#introduction)
 2. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
-3. [Lenin](#lenin)
-4. [Luxemburg](#luxemburg)
-5. [Bordiga](#bordiga)
-6. [Damen](#damen)
-7. [Internationalist Communist Tendency](#internationalist-communist-tendency)
-8. [International Communist Current](#international-communist-current)
-9. [Single Works](#single-works)
-10. [Images](#images)
+3. [Other Marx and Engels](#other-marx-and-engels)
+4. [Lenin](#lenin)
+5. [Luxemburg](#luxemburg)
+6. [Bordiga](#bordiga)
+7. [Damen](#damen)
+8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
+9. [International Communist Current](#international-communist-current)
+10. [Single Works](#single-works)
+11. [Images](#images)
 
 ## Introduction
 
