@@ -4,32 +4,63 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Marx and Engels](#marx-and-engels)
+2. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
 3. [Lenin](#lenin)
-4. [Bordiga](#bordiga)
-5. [Damen](#damen)
-6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
-7. [International Communist Current](#international-communist-current)
-8. [Single Works](#single-works)
-9. [Images](#images)
+4. [Luxemburg](#luxemburg)
+5. [Bordiga](#bordiga)
+6. [Damen](#damen)
+7. [Internationalist Communist Tendency](#internationalist-communist-tendency)
+8. [International Communist Current](#international-communist-current)
+9. [Single Works](#single-works)
+10. [Images](#images)
 
 ## Introduction
 
-## Marx and Engels:
+## Marxist Internet Archives' "Short List for beginners":
 ![Karl Marx and Friedrich Engels](mengels.png)
 
 * 1845: Theses on Feuerbach by Karl Marx
-* 1849: Wage-Labor and Capital by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1846: The German Ideology by Karl Marx
-* 1844: Paris Manuscripts by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1847: Principles of Communism by Friedrich Engels
+
+Read this Engels work [here.](./imperialism.pdf)
 * 1848: The Communist Manifesto by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
+* 1849: Wage-Labor and Capital by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1859: A Contribution to the Critique of Political Economy (Preface) by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1867: Capital (Chapter One) by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1871: The Civil War in France by Karl Marx
+
+Read this Marx work [here.](./imperialism.pdf)
 * 1875: Critique of the Gotha Programme by Karl Marx
+
+Read this Engels work [here.](./imperialism.pdf)
 * 1880: Socialism: Utopian and Scientific by Friedrich Engels
+
+Read this Engels work [here.](./imperialism.pdf)
 * 1886: Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
+
+Read this Engels work [here.](./imperialism.pdf)
+
+## Other Marx and Engels:
+
+* 1844: Paris Manuscripts by Karl Marx
+
+Read this Marx work [here.](./paris-manuscripts.pdf)
+* 1844: Origin of the Family, Private Property, and the State by Friedrich Engels
+
+Read this Engels work [here.](./origin-of-the-family.pdf)
 
 ## Lenin:
 ![Vladimir Lenin](image.png)
@@ -40,6 +71,9 @@ Read this Lenin work [here.](./imperialism.pdf)
 * 1918: State and Revolution
 
 Read this Lenin work [here.](./state-and-revolution.pdf)
+* 1920: "Left-Wing" Communism: an Infantile Disorder
+
+Read this Lenin work [here.](./left-wing-communism-infantile-disorder.pdf)
 
 ## Bordiga:
 ![Amadeo Bordiga](AmadeoBordiga.png)
@@ -149,7 +183,9 @@ Read this ICC work [here.](./unions-against-the-working-class.pdf)
 
 ## Single Works:
 ![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
+* 1917: Imperialism and World Economy by Nikolai Bukharin
 
+Read this work [here.](./imperialism-and-world-economy.pdf)
 * 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
 
 Read this work [here.](./kapd-manifesto.pdf)
