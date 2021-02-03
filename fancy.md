@@ -99,9 +99,18 @@ Read this Damen work [here.](./you-can't-build-the-party-playing-with-paradoxes.
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
+* 1925: Platform of the Committee of Intesa
+
+Read this ICT work [here.](./platform-of-the-committee-of-intesa.pdf)
+* 1994: Socialism or Barbarism
+
+Read this ICT work [here.](./socialism-or-barbarism.pdf)
 * 2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme
 
 Read this ICT work [here.](./communist-manifesto-of-1875-gothakritik.pdf)
+* 2011: Capitalism and the Environment
+
+Read this ICT work [here.](./capitalism-and-the-environment.pdf)
 * 2016: The Party Question
 
 Read this ICT work [here.](./party-question.pdf)
