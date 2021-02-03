@@ -21,19 +21,19 @@
 
 * 1845: Theses on Feuerbach by Karl Marx
 
-Read this Marx work [here.](./imperialism.pdf)
+Read this Marx work [here.](./theses-on-feuerbach.pdf)
 * 1846: The German Ideology by Karl Marx
 
-Read this Marx work [here.](./imperialism.pdf)
+Read this Marx work [here.](./german-ideology.pdf)
 * 1847: Principles of Communism by Friedrich Engels
 
-Read this Engels work [here.](./imperialism.pdf)
+Read this Engels work [here.](./principles-of-communism.pdf)
 * 1848: The Communist Manifesto by Karl Marx
 
-Read this Marx work [here.](./imperialism.pdf)
-* 1849: Wage-Labor and Capital by Karl Marx
+Read this Marx work [here.](./communist-manifesto.pdf)
+* 1849: Wage-Labour and Capital by Karl Marx
 
-Read this Marx work [here.](./imperialism.pdf)
+Read this Marx work [here.](./wage-labour-capital.pdf)
 * 1859: A Contribution to the Critique of Political Economy (Preface) by Karl Marx
 
 Read this Marx work [here.](./imperialism.pdf)
@@ -42,16 +42,16 @@ Read this Marx work [here.](./imperialism.pdf)
 Read this Marx work [here.](./imperialism.pdf)
 * 1871: The Civil War in France by Karl Marx
 
-Read this Marx work [here.](./imperialism.pdf)
+Read this Marx work [here.](./civil-war-france.pdf)
 * 1875: Critique of the Gotha Programme by Karl Marx
 
-Read this Engels work [here.](./imperialism.pdf)
+Read this Marx work [here.](./gothakritik.pdf)
 * 1880: Socialism: Utopian and Scientific by Friedrich Engels
 
-Read this Engels work [here.](./imperialism.pdf)
+Read this Engels work [here.](./socialism-utopian-and-scientific.pdf)
 * 1886: Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
 
-Read this Engels work [here.](./imperialism.pdf)
+Read this Engels work [here.](./ludwig-feuerbach.pdf)
 
 ## Other Marx and Engels:
 ![Marx and Engels](Marx-Engels.jpg)
@@ -64,7 +64,7 @@ Read this Engels work [here.](./origin-of-the-family.pdf)
 Read this Marx work [here.](./paris-manuscripts.pdf)
 * 1872: On Authority by Friedrich Engels
 
-Read this Engels work [here.](./on-authority.pdf
+Read this Engels work [here.](./on-authority.pdf)
 
 ## Lenin:
 ![Vladimir Lenin](image.png)
