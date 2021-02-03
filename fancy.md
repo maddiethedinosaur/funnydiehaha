@@ -194,6 +194,9 @@ Read this ICC work [here.](./communist-left-and-continuity-of-marxism.pdf)
 * 2005: Unions Against the Working Class
 
 Read this ICC work [here.](./unions-against-the-working-class.pdf)
+* 2007: Basic Positions of the ICC
+
+Read this ICC work [here.](./icc-positions.pdf)
 
 ## Single Works:
 ![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
@@ -224,6 +227,9 @@ Read this work [here.](./amsterdam-declaration.pdf)
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
 
 Read this work [here.](./capitalist-realism.pdf)
+* 2020: Manifesto of the International Communist Workers' Party
+
+Read this work [here.](./icwp-manifesto.pdf)
 
 ## Images:
 
