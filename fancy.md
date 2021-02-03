@@ -93,6 +93,9 @@ Read this ICT work [here.](./communist-manifesto-of-1875-gothakritik.pdf)
 * 2016: The Party Question
 
 Read this ICT work [here.](./party-question.pdf)
+* 2018: Class Consciousness and Revolutionary Organisation
+
+Read this ICT work [here.](./class-consciousness-and-revolutionary-organisation.pdf)
 * 2019: For Communism
 
 Read this ICT work [here.](./for-communism.pdf)
