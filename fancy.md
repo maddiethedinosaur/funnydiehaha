@@ -13,8 +13,9 @@
 8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 9. [International Communist Current](#international-communist-current)
 10. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
-11. [Single Works](#single-works)
-12. [Images](#images)
+11. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
+12. [Single Works](#single-works)
+13. [Images](#images)
 
 ## Introduction
 
@@ -215,6 +216,19 @@ Read this GCCF work [here.](./anti-police-brutality.pdf)
 * 2020: USA: Lessons from the Teachers’ Struggle: Left-Racialism as a Tool of Union-Sabotage
 
 Read this GCCF work [here.](./left-racialism.pdf)
+
+## American Fraction of the International Communist Left
+![International Bulletin Volume 3, Issue 8](ibaflc.png)
+
+* 1948: Capitalist democracy: a Contrast Between the Position of Lenin and that of Trotsky
+
+Read this AFICL work [here.](./capitalist-democracy.pdf)
+* 1949: What We Stand For
+
+Read this AFICL work [here.](./aflci-what-we-stand-for.pdf)
+* 1949: Aspects of the Russian Question
+
+Read this AFICL work [here.](./aspects-of-the-russian-question.pdf)
 
 ## Single Works:
 ![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
