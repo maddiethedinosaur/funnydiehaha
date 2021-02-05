@@ -88,7 +88,7 @@ Read this Lenin work [here.](./left-wing-communism-infantile-disorder.pdf)
 
 * 1909: The National Question
 
-Read this Luxemburg work [here.](./imperialism.pdf)
+Read this Luxemburg work [here.](./national-question.pdf)
 * 1915: The Junius Pamphlet
 
 Read this Luxemburg work [here.](./junius-pamphlet.pdf)
