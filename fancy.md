@@ -296,6 +296,7 @@ Read this work [here.](./icwp-manifesto.pdf)
 ![A Random Left-Communist Flag I Have](left-communist3.png)
 ![A Random Left-Communist Flag I Have](left-communist4.png)
 ![A Random Left-Communist Flag I Have](left-communist5.png)
+![Generic Left-Communist Symbol](SymbolCommunistLeft.png)
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 ![International Communist Current Logo](ICCLogo.png)
 
