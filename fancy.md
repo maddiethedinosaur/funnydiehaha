@@ -267,12 +267,12 @@ Read this work [here.](./icwp-manifesto.pdf)
 ## Comparisons of the Positions of Various Left-Communist Groups
 ![Generic Left-Communist Symbol](SymbolCommunistLeft.png)
 
-| Position | ICT | ICC | GCCF |
-| ----------- | ----------- | ----------- | ----------- |
-| Pro-DotP | Title | ----------- | ----------- |
-| Pro-Internationalism | Text | ----------- | ----------- |
-| Pro-DotP | Title | ----------- | ----------- |
-| Pro-Internationalism | Text | ----------- | ----------- |
+| Position | ICT | ICC | GCCF | AFICL |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Pro-DotP | Title | ----------- | ----------- | ----------- |
+| Pro-Internationalism | Text | ----------- | ----------- | ----------- |
+| Pro-DotP | Title | ----------- | ----------- | ----------- |
+| Pro-Internationalism | Text | ----------- | ----------- | ----------- |
 
 ## Images:
 
