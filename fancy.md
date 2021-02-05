@@ -15,7 +15,8 @@
 10. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
 11. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
 12. [Single Works](#single-works)
-13. [Images](#images)
+13. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
+14. [Images](#images)
 
 ## Introduction
 
@@ -188,7 +189,7 @@ Read part two of this ICC work [here.](./perspective-of-communism-2.pdf)
 Read part three of this ICC work [here.](./perspective-of-communism-3.pdf)
 
 Read part four of this ICC work [here.](./perspective-of-communism-4.pdf)
-* 2004: Platform of the International Communist Current
+* 2004: Platform of the ICC
 
 Read this ICC work [here.](./icc-platform.pdf)
 * 2005: The Communist-Left and the Continuity of Marxism
@@ -263,6 +264,15 @@ Read this work [here.](./capitalist-realism.pdf)
 * 2020: Manifesto of the International Communist Workers' Party
 
 Read this work [here.](./icwp-manifesto.pdf)
+## Comparisons of the Positions of Various Left-Communist Groups
+![Generic Left-Communist Symbol](SymbolCommunistLeft.png)
+
+| Position | ICT | ICC | GCCF |
+| ----------- | ----------- | ----------- | ----------- |
+| Pro-DotP | Title | ----------- | ----------- |
+| Pro-Internationalism | Text | ----------- | ----------- |
+| Pro-DotP | Title | ----------- | ----------- |
+| Pro-Internationalism | Text | ----------- | ----------- |
 
 ## Images:
 
