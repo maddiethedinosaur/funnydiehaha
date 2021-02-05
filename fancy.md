@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction by Zoomer Nation](#introduction-by-zoomer-nation)
 2. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
 3. [Other Marx and Engels](#other-marx-and-engels)
 4. [Lenin](#lenin)
@@ -18,7 +18,10 @@
 13. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
 14. [Images](#images)
 
-## Introduction
+## Introduction by Zoomer Nation
+![Ryuko Matoi](dameniteryuko.jpeg)
+
+Here is a collection of writings from Marxist theoreticians ranging from various time periods which assist in fully developing an Marxist outlook and conception of theory. The writings stem from various ideological variants all under the umbrella of revolutionary Marxism. The list includes writings from the foundational Marxist theoreticians along with organizational writings which developed under their inspiration. If new theoretical writings need to be added, the list will change in accordance.
 
 ## Marxist Internet Archives' "Short List for beginners":
 ![Karl Marx and Friedrich Engels](mengels.png)
