@@ -69,6 +69,9 @@ Read this Engels work [here.](./origin-of-the-family.pdf)
 * 1844: Paris Manuscripts by Karl Marx
 
 Read this Marx work [here.](./paris-manuscripts.pdf)
+* 1872: The Housing Question by Friedrich Engels
+
+Read this Engels work [here.](./housing-question.pdf)
 * 1872: On Authority by Friedrich Engels
 
 Read this Engels work [here.](./on-authority.pdf)
