@@ -238,7 +238,7 @@ Read this AFICL work [here.](./aflci-what-we-stand-for.pdf)
 Read this AFICL work [here.](./aspects-of-the-russian-question.pdf)
 
 ## Single Works:
-![A Situationist Artwork Named "Situationist Detournement"](SituationistDetournement.png)
+![Sinistra's Current Twitter Profile Picture](twtpfp4.png)
 
 * 1917: Imperialism and World Economy by Nikolai Bukharin
 
