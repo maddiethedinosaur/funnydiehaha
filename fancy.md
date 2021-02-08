@@ -15,7 +15,9 @@
 * [Non-Essential Writings](#non-essential-writings)
   1. [Marx and Engels](#other-marx-and-engels)
   2. [Lenin](#lenin)
-  3. [Pannekoek](#pannekoek)
+  3. [Bordiga](#bordiga)
+  4. [Damen](#damen)
+  5. [Pannekoek](#pannekoek)
   1. [Internationalist Communist Tendency](#internationalist-communist-tendency)
   2. [International Communist Current](#international-communist-current)
   3. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
@@ -115,30 +117,18 @@ Read this Bordiga work [here.](./Contents/system-of-communist-representation.pdf
 * 1921: Party and Class
 
 Read this Bordiga work [here.](./Contents/party-and-class.pdf)
-* 1921: Party and Class Action
-
-Read this Bordiga work [here.](./Contents/party-and-class-action.pdf)
 * 1922: The Democratic Principle
 
 Read this Bordiga work [here.](./Contents/democratic-principle.pdf)
 * 1926: The Lyons Theses
 
 Read this Bordiga work [here.](./Contents/lyons-theses.pdf)
-* 1951: Doctrine of the Body Possessed by the Devil
-
-Read this Bordiga work [here.](./Contents/doctrine-of-the-body-possessed-by-the-devil.pdf)
-* 1952: Activism
-
-Read this Bordiga work [here.](./Contents/activism.pdf)
 * 1952: Dialogue with Stalin
 
 Read this Bordiga work [here.](./Contents/dialogue-with-stalin.pdf)
 * 1952: The Human Species and the Earth's Crust
 
 Read this Bordiga work [here.](./Contents/human-species-and-the-earths-crust.pdf)
-* 1953: The Spirit of Horsepower
-
-Read this Bordiga work [here.](./Contents/spirit-of-horsepower.pdf)
 * 1957: Fundamentals of Revolutionary Communism
 
 Read this Bordiga work [here.](./Contents/fundamentals-of-revolutionary-communism.pdf)
@@ -193,6 +183,44 @@ Read this Marx work [here.](./Contents/conspectus-of-bakunins-statism-and-anarch
 * 1920: "Left-Wing" Communism: an Infantile Disorder
 
 Read this Lenin work [here.](./Contents/left-wing-communism-infantile-disorder.pdf)
+
+## Bordiga:
+![Amadeo Bordiga](AmadeoBordiga.png)
+
+* 1921: Party and Class Action
+
+Read this Bordiga work [here.](./Contents/party-and-class-action.pdf)
+* 1951: Doctrine of the Body Possessed by the Devil
+
+Read this Bordiga work [here.](./Contents/doctrine-of-the-body-possessed-by-the-devil.pdf)
+* 1952: Activism
+
+Read this Bordiga work [here.](./Contents/activism.pdf)
+* 1953: The Spirit of Horsepower
+
+Read this Bordiga work [here.](./Contents/spirit-of-horsepower.pdf)
+
+## Damen:
+![Onorato Damen](OnoratoDamen.jpg)
+
+* 1946: Bourgeois Violence and Proletarian Defence
+
+Read this Damen work [here.](./Contents/bourgeois-violence.pdf)
+* 1951: Centralized Party? Yes. Centralism over the Party? No!
+
+Read this Damen work [here.](./Contents/centralized-party.pdf)
+* 1952: Points of Disagreement with the 1952 "Platform" Drafted by Bordiga
+
+Read this Damen work [here.](./Contents/points-of-disagreement.pdf)
+* 1952: Five Letters and an Outline of the Disagreement
+
+Read this Damen work [here.](./Contents/five-letters-and-an-outline-of-disagreement.pdf)
+* 1970: Amadeo Bordiga – Beyond the Myth and the Rhetoric
+
+Read this Damen work [here.](./Contents/bordiga-beyond-the-myth.pdf)
+* 1972: You Can't Build the Party Playing with Paradoxes
+
+Read this Damen work [here.](./Contents/you-can't-build-the-party-playing-with-paradoxes.pdf)
 
 ## Pannekoek
 ![Anton Pannekoek](AntonPannekoek.jpg)
