@@ -276,41 +276,68 @@ A World Without Money: Communism
 # Dunayevskaya:
 
 The Nature of the Russian Economy
+
 Stalinists Falsify Marxism Anew
-The uniqueness of Marxist-Humanism
+
+The Uniqueness of Marxist-Humanism
+
 ‘Marx’s Humanism Today’
+
 The ‘Philosophy’ of the Yenan period: Mao Perverts Lenin
-50 years after the revolution – Mao, Hegel, and dialectics in China
+
+50 years after the revolution – Mao, Hegel, and Dialectics in China
+
 Marxist-Humanism’s concept of ‘Subject’
+
 Marxism and Freedom
 
 # Dauve:
 
 Communisation
+
 In This World but not of This World
+
 To Work or Not to Work? Is that the Question?
+
 What's It All About? Questions & Answers
+
 When Insurrections Die
+
 A Contribution to the Critique of Political Autonomy
+
 Eclipse and Re-emergence of the Communist Movement
 
 # International Communist Current:
 
+Balance Sheet of 70 Years of "National Liberation" Struggles
+
 Perspective of Communism
-The Communist-Left and Internationalist Anarchism
-The Communist-Left and the Continuity of Marxism
-Basic Positions of the ICC
+
 Platform of the ICC
+
+The Communist-Left and the Continuity of Marxism
+
 Unions Against the Working Class
-Covid-19: Despite All the Obstacles, the Class Struggle Forges its Future
-Generalised Capitalist Barbarism Or World Proletarian Revolution
-No Solution to the Ecological Catastrophe Without the Emancipation of Labour from Capitalist Exploitation
+
+Basic Positions of the ICC
+
 The Sean Bell Case: Police Brutality is a Class Question
+
+What Distinguishes Revolutionaries From Trotskyism?
+
+The Communist-Left and Internationalist Anarchism
+
+No Solution to the Ecological Catastrophe Without the Emancipation of Labour from Capitalist Exploitation
+
+Generalised Capitalist Barbarism Or World Proletarian Revolution
+
+Covid-19: Despite All the Obstacles, the Class Struggle Forges its Future
 
 # Internationalist Perspective:
 
-Antifa? No thanks!
 Towards a Critique of the Democratic Form
+
+Antifa? No thanks!
 
 # Against Sleep and Nightmare:
 
@@ -322,8 +349,9 @@ Against Democracy
 
 # Internationalist Communist Group:
 
-Communism Against Democracy
 Communism Against Democracy: Theses
+
+Communism Against Democracy
 
 # Communist Workers' Party of Germany:
 
@@ -352,6 +380,7 @@ Communism and its Tactics
 # Miasnikov:
 
 The Latest Deception
+
 Workers' Group Manifesto
 
 # Copson:
