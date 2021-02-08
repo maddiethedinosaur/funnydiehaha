@@ -6,7 +6,7 @@
 * [Introduction by Zoomer Nation](#introduction-by-zoomer-nation)
 * [Essential Writings](#essential-writings)
   1. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
-  2. [Other Marx and Engels](#other-marx-and-engels)
+  2. [Other Essential Marx and Engels](#other-essential-marx-and-engels)
   3. [Essential Lenin](#essential-lenin)
   4. [Essential Luxemburg](#essential-luxemburg)
   5. [Essential Bordiga](#essential-bordiga)
@@ -76,7 +76,7 @@ Read this Engels work [here.](./Contents/socialism-utopian-and-scientific.pdf)
 
 Read this Engels work [here.](./Contents/ludwig-feuerbach.pdf)
 
-## Other Marx and Engels:
+## Other Essential Marx and Engels:
 ![Marx and Engels](Marx-Engels.jpg)
 
 * 1844: Origin of the Family, Private Property, and the State by Friedrich Engels
@@ -85,9 +85,12 @@ Read this Engels work [here.](./Contents/origin-of-the-family.pdf)
 * 1844: Paris Manuscripts by Karl Marx
 
 Read this Marx work [here.](./Contents/paris-manuscripts.pdf)
-* 1852: The Eighteenth Brumaire of Louis Bonaparte
+* 1852: The Eighteenth Brumaire of Louis Bonaparte by Karl Marx
 
 Read this Marx work [here.](./Contents/18-brumaire-of-louis-bonaparte.pdf)
+* 1877: Anti-Duhring by Friedrich Engels
+
+Read this Engels work [here.](./Contents/anti-duhring.pdf)
 
 ## Essential Lenin:
 ![Vladimir Lenin](image.png)
