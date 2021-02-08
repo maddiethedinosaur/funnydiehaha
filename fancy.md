@@ -273,6 +273,22 @@ Read this GCCF work [here.](./Contents/anti-police-brutality.pdf)
 
 Read this GCCF work [here.](./Contents/left-racialism.pdf)
 
+## Internationalist Communist Group
+![I'm too lazy to write the description for this](SituationistDetournement.png)
+
+* ????: Theses of Programmatical Orientation
+
+Read this ICG work [here.](./Contents/theses-of-programmatical-orientation.pdf)
+* 1979: Communism Against Democracy: Theses
+
+Read this ICG work [here.](./Contents/communism-against-democracy-theses.pdf)
+* ????: Communism Against Democracy
+
+Read this ICG work [here.](./Contents/communism-against-democracy.pdf)
+* ????: Human Activity Against Labour
+
+Read this ICG work [here.](./Contents/human-activity-against-labour.pdf)
+
 ## American Fraction of the International Communist Left
 ![International Bulletin Volume 3, Issue 8](ibaflc.png)
 
