@@ -108,6 +108,9 @@ Read this Bordiga work [here.](./system-of-communist-representation.pdf)
 * 1921: Party and Class
 
 Read this Bordiga work [here.](./party-and-class.pdf)
+* 1921: Party and Class Action
+
+Read this Bordiga work [here.](./party-and-class-action.pdf)
 * 1922: The Democratic Principle
 
 Read this Bordiga work [here.](./democratic-principle.pdf)
