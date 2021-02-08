@@ -302,10 +302,13 @@ Read this work [here.](./Contents/anti-fascism-formula-for-confusion.pdf)
 Read this work [here.](./Contents/society-of-the-spectacle.pdf)
 * 1968: Notes on Democratic Centralism by Tony Cliff
 
-Read this work [here.](./Contents/notes_on_democratic_centralism.pdf)
+Read this work [here.](./Contents/notes-on-democratic_centralism.pdf)
 * 1993: Against Democracy by Wildcat
 
 Read this work [here.](./Contents/against-democracy.pdf)
+* ????: Notes on Democracy by Against Sleep and Nightmare
+
+Read this work [here.](./Contents/notes-on-democracy.pdf)
 * 2002: The Amsterdam Declaration by Humanist International
 
 Read this work [here.](./Contents/amsterdam-declaration.pdf)
