@@ -382,18 +382,6 @@ Read this AFICL work [here.](./Contents/aspects-of-the-russian-question.pdf)
 ## Single Works:
 ![Sinistra's Current Twitter Profile Picture](twtpfp4.png)
 
-* 1917: Imperialism and World Economy by Nikolai Bukharin
-
-Read this work [here.](./Contents/imperialism-and-world-economy.pdf)
-* 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
-
-Read this work [here.](./Contents/kapd-manifesto.pdf)
-* 1934: Anti-Fascism: Formula for Confusion by Bilan
-
-Read this work [here.](./Contents/anti-fascism-formula-for-confusion.pdf)
-* 1967: The Society of the Spectacle by Guy Debord
-
-Read this work [here.](./Contents/society-of-the-spectacle.pdf)
 * 1968: Notes on Democratic Centralism by Tony Cliff
 
 Read this work [here.](./Contents/notes-on-democratic_centralism.pdf)
@@ -406,9 +394,6 @@ Read this work [here.](./Contents/notes-on-democracy.pdf)
 * 2002: The Amsterdam Declaration by Humanist International
 
 Read this work [here.](./Contents/amsterdam-declaration.pdf)
-* 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
-
-Read this work [here.](./Contents/capitalist-realism.pdf)
 * 2013: “The Real Enemy?” Why We Should Reject Left Unity as a Concept by Phil Dickens
 
 Read this work [here.](./Contents/why-we-should-reject-left-unity-as-a-concept.pdf)
@@ -418,9 +403,6 @@ Read this work [here.](./Contents/unity-for-what-and-with-whom.pdf)
 * 2014: Communism is the Ascension of Humanity as the Subject of History: A Critique of Althusser and the Affirmation of Marx
 
 Read this work [here.](./Contents/communism-is-the-ascension-of-humanity-as-the-subject-of-history.pdf)
-* 2020: Manifesto of the International Communist Workers' Party
-
-Read this work [here.](./Contents/icwp-manifesto.pdf)
 
 # Miscellaneous:
 
