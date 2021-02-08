@@ -164,6 +164,9 @@ Read this ICT work [here.](./platform-of-the-committee-of-intesa.pdf)
 * 1994: Socialism or Barbarism
 
 Read this ICT work [here.](./socialism-or-barbarism.pdf)
+* 2000: Trotsky and the Internationalist Communist Left
+
+Read this ICT work [here.](./trotsky-and-the-internationalist-communist-left.pdf)
 * 2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme
 
 Read this ICT work [here.](./communist-manifesto-of-1875-gothakritik.pdf)
@@ -185,7 +188,13 @@ Read this ICT work [here.](./ict-platform.pdf)
 
 ## International Communist Current:
 ![International Communist Current Logo](ICCLogo.png)
+* 1992: Balance Sheet of 70 Years of "National Liberation" Struggles
 
+Read part one of this ICC work [here.](./balance-sheet-of-70-years-of-national-liberation-struggles-1.pdf)
+
+Read part two of this ICC work [here.](./balance-sheet-of-70-years-of-national-liberation-struggles-2.pdf)
+
+Read part three of this ICC work [here.](./balance-sheet-of-70-years-of-national-liberation-struggles-3.pdf)
 * 2004: Perspective of Communism
 
 Read part one of this ICC work [here.](./perspective-of-communism-1.pdf)
@@ -207,6 +216,9 @@ Read this ICC work [here.](./unions-against-the-working-class.pdf)
 * 2007: Basic Positions of the ICC
 
 Read this ICC work [here.](./icc-positions.pdf)
+* 2009: What Distinguishes Revolutionaries From Trotskyism?
+
+Read this ICC work [here.](./what-distinguishes-revolutionaries-from-trotskyism.pdf)
 
 ## Gulf Coast Communist Fraction:
 ![GCCF Logo"](58aGaKrh.jpg_large)
