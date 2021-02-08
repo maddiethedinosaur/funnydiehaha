@@ -14,10 +14,11 @@
 9. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 10. [International Communist Current](#international-communist-current)
 11. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
-12. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
-13. [Single Works](#single-works)
-14. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
-15. [Images](#images)
+12. [Internationalist Communist Group](#internationalist-communist-group)
+13. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
+14. [Single Works](#single-works)
+15. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
+16. [Images](#images)
 
 ## Introduction by Zoomer Nation
 ![Ryuko Matoi](dameniteryuko.jpeg)
