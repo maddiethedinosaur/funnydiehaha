@@ -4,13 +4,14 @@
 ## Table of Contents
 
 1. [Introduction by Zoomer Nation](#introduction-by-zoomer-nation)
-2. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
-3. [Other Marx and Engels](#other-marx-and-engels)
-4. [Lenin](#lenin)
-5. [Luxemburg](#luxemburg)
-6. [Bordiga](#bordiga)
-7. [Damen](#damen)
-8. [Pannekoek](#pannekoek)
+* [Essential Writings](#essential-writings)
+  1. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
+  2. [Other Marx and Engels](#other-marx-and-engels)
+  3. [Lenin](#lenin)
+  4. [Luxemburg](#luxemburg)
+  5. [Bordiga](#bordiga)
+  6. [Damen](#damen)
+  7. [Pannekoek](#pannekoek)
 9. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 10. [International Communist Current](#international-communist-current)
 11. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
@@ -24,6 +25,8 @@
 ![Ryuko Matoi](dameniteryuko.jpeg)
 
 Here is a collection of writings from Marxist theoreticians ranging from various time periods which assist in fully developing an Marxist outlook and conception of theory. The writings stem from various ideological variants all under the umbrella of revolutionary Marxism. The list includes writings from the foundational Marxist theoreticians along with organizational writings which developed under their inspiration. If new theoretical writings need to be added, the list will change in accordance.
+
+# Essential Writings:
 
 ## Marxist Internet Archives' "Short List for beginners":
 ![Karl Marx and Friedrich Engels](mengels.png)
@@ -45,10 +48,10 @@ Read this Marx work [here.](./Contents/communist-manifesto.pdf)
 Read this Marx work [here.](./Contents/wage-labour-capital.pdf)
 * 1859: A Contribution to the Critique of Political Economy (Preface) by Karl Marx
 
-Read this Marx work [here.](./Contents/imperialism.pdf)
+Read this Marx work [here.](./Contents/contribution-to-the-critique-of-political-economy-preface.pdf)
 * 1867: Capital (Chapter One) by Karl Marx
 
-Read this Marx work [here.](./Contents/imperialism.pdf)
+Read this Marx work [here.](./Contents/capital-chapter-1.pdf)
 * 1871: The Civil War in France by Karl Marx
 
 Read this Marx work [here.](./Contents/civil-war-france.pdf)
@@ -71,6 +74,9 @@ Read this Engels work [here.](./Contents/origin-of-the-family.pdf)
 * 1844: Paris Manuscripts by Karl Marx
 
 Read this Marx work [here.](./Contents/paris-manuscripts.pdf)
+* 1852: The Eighteenth Brumaire of Louis Bonaparte
+
+Read this Marx work [here.](./Contents/18-brumaire-of-louis-bonaparte.pdf)
 * 1872: The Housing Question by Friedrich Engels
 
 Read this Engels work [here.](./Contents/housing-question.pdf)
