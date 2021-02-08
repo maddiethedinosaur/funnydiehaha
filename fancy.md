@@ -7,17 +7,17 @@
 * [Essential Writings](#essential-writings)
   1. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
   2. [Other Marx and Engels](#other-marx-and-engels)
-  3. [Lenin](#lenin)
-  4. [Luxemburg](#luxemburg)
-  5. [Bordiga](#bordiga)
-  6. [Damen](#damen)
-  7. [Pannekoek](#pannekoek)
+  3. [Essential Lenin](#essential-lenin)
+  4. [Essential Luxemburg](#essential-luxemburg)
+  5. [Essential Bordiga](#essential-bordiga)
+  6. [Essential Damen](#essential-damen)
+  7. [Essential Pannekoek](#essential-pannekoek)
   8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
   9. [International Communist Current](#international-communist-current)
   10. [Internationalist Communist Group](#internationalist-communist-group)
   11. [Single Works](#single-works)
 * [Non-Essential Writings](#non-essential-writings)
-  1. [Marx and Engels](#other-marx-and-engels)
+  1. [Marx and Engels](#marx-and-engels)
   2. [Lenin](#lenin)
   3. [Bordiga](#bordiga)
   4. [Damen](#damen)
@@ -89,7 +89,7 @@ Read this Marx work [here.](./Contents/paris-manuscripts.pdf)
 
 Read this Marx work [here.](./Contents/18-brumaire-of-louis-bonaparte.pdf)
 
-## Lenin:
+## Essential Lenin:
 ![Vladimir Lenin](image.png)
 
 * 1917: Imperialism: The Highest Stage of Capitalism
@@ -99,7 +99,7 @@ Read this Lenin work [here.](./Contents/imperialism.pdf)
 
 Read this Lenin work [here.](./Contents/state-and-revolution.pdf)
 
-## Luxemburg
+## Essential Luxemburg
 ![Rosa Luxemburg](luxemburg.jpg)
 
 * 1899: Reform or Revolution?
@@ -112,7 +112,7 @@ Read this Luxemburg work [here.](./Contents/national-question.pdf)
 
 Read this Luxemburg work [here.](./Contents/junius-pamphlet.pdf)
 
-## Bordiga:
+## Essential Bordiga:
 ![Amadeo Bordiga](AmadeoBordiga.png)
 
 * 1919: The System of Communist Representation
@@ -137,7 +137,7 @@ Read this Bordiga work [here.](./Contents/human-species-and-the-earths-crust.pdf
 
 Read this Bordiga work [here.](./Contents/fundamentals-of-revolutionary-communism.pdf)
 
-## Damen:
+## Essential Damen:
 ![Onorato Damen](OnoratoDamen.jpg)
 
 * 1946: Bourgeois Violence and Proletarian Defence
@@ -156,14 +156,14 @@ Read this Damen work [here.](./Contents/five-letters-and-an-outline-of-disagreem
 
 Read this Damen work [here.](./Contents/bordiga-beyond-the-myth.pdf)
 
-## Pannekoek
+## Essential Pannekoek
 ![Anton Pannekoek](AntonPannekoek.jpg)
 
 * 1936: Trade Unionism
 
 Read this work [here.](./Contents/trade-unionism.pdf)
 
-## Internationalist Communist Tendency:
+## Essential Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
 * 1925: Platform of the Committee of Intesa
@@ -182,7 +182,7 @@ Read this ICT work [here.](./Contents/for-communism.pdf)
 
 Read this ICT work [here.](./Contents/ict-platform.pdf)
 
-## International Communist Current:
+## Essential International Communist Current:
 ![International Communist Current Logo](ICCLogo.png)
 
 * 2004: Platform of the ICC
@@ -202,7 +202,7 @@ Read part two of this ICC work [here.](./Contents/communist-left-and-internation
 
 Read part three of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-3.pdf)
 
-## Internationalist Communist Group
+## Essential Internationalist Communist Group
 ![I'm too lazy to write the description for this](SituationistDetournement.png)
 
 * ????: Theses of Programmatical Orientation
@@ -212,7 +212,7 @@ Read this ICG work [here.](./Contents/theses-of-programmatical-orientation.pdf)
 
 Read this ICG work [here.](./Contents/communism-against-democracy.pdf)
 
-## Single Works:
+## Essential Single Works:
 ![Sinistra's Current Twitter Profile Picture](twtpfp4.png)
 
 * 1917: Imperialism and World Economy by Nikolai Bukharin
