@@ -76,6 +76,9 @@ Read this Engels work [here.](./housing-question.pdf)
 * 1872: On Authority by Friedrich Engels
 
 Read this Engels work [here.](./on-authority.pdf)
+* 1874: Conspectus of Bakunin’s Statism and Anarchy
+
+Read this Marx work [here.](./conspectus-of-bakunins-statism-and-anarchy.pdf)
 
 ## Lenin:
 ![Vladimir Lenin](image.png)
@@ -245,6 +248,13 @@ Read this ICC work [here.](./icc-positions.pdf)
 * 2009: What Distinguishes Revolutionaries From Trotskyism?
 
 Read this ICC work [here.](./what-distinguishes-revolutionaries-from-trotskyism.pdf)
+* 2010: The Communist-Left and Internationalist Anarchism
+
+Read part one of this ICC work [here.](./communist-left-and-internationalist-anarchism-1.pdf)
+
+Read part two of this ICC work [here.](./communist-left-and-internationalist-anarchism-2.pdf)
+
+Read part three of this ICC work [here.](./communist-left-and-internationalist-anarchism-3.pdf)
 
 ## Gulf Coast Communist Fraction:
 ![GCCF Logo"](58aGaKrh.jpg_large)
