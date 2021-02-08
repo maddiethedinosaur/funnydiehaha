@@ -4,20 +4,22 @@
 ## Table of Contents
 
 1. [Introduction by Zoomer Nation](#introduction-by-zoomer-nation)
-* [Essential Writings](#essential-writings)
-  1. [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
-  2. [Other Marx and Engels](#other-marx-and-engels)
-  3. [Lenin](#lenin)
-  4. [Luxemburg](#luxemburg)
-  5. [Bordiga](#bordiga)
-  6. [Damen](#damen)
-  7. [Pannekoek](#pannekoek)
+2. [Essential Writings](#essential-writings)
+  - [Marxist Internet Archives' "Short List for beginners"](#marxist-internet-archives-short-list-for-beginners)
+  - [Other Marx and Engels](#other-marx-and-engels)
+  - [Lenin](#lenin)
+  - [Luxemburg](#luxemburg)
+  - [Bordiga](#bordiga)
+  - [Damen](#damen)
+  - [Pannekoek](#pannekoek)
+3. [Non-Essential Writings](#non-essential-writings)
 9. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 10. [International Communist Current](#international-communist-current)
 11. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
 12. [Internationalist Communist Group](#internationalist-communist-group)
 13. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
 14. [Single Works](#single-works)
+4. [Miscellaneous](#miscellaneous)
 15. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
 16. [Images](#images)
 
@@ -181,6 +183,8 @@ Read this work [here.](./Contents/trade-unionism.pdf)
 * 1948: Anarchism not Suitable
 
 Read this work [here.](./Contents/anarchism-not-suitable.pdf)
+
+# Non-Essential Writings:
 
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
@@ -350,6 +354,9 @@ Read this work [here.](./Contents/communism-is-the-ascension-of-humanity-as-the-
 * 2020: Manifesto of the International Communist Workers' Party
 
 Read this work [here.](./Contents/icwp-manifesto.pdf)
+
+# Miscellaneous:
+
 ## Comparisons of the Positions of Various Left-Communist Groups
 ![Generic Left-Communist Symbol](SymbolCommunistLeft.png)
 
