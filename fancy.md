@@ -12,13 +12,14 @@
   5. [Bordiga](#bordiga)
   6. [Damen](#damen)
   7. [Pannekoek](#pannekoek)
+  8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
 * [Non-Essential Writings](#non-essential-writings)
   1. [Marx and Engels](#other-marx-and-engels)
   2. [Lenin](#lenin)
   3. [Bordiga](#bordiga)
   4. [Damen](#damen)
   5. [Pannekoek](#pannekoek)
-  1. [Internationalist Communist Tendency](#internationalist-communist-tendency)
+  6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
   2. [International Communist Current](#international-communist-current)
   3. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
   4. [Internationalist Communist Group](#internationalist-communist-group)
@@ -151,9 +152,6 @@ Read this Damen work [here.](./Contents/five-letters-and-an-outline-of-disagreem
 * 1970: Amadeo Bordiga – Beyond the Myth and the Rhetoric
 
 Read this Damen work [here.](./Contents/bordiga-beyond-the-myth.pdf)
-* 1972: You Can't Build the Party Playing with Paradoxes
-
-Read this Damen work [here.](./Contents/you-can't-build-the-party-playing-with-paradoxes.pdf)
 
 ## Pannekoek
 ![Anton Pannekoek](AntonPannekoek.jpg)
@@ -161,6 +159,55 @@ Read this Damen work [here.](./Contents/you-can't-build-the-party-playing-with-p
 * 1936: Trade Unionism
 
 Read this work [here.](./Contents/trade-unionism.pdf)
+
+## Internationalist Communist Tendency:
+![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
+
+* 1925: Platform of the Committee of Intesa
+
+Read this ICT work [here.](./Contents/platform-of-the-committee-of-intesa.pdf)
+* 1994: Socialism or Barbarism
+
+Read this ICT work [here.](./Contents/socialism-or-barbarism.pdf)
+* 2018: Class Consciousness and Revolutionary Organisation
+
+Read this ICT work [here.](./Contents/class-consciousness-and-revolutionary-organisation.pdf)
+* 2019: For Communism
+
+Read this ICT work [here.](./Contents/for-communism.pdf)
+* 2020: Platform of the Internationalist Communist Tendency
+
+Read this ICT work [here.](./Contents/ict-platform.pdf)
+
+## International Communist Current:
+![International Communist Current Logo](ICCLogo.png)
+
+* 2004: Platform of the ICC
+
+Read this ICC work [here.](./Contents/icc-platform.pdf)
+* 2005: The Communist-Left and the Continuity of Marxism
+
+Read this ICC work [here.](./Contents/communist-left-and-continuity-of-marxism.pdf)
+* 2007: Basic Positions of the ICC
+
+Read this ICC work [here.](./Contents/icc-positions.pdf)
+* 2010: The Communist-Left and Internationalist Anarchism
+
+Read part one of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-1.pdf)
+
+Read part two of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-2.pdf)
+
+Read part three of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-3.pdf)
+
+## Internationalist Communist Group
+![I'm too lazy to write the description for this](SituationistDetournement.png)
+
+* ????: Theses of Programmatical Orientation
+
+Read this ICG work [here.](./Contents/theses-of-programmatical-orientation.pdf)
+* ????: Communism Against Democracy
+
+Read this ICG work [here.](./Contents/communism-against-democracy.pdf)
 
 # Non-Essential Writings:
 
@@ -203,21 +250,6 @@ Read this Bordiga work [here.](./Contents/spirit-of-horsepower.pdf)
 ## Damen:
 ![Onorato Damen](OnoratoDamen.jpg)
 
-* 1946: Bourgeois Violence and Proletarian Defence
-
-Read this Damen work [here.](./Contents/bourgeois-violence.pdf)
-* 1951: Centralized Party? Yes. Centralism over the Party? No!
-
-Read this Damen work [here.](./Contents/centralized-party.pdf)
-* 1952: Points of Disagreement with the 1952 "Platform" Drafted by Bordiga
-
-Read this Damen work [here.](./Contents/points-of-disagreement.pdf)
-* 1952: Five Letters and an Outline of the Disagreement
-
-Read this Damen work [here.](./Contents/five-letters-and-an-outline-of-disagreement.pdf)
-* 1970: Amadeo Bordiga – Beyond the Myth and the Rhetoric
-
-Read this Damen work [here.](./Contents/bordiga-beyond-the-myth.pdf)
 * 1972: You Can't Build the Party Playing with Paradoxes
 
 Read this Damen work [here.](./Contents/you-can't-build-the-party-playing-with-paradoxes.pdf)
@@ -235,12 +267,6 @@ Read this work [here.](./Contents/anarchism-not-suitable.pdf)
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
-* 1925: Platform of the Committee of Intesa
-
-Read this ICT work [here.](./Contents/platform-of-the-committee-of-intesa.pdf)
-* 1994: Socialism or Barbarism
-
-Read this ICT work [here.](./Contents/socialism-or-barbarism.pdf)
 * 2000: Trotsky and the Internationalist Communist Left
 
 Read this ICT work [here.](./Contents/trotsky-and-the-internationalist-communist-left.pdf)
@@ -262,18 +288,10 @@ Read this ICT work [here.](./Contents/against-all-nationalisms.pdf)
 * 2016: The Party Question
 
 Read this ICT work [here.](./Contents/party-question.pdf)
-* 2018: Class Consciousness and Revolutionary Organisation
-
-Read this ICT work [here.](./Contents/class-consciousness-and-revolutionary-organisation.pdf)
-* 2019: For Communism
-
-Read this ICT work [here.](./Contents/for-communism.pdf)
-* 2020: Platform of the Internationalist Communist Tendency
-
-Read this ICT work [here.](./Contents/ict-platform.pdf)
 
 ## International Communist Current:
 ![International Communist Current Logo](ICCLogo.png)
+
 * 1992: Balance Sheet of 70 Years of "National Liberation" Struggles
 
 Read part one of this ICC work [here.](./Contents/balance-sheet-of-70-years-of-national-liberation-struggles-1.pdf)
@@ -290,28 +308,12 @@ Read part two of this ICC work [here.](./Contents/perspective-of-communism-2.pdf
 Read part three of this ICC work [here.](./Contents/perspective-of-communism-3.pdf)
 
 Read part four of this ICC work [here.](./Contents/perspective-of-communism-4.pdf)
-* 2004: Platform of the ICC
-
-Read this ICC work [here.](./Contents/icc-platform.pdf)
-* 2005: The Communist-Left and the Continuity of Marxism
-
-Read this ICC work [here.](./Contents/communist-left-and-continuity-of-marxism.pdf)
 * 2005: Unions Against the Working Class
 
 Read this ICC work [here.](./Contents/unions-against-the-working-class.pdf)
-* 2007: Basic Positions of the ICC
-
-Read this ICC work [here.](./Contents/icc-positions.pdf)
 * 2009: What Distinguishes Revolutionaries From Trotskyism?
 
 Read this ICC work [here.](./Contents/what-distinguishes-revolutionaries-from-trotskyism.pdf)
-* 2010: The Communist-Left and Internationalist Anarchism
-
-Read part one of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-1.pdf)
-
-Read part two of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-2.pdf)
-
-Read part three of this ICC work [here.](./Contents/communist-left-and-internationalist-anarchism-3.pdf)
 
 ## Gulf Coast Communist Fraction:
 ![GCCF Logo"](58aGaKrh.jpg_large)
@@ -332,15 +334,9 @@ Read this GCCF work [here.](./Contents/left-racialism.pdf)
 ## Internationalist Communist Group
 ![I'm too lazy to write the description for this](SituationistDetournement.png)
 
-* ????: Theses of Programmatical Orientation
-
-Read this ICG work [here.](./Contents/theses-of-programmatical-orientation.pdf)
 * 1979: Communism Against Democracy: Theses
 
 Read this ICG work [here.](./Contents/communism-against-democracy-theses.pdf)
-* ????: Communism Against Democracy
-
-Read this ICG work [here.](./Contents/communism-against-democracy.pdf)
 * ????: Human Activity Against Labour
 
 Read this ICG work [here.](./Contents/human-activity-against-labour.pdf)
