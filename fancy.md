@@ -13,6 +13,9 @@
   6. [Damen](#damen)
   7. [Pannekoek](#pannekoek)
 * [Non-Essential Writings](#non-essential-writings)
+  1. [Marx and Engels](#other-marx-and-engels)
+  2. [Lenin](#lenin)
+  3. [Pannekoek](#pannekoek)
   1. [Internationalist Communist Tendency](#internationalist-communist-tendency)
   2. [International Communist Current](#international-communist-current)
   3. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
@@ -79,15 +82,6 @@ Read this Marx work [here.](./Contents/paris-manuscripts.pdf)
 * 1852: The Eighteenth Brumaire of Louis Bonaparte
 
 Read this Marx work [here.](./Contents/18-brumaire-of-louis-bonaparte.pdf)
-* 1872: The Housing Question by Friedrich Engels
-
-Read this Engels work [here.](./Contents/housing-question.pdf)
-* 1872: On Authority by Friedrich Engels
-
-Read this Engels work [here.](./Contents/on-authority.pdf)
-* 1874: Conspectus of Bakunin’s Statism and Anarchy
-
-Read this Marx work [here.](./Contents/conspectus-of-bakunins-statism-and-anarchy.pdf)
 
 ## Lenin:
 ![Vladimir Lenin](image.png)
@@ -98,13 +92,13 @@ Read this Lenin work [here.](./Contents/imperialism.pdf)
 * 1918: State and Revolution
 
 Read this Lenin work [here.](./Contents/state-and-revolution.pdf)
-* 1920: "Left-Wing" Communism: an Infantile Disorder
-
-Read this Lenin work [here.](./Contents/left-wing-communism-infantile-disorder.pdf)
 
 ## Luxemburg
 ![Rosa Luxemburg](luxemburg.jpg)
 
+* 1899: Reform or Revolution?
+
+Read this Luxemburg work [here.](./Contents/reform-or-revolution.pdf)
 * 1909: The National Question
 
 Read this Luxemburg work [here.](./Contents/national-question.pdf)
@@ -174,17 +168,41 @@ Read this Damen work [here.](./Contents/you-can't-build-the-party-playing-with-p
 ## Pannekoek
 ![Anton Pannekoek](AntonPannekoek.jpg)
 
-* 1913: Socialism and Anarchism
-
-Read this work [here.](./Contents/socialism-and-anarchism.pdf)
 * 1936: Trade Unionism
 
 Read this work [here.](./Contents/trade-unionism.pdf)
+
+# Non-Essential Writings:
+
+## Marx and Engels:
+![Marx and Engels](Marx-Engels.jpg)
+
+* 1872: The Housing Question by Friedrich Engels
+
+Read this Engels work [here.](./Contents/housing-question.pdf)
+* 1872: On Authority by Friedrich Engels
+
+Read this Engels work [here.](./Contents/on-authority.pdf)
+* 1874: Conspectus of Bakunin’s Statism and Anarchy by Karl Marx
+
+Read this Marx work [here.](./Contents/conspectus-of-bakunins-statism-and-anarchy.pdf)
+
+## Lenin:
+![Vladimir Lenin](image.png)
+
+* 1920: "Left-Wing" Communism: an Infantile Disorder
+
+Read this Lenin work [here.](./Contents/left-wing-communism-infantile-disorder.pdf)
+
+## Pannekoek
+![Anton Pannekoek](AntonPannekoek.jpg)
+
+* 1913: Socialism and Anarchism
+
+Read this work [here.](./Contents/socialism-and-anarchism.pdf)
 * 1948: Anarchism not Suitable
 
 Read this work [here.](./Contents/anarchism-not-suitable.pdf)
-
-# Non-Essential Writings:
 
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
