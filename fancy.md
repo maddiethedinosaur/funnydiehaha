@@ -15,6 +15,7 @@
   8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
   9. [International Communist Current](#international-communist-current)
   10. [Internationalist Communist Group](#internationalist-communist-group)
+  11. [Single Works](#single-works)
 * [Non-Essential Writings](#non-essential-writings)
   1. [Marx and Engels](#other-marx-and-engels)
   2. [Lenin](#lenin)
