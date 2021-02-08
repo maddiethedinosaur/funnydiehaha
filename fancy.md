@@ -158,6 +158,19 @@ Read this Damen work [here.](./bordiga-beyond-the-myth.pdf)
 
 Read this Damen work [here.](./you-can't-build-the-party-playing-with-paradoxes.pdf)
 
+## Pannekoek
+![Anton Pannekoek](AntonPannekoek.jpg)
+
+* 1913: Socialism and Anarchism
+
+Read this work [here.](./socialism-and-anarchism.pdf)
+* 1936: Trade Unionism
+
+Read this work [here.](./trade-unionism.pdf)
+* 1948: Anarchism not Suitable
+
+Read this work [here.](./anarchism-not-suitable.pdf)
+
 ## Internationalist Communist Tendency:
 ![Internationalist Communist Party Logo](BattagliaComunistaLogo.png)
 
@@ -173,9 +186,18 @@ Read this ICT work [here.](./trotsky-and-the-internationalist-communist-left.pdf
 * 2005: The Communist Manifesto of 1875 - The Critique of the Gotha Programme
 
 Read this ICT work [here.](./communist-manifesto-of-1875-gothakritik.pdf)
+* 2010: The National Question Today and the Poisonous Legacy of the Counter-revolution
+
+Read this ICT work [here.](./national-question-today-and-the-poisonous-legacy-of-the-counter-revolution)
 * 2011: Capitalism and the Environment
 
 Read this ICT work [here.](./capitalism-and-the-environment.pdf)
+* 2015: Every Vote Is a Yes For Capitalism
+
+Read this ICT work [here.](./every-vote-is-a-yes-for-capitalism.pdf)
+* 2016: Against All Nationalisms
+
+Read this ICT work [here.](./against-all-nationalisms.pdf)
 * 2016: The Party Question
 
 Read this ICT work [here.](./party-question.pdf)
@@ -264,9 +286,6 @@ Read this work [here.](./kapd-manifesto.pdf)
 * 1934: Anti-Fascism: Formula for Confusion by Bilan
 
 Read this work [here.](./anti-fascism-formula-for-confusion.pdf)
-* 1936: Trade Unionism by Anton Pannekoek
-
-Read this work [here.](./trade-unionism.pdf)
 * 1967: The Society of the Spectacle by Guy Debord
 
 Read this work [here.](./society-of-the-spectacle.pdf)
@@ -282,6 +301,15 @@ Read this work [here.](./amsterdam-declaration.pdf)
 * 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
 
 Read this work [here.](./capitalist-realism.pdf)
+* 2013: “The Real Enemy?” Why We Should Reject Left Unity as a Concept by Phil Dickens
+
+Read this work [here.](./why-we-should-reject-left-unity-as-a-concept.pdf)
+* 2014: Unity for What and With Whom? A Polemic Against Left Unity by Scott Nappalos
+
+Read this work [here.](./unity-for-what-and-with-whom.pdf)
+* 2014: Communism is the Ascension of Humanity as the Subject of History: A Critique of Althusser and the Affirmation of Marx
+
+Read this work [here.](./communism-is-the-ascension-of-humanity-as-the-subject-of-history.pdf)
 * 2020: Manifesto of the International Communist Workers' Party
 
 Read this work [here.](./icwp-manifesto.pdf)
