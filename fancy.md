@@ -275,7 +275,7 @@ Read this GCCF work [here.](./Contents/left-racialism.pdf)
 ## American Fraction of the International Communist Left
 ![International Bulletin Volume 3, Issue 8](ibaflc.png)
 
-* 1948: Capitalist democracy: a Contrast Between the Position of Lenin and that of Trotsky
+* 1948: Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky
 
 Read this AFICL work [here.](./Contents/capitalist-democracy.pdf)
 * 1949: What We Stand For
