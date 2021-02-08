@@ -13,6 +13,8 @@
   6. [Damen](#damen)
   7. [Pannekoek](#pannekoek)
   8. [Internationalist Communist Tendency](#internationalist-communist-tendency)
+  9. [International Communist Current](#international-communist-current)
+  10. [Internationalist Communist Group](#internationalist-communist-group)
 * [Non-Essential Writings](#non-essential-writings)
   1. [Marx and Engels](#other-marx-and-engels)
   2. [Lenin](#lenin)
@@ -20,11 +22,11 @@
   4. [Damen](#damen)
   5. [Pannekoek](#pannekoek)
   6. [Internationalist Communist Tendency](#internationalist-communist-tendency)
-  2. [International Communist Current](#international-communist-current)
-  3. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
-  4. [Internationalist Communist Group](#internationalist-communist-group)
-  5. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
-  6. [Single Works](#single-works)
+  7. [International Communist Current](#international-communist-current)
+  8. [Gulf Coast Communist Fraction](#gulf-coast-communist-fraction)
+  9. [Internationalist Communist Group](#internationalist-communist-group)
+  10. [American Fraction of the International Communist Left](#american-fraction-of-the-international-communist-left)
+  11. [Single Works](#single-works)
 * [Miscellaneous](#miscellaneous)
   1. [Comparisons of the Positions of Various Left-Communist Groups](#comparisons-of-the-positions-of-various-left-communist-groups)
   2. [Images](#images)
@@ -208,6 +210,28 @@ Read this ICG work [here.](./Contents/theses-of-programmatical-orientation.pdf)
 * ????: Communism Against Democracy
 
 Read this ICG work [here.](./Contents/communism-against-democracy.pdf)
+
+## Single Works:
+![Sinistra's Current Twitter Profile Picture](twtpfp4.png)
+
+* 1917: Imperialism and World Economy by Nikolai Bukharin
+
+Read this work [here.](./Contents/imperialism-and-world-economy.pdf)
+* 1921: Manifesto of the German Anti Parliamentarians to the Proletariat of the World by the Communist Workers' Party of Germany/KAPD
+
+Read this work [here.](./Contents/kapd-manifesto.pdf)
+* 1934: Anti-Fascism: Formula for Confusion by Bilan
+
+Read this work [here.](./Contents/anti-fascism-formula-for-confusion.pdf)
+* 1967: The Society of the Spectacle by Guy Debord
+
+Read this work [here.](./Contents/society-of-the-spectacle.pdf)
+* 2009: Capitalist Realism: Is There No Alternative? by Mark Fisher
+
+Read this work [here.](./Contents/capitalist-realism.pdf)
+* 2020: Manifesto of the International Communist Workers' Party
+
+Read this work [here.](./Contents/icwp-manifesto.pdf)
 
 # Non-Essential Writings:
 
