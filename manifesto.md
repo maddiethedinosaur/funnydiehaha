@@ -1,4 +1,5 @@
 # Manifesto of the Internationalist Communist League
+![A Logo of the Pacific Northwest Communists](left-communist.png)
 
 ## Table of Contents
 
