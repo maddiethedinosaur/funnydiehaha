@@ -12,70 +12,59 @@
 
 ## Section 2: About the Party
 
-## Section 3: Views and Aims
+## Section 3: Views
 
-### Views
+### Capitalism:
 
-#### "Actually Existing Socialism"
-1. "Actually existing socialism" is a bourgeois lie to confuse and obscure the definition of socialism.
-2. No country that calls itself socialist is or was.
-3. These supposedly "socialist" states failed either due to being nationalist revolutions or isolation to one country.
+1. Capitalism is a mode of production, not a system of management.
+2. Capitalism comes in many forms, such as, private (most countries today, including the USA, UK, etc.), state (countries such as the USSR, Vietnam, Laos, etc.) and worker (co-ops, unions, etc.)
 
-#### Communist Society
-1. Communist society has no borders, class, money, commodity production, police, armies, state, scarcity, family, prisons, schools, exchange, wage labour, or work.
-2. In the lower phase of communist society, distribution is based upon contribution.
-3. Under higher phase communism, distribution is based on need.
+### Communism:
 
-#### Family
-1. The family is a social, legal, and financial unit represented as relatives expected to follow biological lines of descent.
-2. The ICL supports the abolition of the family unit.
-3. The family only serves a purpose in capitalist society.
-4. The family will be replaced by free association and communal methods of raising children.
+3. Communism is the society immediately following capitalism.
+4. Communist society is characterised by a lack of commodity production, the state, classes, money, exchange, nations, borders, private property, wage-labour, the division of labour, schools, prisons, the family, cities, scarcity, etc.
 
-#### Humanity
-1. The ICL views communism as the only viable solution for the survival of the human species.
-1. The ICL believes communism will lead to a new era of human freedom and development.
+### Proletarian Dictatorship:
 
-#### Party
-1. The ICL is for the party, but does not believe any existing organization is the party nor its sole nuclei.
-2. The party must be international and centralised.
-3. The party spreads the revolutionary programme in the class by interving within class struggles.
-4. The party leads the class during the revolution.
-5. Although we are for the party, we do not believe the party can replace the class.
+5. The method to achieve communist society is the global, centralised proletarian class dictatorship.
+6. Historically, the proletarian class dictatorship has been exercised via the soviets: councils of delegates centralised on various levels, the lowest being of a town or city and the highest being the planet itself (once the revolution has reached an international level).
 
-#### Proletarian Dictatorship
-1. The proletarian dictatorship is organized via soviets on various levels. The soviets are organizations of delegates from the whole working class of a specific region, on the lowest level belonging to a town.
-2. The proletarian dictatorship is not a defence of nations like China, Vietnam, Cuba, North Korea, etc. On the contrary, the proletarian dictatorship will have to be established in those countries via a working-class revolution.
-3. Police and the standing army do not exist during the proletarian dictatorship, as police are a tool of the bourgeois and standing armies usually lead to bureaucratization.
+### Party:
 
-#### Revolution
-1. The ICL believes in the neccesity of a international revolution led by the vanguard party as the only way to establish the proletarian dictatorship.
+7. The revolutionary party is required for the revolution to succeed, and it must exist before the revolution itself.
+8. The task of the revolutionary party is unifying workers' struggles, supplying the class with a revolutionary programme and leading it in the overthrow of capitalist society and the establishment of its class dictatorship.
 
-#### United Front
-1. The ICL recongizes the internationals of “Social-Democracy”, “Trotskyism” and “Marxism-Leninism” as the internationals of betrayal and the "communist" and "socialist" parties as bourgeois.
-2. The ICL is against collaboration with bourgeois and pseudo-proletarian parties and as such oppose the united front, which is a front opposed to the best interests of the class.
-3. The ICL opposes both fascism and anti-fascism. Historically anti-fascism has been used by Roosevelt, Churchill, Stalin and De Gaulle to justify mass slaughter of the proletariat and has been used as a way to distract the class from struggle.
+### United-Frontism:
 
-#### Unions
-1. All unions, whether “rank-and-file”, “industrial” or “trade” are either tools of the capitalist class that must be fought or blunt instruments unable to affect the system in any way.
-2. The ICL is for proletarian organization completely outside and against the unions.
-3. The ICL believes that communists should work inside the unions to spread the revolutionary programme, although we should never merge with the union.
+9. The internationals of the Stalinists, Maoists, Trotskyists, and Social Democrats are the internationals of the left-wing of capital and stand opposed to the class and its goals.
+10. Thus, communists refuse all cooperation with and any support for, said groups.
 
-#### National Liberation
-1. The ICL does not support any “national liberation” movements or ideologies and views them as bourgeois.
-2. The proletariat itself must revolt across the globe to establish a global proletarian dictatorship, instead of the whole of the “colonized/imperialized peoples” revolting and establishing a new bourgeois dictatorship.
+### Unions:
 
-#### Parliament
-1. The ICL sees parliamentary politics as a bourgeois merry-go-round and advocate abstentionism in elections. Change does not come through the ballot box, but through proletarians taking action against the capitalist class.
-2. The ICL chooses to not intervene in elections, but does intervene in the class struggle.
+11. Unions no longer serve proletarian interests and have been transformed into mere instruments of capital to strangle the class struggle.
+12. Unions cannot be reclaimed for proletarian interests.
 
-#### Work
-1. The ICL stands opposed to mandatory labour and supports the abolition of the division of labour.
+### Parliamentarism:
 
-#### War
-1. The ICL is unconditionally anti-war.
-2. It does not support either side in capitalist conflicts
-3. The ICL supports proletarian uprising against both sides in wars.
+13. Parliamentarism is to be refused. Communists should not participate in elections and refuse voting for any supposed "lesser evil".
+14. Historically, parliamentary and reformist movements lost their proletarian character and became servants to the interests of capital.
+15. These movements remain that way today.
 
+### National Liberation:
 
-## Section 4: Organization
+15. Struggles for national liberation have lost any progressive elements and therefore are not supported by communists.
+16. Everything that the national liberation movements can do now is merely replace the ruling class with a new one.
+
+### Internationalism:
+
+17. The proletarian revolution must occur on a international level otherwise it is nothing.
+18. The reasons why previous revolutions have failed are not due to the state or the vanguard, but because of their isolation to one country.
+
+### "Actually Existing Socialism":
+
+19. Nations which are supposed examples of "actually existing socialism" are capitalist countries dressed with labour slogans and red flags.
+20. These revolutions failed to create socialism due to either their isolation to one country or a nationalist, not proletarian, revolution.
+
+## Section 4: Aims
+
+## Section 5: Organization
