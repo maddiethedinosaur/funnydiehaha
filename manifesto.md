@@ -3,10 +3,12 @@
 
 ## Table of Contents
 
-- [Section 1: Preamble](#section-1--preamble)
-- [Section 2: About the Party](#section-2--about-the-party)
-- [Section 3: Views and Aims](#section-3--views-and-aims)
-- [Section 4: Organization](#section-4--organization)
+- [Section 1: Preamble](#section-1-preamble)
+- [Section 2: About the Party](#section-2-about-the-party)
+- [Section 3: Views](#section-3-views)
+- [Section 4: Aims](#section-3-aims)
+- [Section 5: Organization](#section-5-organization)
+- [Section 6: The Other Parties](#section-6-the-other-parties)
 
 ## Section 1: Preamble
 
