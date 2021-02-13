@@ -76,7 +76,7 @@
 
 ## Damen:
 
-1. [Centrised Party? Yes. Centralism over the PartyV No!](https://www.marxists.org/archive/damen/1951/centralised.htm)
+1. [Centrised Party? Yes. Centralism over the Party? No!](https://www.marxists.org/archive/damen/1951/centralised.htm)
 2. [Bourgeois Violence and Proletarian Defense](https://www.marxists.org/archive/damen/1946/bourgeois-violence.htm)
 3. [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm)
 4. [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm)
