@@ -1,20 +1,39 @@
 # Lilith Thought Reading List:
+![ICC Logo](ICCLogo.png)
+
+## Table of Contents:
+1. [Marx](#marx)
+2. [Pannekoek](#pannekoek)
+3. [Gorter](#gorter)
+4. [Pankhurst](#pankhurst)
+5. [Kommunistische Arbeiterpartei Deutschlands](#kommunistische-arbeiterpartei-deutschlands)
+6. [Bordiga](#bordiga)
+7. [Dunayevskaya](#dunayevskaya)
+8. [Debord](#debord)
+9. [Vaneigem](#vaneigem)
+10. [Damen](#damen)
+11. [International Communist Current](#international-communist-current)
+12. [Dauvé/Troploin](dauvétroploin)
+13. [Miasknikov](#miasknikov)
+14. [Internationalist Perspective](#internationalist-perspective)
+15. [Lenin](#lenin)
+16. [Bilan](#bilan)
 
 ## Marx:
 
-Critique of the Gotha Programme: https://www.marxists.org/archive/marx/works/1875/gotha/index.htm
-Conspectus of Bakunin’s Statism and Anarchy: https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm
-The Poverty of Philosophy: https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/
-Civil War in France: https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm
-The Paris Manuscripts: https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm
-Theses on Feuerbach: https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
+1. Critique of the Gotha Programme: https://www.marxists.org/archive/marx/works/1875/gotha/index.htm
+2. Conspectus of Bakunin’s Statism and Anarchy: https://www.marxists.org/archive/marx/works/1874/04/bakunin-notes.htm
+3. The Poverty of Philosophy: https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/
+4. Civil War in France: https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm
+5. The Paris Manuscripts: https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm
+6. Theses on Feuerbach: https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
 
 ## Pannekoek:
 
-Workers Councils (Essay): https://www.marxists.org/archive/pannekoe/1936/councils.htm
-State Capitalism and Dictatorship: https://www.marxists.org/archive/pannekoe/1936/dictatorship.htm
-Public Ownership and Common Ownership: https://www.marxists.org/archive/pannekoe/1947/public-ownership.htm
-Trade Unionism: https://www.marxists.org/archive/pannekoe/1936/union.htm
+1. Workers' Councils (Essay): https://www.marxists.org/archive/pannekoe/1936/councils.htm
+2. State Capitalism and Dictatorship: https://www.marxists.org/archive/pannekoe/1936/dictatorship.htm
+3. Public Ownership and Common Ownership: https://www.marxists.org/archive/pannekoe/1947/public-ownership.htm
+4. Trade Unionism: https://www.marxists.org/archive/pannekoe/1936/union.htm
 
 ## Gorter:
 
