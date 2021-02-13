@@ -13,7 +13,7 @@
 9. [Vaneigem](#vaneigem)
 10. [Damen](#damen)
 11. [International Communist Current](#international-communist-current)
-12. [Dauvé/Troploin](dauvétroploin)
+12. [Dauvé/Troploin](#dauvétroploin)
 13. [Miasknikov](#miasknikov)
 14. [Internationalist Perspective](#internationalist-perspective)
 15. [Lenin](#lenin)
