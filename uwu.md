@@ -1,19 +1,19 @@
-Anarchy and Scientific Communism by Nikolai Bukharin
-Socialism and Anarchism by Anton Pannekoek
-Anarchism not Suitable by Anton Pannekoek
-The Communist-Left and Internationalist Anarchism by the International Communist Current
-Beyond Anti-Fascism by the Internationalist Communist Tendency
-Anti-Fascism: Formula for Confusion by Bilan
-Capital, Chapter One by Karl Marx
-Wage Labor and Capital by Karl Marx
-Imperialism: The Highest Stage of Capitalism by V.I. Lenin
-Imperialism and World Economy by Nikolai Bukharin
-A Contribution to the Critique of Political Economy, Preface by Karl Marx
-Doctrine of the Body Possessed by the Devil by Amadeo Bordiga
-State Capitalism and Dictatorship by Anton Pannekoek
-The Society of the Spectacle by Guy Debord
-Capitalist Realism: Is There No Alternative? by Mark Fisher
-Principles of Communism by Friedrich Engels
+* Anarchy and Scientific Communism by Nikolai Bukharin
+* Socialism and Anarchism by Anton Pannekoek
+* Anarchism not Suitable by Anton Pannekoek
+* The Communist-Left and Internationalist Anarchism by the International Communist Current
+* Beyond Anti-Fascism by the Internationalist Communist Tendency
+* Anti-Fascism: Formula for Confusion by Bilan
+* Capital, Chapter One by Karl Marx
+* Wage Labor and Capital by Karl Marx
+* Imperialism: The Highest Stage of Capitalism by V.I. Lenin
+* Imperialism and World Economy by Nikolai Bukharin
+* A Contribution to the Critique of Political Economy, Preface by Karl Marx
+* Doctrine of the Body Possessed by the Devil by Amadeo Bordiga
+* State Capitalism and Dictatorship by Anton Pannekoek
+* The Society of the Spectacle by Guy Debord
+* Capitalist Realism: Is There No Alternative? by Mark Fisher
+* Principles of Communism by Friedrich Engels
 The Communist Manifesto by Karl Marx
 For Communism by the Internationalist Communist Tendency
 Platform of the Internationalist Communist Tendency by the Internationalist Communist Tendency
@@ -26,35 +26,34 @@ Eighteenth Brumaire of Louis Bonaparte by Karl Marx
 The Formation of the Red Army by Karl Radek
 Bourgeois Violence and Proletarian Defence by Onorato Damen
 The Spirit of Horsepower by Amadeo Bordiga
-The Civil War in France by Karl Marx
-The Democratic Principle by Amadeo Bordiga
-Communism Against Democracy by the Internationalist Communist Group
-Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky by
-American Fraction of the International Communist-Left
-The Human Species and the Earth's Crust by Amadeo Bordiga
-Capitalism and the Environment by Mauro Stefanini
-The Origin of the Family, Private Property and the State by Friedrich Engels
-Kinderkommunismus: A Feminist Analysis of the 21st Century Family and a Communist
-Proposal for Its Abolition by KD Griffiths and JJ Gleeson
-Communism and the Family by Alexandra Kollontai
-Theses on the Right of Nations to Self-determination by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin
-The National Question by Rosa Luxemburg
-Trotsky, Trotskyism, Trotskyists by the Internationalist Communist Tendency
-Stalin and Stalinism by the Internationalist Communist Tendency
-What Distinguishes Revolutionaries from Trotskyism? by the Internationalist Communist Tendency
-Trotskyism and the Labour Party by American Fraction of the International Communist-Left
-The Junius Pamphlet by Rosa Luxemburg
-Party and Class by Amadeo Bordiga
-Centralised Party, Yes – Centralism over the Party, No! by Onorato Damen
-You Can’t Build the Party Playing with Paradoxes by Onorato Damen
-Class Consciousness and Revolutionary Organisation by the Internationalist Communist Tendency
-Theses on Feuerbach by Karl Marx
-The Irrational in the World of the Superstructure by Onorato Damen
-The Paris Manuscripts by Karl Marx
-The German Ideology (Chapter 1) by Karl Marx
-Socialism: Utopian and Scientific by Friedrich Engels
-Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
-The Revolutionary Programme of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour by the International Communist Party
+* The Civil War in France by Karl Marx
+* The Democratic Principle by Amadeo Bordiga
+* Communism Against Democracy by the Internationalist Communist Group
+* Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky by American Fraction of the International Communist-Left
+* The Human Species and the Earth's Crust by Amadeo Bordiga
+* Capitalism and the Environment by Mauro Stefanini
+* The Origin of the Family, Private Property and the State by Friedrich Engels
+* Kinderkommunismus: A Feminist Analysis of the 21st Century Family and a Communist
+* Proposal for Its Abolition by KD Griffiths and JJ Gleeson
+* Communism and the Family by Alexandra Kollontai
+* Theses on the Right of Nations to Self-determination by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin
+* The National Question by Rosa Luxemburg
+* Trotsky, Trotskyism, Trotskyists by the Internationalist Communist Tendency
+* Stalin and Stalinism by the Internationalist Communist Tendency
+* What Distinguishes Revolutionaries from Trotskyism? by the Internationalist Communist Tendency
+* Trotskyism and the Labour Party by American Fraction of the International Communist-Left
+* The Junius Pamphlet by Rosa Luxemburg
+* Party and Class by Amadeo Bordiga
+* Centralised Party, Yes – Centralism over the Party, No! by Onorato Damen
+* You Can’t Build the Party Playing with Paradoxes by Onorato Damen
+* Class Consciousness and Revolutionary Organisation by the Internationalist Communist Tendency
+* Theses on Feuerbach by Karl Marx
+* The Irrational in the World of the Superstructure by Onorato Damen
+* The Paris Manuscripts by Karl Marx
+* The German Ideology (Chapter 1) by Karl Marx
+* Socialism: Utopian and Scientific by Friedrich Engels
+* Ludwig Feuerbach and the End of Classical German Philosophy by Friedrich Engels
+* The Revolutionary Programme of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour by the International Communist Party
 Public Ownership and Common Ownership by Anton Pannekoek
 Reform or Revolution by Rosa Luxemburg
 The Proletarian Revolution and the Renegade Kautsky by V.I. Lenin
