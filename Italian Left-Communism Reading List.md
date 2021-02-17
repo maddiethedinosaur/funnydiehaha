@@ -39,7 +39,6 @@
 ## Anti-Fascism
 
 * [Beyond Anti-Fascism](http://www.leftcom.org/en/articles/2015-03-09/beyond-anti-fascism) by the Internationalist Communist Tendency
-
 * [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
 
 ## Capitalism
@@ -88,14 +87,12 @@
 
 * [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
-
 * [The Civil War in France](https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm) by Karl Marx
 
 ## Humanism
 
 * [The Amsterdam Declaration](https://humanists.international/what-is-humanism/the-amsterdam-declaration/) by Humanist International
-* [Communism is the Ascension of Humanity as the Subject of History: A Critique of
-  Althusser and the Affirmation of Marx](http://www.unityandstruggle.org/2014/07/communism-is-the-ascension-of-humanity-as-the-subject-of-history-a-critique-of-althusser-and-the-affirmation-of-marx/) by Gussel Sprouts
+* [Communism is the Ascension of Humanity as the Subject of History: A Critique of Althusser and the Affirmation of Marx](http://www.unityandstruggle.org/2014/07/communism-is-the-ascension-of-humanity-as-the-subject-of-history-a-critique-of-althusser-and-the-affirmation-of-marx/) by Gussel Sprouts
 * [Marx’s Humanism Today](https://www.marxists.org/archive/dunayevskaya/works/1965/marx-humanism.htm) by Raya Dunayevskaya
 * [Marxist-Humanism’s concept of Subject](https://www.marxists.org/archive/dunayevskaya/works/1971/subject.htm) by Raya Dunayevskaya
 * [The Uniqueness of Marxist-Humanism](https://www.marxists.org/archive/dunayevskaya/works/1963/uniqueness.htm) by Raya Dunayevskaya
@@ -123,7 +120,6 @@
 ## Philosophy
 
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
-
 * [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
 * [The Paris Manuscripts](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm) by Karl Marx
 * [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
@@ -134,7 +130,6 @@
 ## Property
 
 * [The Revolutionary Programme of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour](https://libcom.org/library/revolutionary-program-communist-society-eliminates-all-forms-ownership-land-instruments-) by the International Communist Party
-
 * [Public Ownership and Common Ownership](https://www.marxists.org/archive/pannekoe/1947/public-ownership.htm) by  Anton Pannekoek
 
 ## Revolution
