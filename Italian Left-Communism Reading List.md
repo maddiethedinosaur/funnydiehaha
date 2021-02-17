@@ -56,7 +56,7 @@
 ## Communism
 
 * [Principles of Communism](https://marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
-* [Principles of Communism]() by the Pacific Northwest Communists
+* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) by Karl Marx
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
