@@ -56,7 +56,7 @@
 ## Communism
 
 * [Principles of Communism](https://marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
-* [Principles of Communism]() by Pacific Northwest Communists
+* [Principles of Communism]() by the Pacific Northwest Communists
 * [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) by Karl Marx
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
@@ -97,7 +97,7 @@
 * [Marx’s Humanism Today](https://www.marxists.org/archive/dunayevskaya/works/1965/marx-humanism.htm) by Raya Dunayevskaya
 * [Marxist-Humanism’s concept of Subject](https://www.marxists.org/archive/dunayevskaya/works/1971/subject.htm) by Raya Dunayevskaya
 * [The Uniqueness of Marxist-Humanism](https://www.marxists.org/archive/dunayevskaya/works/1963/uniqueness.htm) by Raya Dunayevskaya
-* [Marxism and Freedom]() by Raya Dunayevskaya
+* [Marxism and Freedom](https://github.com/maddiethedinosaur/maddiethedinosaur.github.io/blob/main/MARXISM_AND_FREEDOM.pdf) by Raya Dunayevskaya
 
 ## National Liberation
 
