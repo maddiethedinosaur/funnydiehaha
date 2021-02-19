@@ -83,10 +83,11 @@
   - [Introductions to Our Positions 1](http://www.leftcom.org/en/articles/2020-02-03/the-italian-communist-left)
   - [Introductions to Our Positions 2](http://www.leftcom.org/en/articles/2020-02-05/the-internationalist-communist-party)
   - [Introductions to Our Positions 3](http://www.leftcom.org/en/articles/2020-02-18/the-internationalist-communist-tendency)
-* [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
-* [Manifesto of the ICWP](https://docs.google.com/document/d/1N3SgrTwbW3pc0CKerVCoLhBSvsS8gw8nbe9z7ZFHfn0/edit?usp=sharing) by the International Communist Workers' Party
+* [Manifesto of the International Communist Workers' Party](https://docs.google.com/document/d/1N3SgrTwbW3pc0CKerVCoLhBSvsS8gw8nbe9z7ZFHfn0/edit?usp=sharing)
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
+* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
+* [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
 
 ### Anarchism
 
