@@ -5,8 +5,12 @@
 * [Intro to Communism](#intro-to-communism)
   - [Intro](#intro)
   - [Anti-Political Economy](#anti-political-economy)
+  - [Family](#family)
+  - [Environment](#environment)
+  - [Imperialism](#imperialism)
   - [Philosophy](#philosophy)
   - [State](#state)
+  - [War](#war)
   - [Work](#work)
 * [Intro to Left-Communism](#intro-to-left-communism)
   - [Intro](#intro)
@@ -14,6 +18,7 @@
   - [Anti-Fascism](#anti-fascism)
   - [Damen vs Bordiga Split](#damen-vs-bordiga-split)
   - [Falsifiers](#falsifiers)
+  - [Family](#family)
   - [More Intro](#more-intro)
   - [Nationalism](#nationalism)
   - [Party](#party)
@@ -36,6 +41,19 @@
 * [A Contribution to the Critique of Political Economy (Preface)](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm) by Karl Marx
 * [Capital, (Chapter 1)](https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm) by Karl Marx
 
+### Family
+
+* [Communism and the Family](https://www.marxists.org/archive/kollonta/1920/communism-family.htm) by Alexandra Kollontai
+
+### Environment
+
+* [Capitalism and the Environment](https://www.leftcom.org/files/Capitalism%20and%20the%20Environment%20%282011%29.pdf) by Mauro Stefanini
+
+### Imperialism
+
+* [Imperialism: the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/) by V.I. Lenin
+* [Imperialism and World Economy](https://www.marxists.org/archive/bukharin/works/1917/imperial/) by Nikolai Bukharin
+
 ### Philosophy
 
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
@@ -51,6 +69,10 @@
 ### Work
 
 * [The Right to be Lazy](https://marxists.org/archive/lafargue/1883/lazy/) by Paul Lafargue
+
+### War
+
+* [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 
 ## Left-Communism
 
@@ -76,6 +98,7 @@
 
 * [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
 * [Beyond Anti-Fascism](https://www.leftcom.org/en/articles/2015-03-09/beyond-anti-fascism) by the Internationalist Communist Tendency
+* [Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky](https://libcom.org/library/capitalist-democracy-contrast-between-position-lenin-trotsky-%E2%80%93-american-fraction-left-co) by the American Fraction of the International Communist Left
 
 ### Damen vs Bordiga Split
 
@@ -108,13 +131,13 @@
 * [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
 * [Centralised Party, Yes – Centralism over the Party, No!](https://marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
 * [Class Consciousness and Revolutionary Organisation](https://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
+* [You Can’t Build the Party Playing with Paradoxes](https://www.leftcom.org/en/articles/2014-10-13/you-can%E2%80%99t-build-the-party-playing-with-paradoxes) by Onorato Damen
 
-### Revolution and War
+### Revolution
 
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution/) by Rosa Luxemburg
 * [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V.I. Lenin
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
-* [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 
 ### Unions
