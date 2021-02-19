@@ -70,7 +70,6 @@
 
 * [The Democratic Principle](https://www.marxists.org/archive/bordiga/works/1922/democratic-principle.htm) by Amadeo Bordiga
 * [Communism Against Democracy](http://libcom.org/library/communism-against-democracy-communism-4) by the Internationalist Communist Group
-* [Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky](https://libcom.org/library/capitalist-democracy-contrast-between-position-lenin-trotsky-%E2%80%93-american-fraction-left-co) by American Fraction of the International Communist-Left
 
 ## Environment
 
@@ -111,6 +110,7 @@
 * [What Distinguishes Revolutionaries from Trotskyism?](https://en.internationalism.org/ir/139/trotsykism ) by the International Communist Current
 * [Trotskyism and the Labour Party](https://libcom.org/library/trotskyism-labor-party-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left
 * [The Junius Pamphlet](https://www.marxists.org/archive/luxemburg/1915/junius/) by Rosa Luxemburg
+* [Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky](https://libcom.org/library/capitalist-democracy-contrast-between-position-lenin-trotsky-%E2%80%93-american-fraction-left-co) by American Fraction of the International Communist-Left
 
 ## Party
 
