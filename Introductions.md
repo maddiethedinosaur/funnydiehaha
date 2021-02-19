@@ -36,6 +36,7 @@
 * [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 * [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
 * [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
-* [](https://www.marxists.org/archive/bukharin/works/1918/ps.htm) by 
-* [](https://www.marxists.org/archive/pannekoe/1936/councils.htm) by Anton Pannekoek
-* [](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
+* [piss](https://www.marxists.org/archive/bukharin/works/1918/ps.htm) by 
+* [councils](https://www.marxists.org/archive/pannekoe/1936/councils.htm) by Anton Pannekoek
+* [ir](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
+* [About Us](https://www.leftcom.org/en/about-us) by the Internationalist Communist Tendency
