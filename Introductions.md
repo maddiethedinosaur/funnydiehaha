@@ -89,6 +89,7 @@
 * [What Distinguishes Revolutionaries from Trotskyism?](https://en.internationalism.org/ir/139/trotsykism) by the International Communist Current
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskyism) by the Internationalist Communist Tendency
 * [Doctrine of the Body Possesed by the Devil](https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm) by Amadeo Bordiga
+* [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
 
 ### Nationalism
 
@@ -121,5 +122,4 @@
 
 ### Misc
 
-* [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
 * [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
