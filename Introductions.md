@@ -119,6 +119,8 @@
 ### Misc
 
 * [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
+* [Fundamentals of Revolutionary Communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga) by the International Communist Party
+* [The Democratic Principle](https://www.marxists.org/archive/bordiga/works/1922/democratic-principle.htm) by Amadeo Bordiga
 
 ### More Intro
 
