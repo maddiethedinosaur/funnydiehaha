@@ -56,15 +56,8 @@
 ## Communism
 
 * [Principles of Communism](https://marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
-* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) by Karl Marx
-* [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
-* [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
-* [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
 * [Critique of the Gotha Programme](https://marxists.org/archive/marx/works/1875/gotha/) by Karl Marx
-* [Fundamentals of Revolutionary Communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga) by the International Communist Party
-* [The Original Content of the Communist Programme](https://www.marxists.org/archive/bordiga/works/1958/marxism-property.htm) by the International Communist Party
-* [Manifesto of the International Communist Workers' Party](https://docs.google.com/document/d/1N3SgrTwbW3pc0CKerVCoLhBSvsS8gw8nbe9z7ZFHfn0/edit?usp=sharing)
 
 ## Democracy
 
@@ -170,6 +163,17 @@
 * [Background on the Italian Communist Left, Bordiga and Bordigism](http://www.leftcom.org/en/articles/2003-08-01/background-on-the-italian-communist-left-bordiga-and-bordigism) by the Internationalist Communist Tendency
 * [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
 * [Five Letters and An Outline of Disagreement](http://www.leftcom.org/en/articles/2013-05-15/bordiga-beyond-the-myth-five-letters-and-an-outline-of-disagreement) by Onorato Damen
+* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
+* [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
+* [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
+* [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
+* [Fundamentals of Revolutionary Communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga) by the International Communist Party
+* [The Original Content of the Communist Programme](https://www.marxists.org/archive/bordiga/works/1958/marxism-property.htm) by the International Communist Party
+* [Manifesto of the International Communist Workers' Party](https://docs.google.com/document/d/1N3SgrTwbW3pc0CKerVCoLhBSvsS8gw8nbe9z7ZFHfn0/edit?usp=sharing)
+* [The Italian Communist Left](https://www.leftcom.org/en/articles/2020-02-03/the-italian-communist-left) by the Internationalist Communist Tendency
+* [The Internationalist Communist Party](https://www.leftcom.org/en/articles/2020-02-05/the-internationalist-communist-party) by the Internationalist Communist Tendency
+* [The Internationalist Communist Tendency](https://www.leftcom.org/en/articles/2020-02-18/the-internationalist-communist-tendency) by the Internationalist Communist Tendency
+* [Platform of the Committee of Intesa](http://www.leftcom.org/files/Platform%20of%20the%20Committee%20of%20Intesa%201925%20%282011%29_0.pdf) by the Internationalist Communist Tendency
 
 ## Unions
 
