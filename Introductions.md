@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Intro to Communism](#intro-to-communism)
   - [Intro](#intro)
-  - [Anti-Political Economy](#Anti-Political Economy)
+  - [Anti-Political Economy](#anti-political-economy)
   - [Philosophy](#philosophy)
   - [State](#state)
   - [Work](#work)
