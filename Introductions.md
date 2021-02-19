@@ -9,6 +9,7 @@
   - [State](#state)
   - [Work](#work)
 * [Intro to Left-Communism](#intro-to-left-communism)
+  - [Intro](#intro)
 
 ## Intro to Communism
 
@@ -52,10 +53,43 @@
 * [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
+* [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 
 ### Anarchism
 
 * [Anarchy and Scientific Communism](https://www.marxists.org/archive/bukharin/works/1918/ps.htm) by Nikolai Bukharin
+* [Socialism and Anarchism](https://www.marxists.org/archive/pannekoe/1913/socialism-anarchism.htm) by Anton Pannekoek
+
+### Anti-Fascism
+
+* [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
+* [Beyond Anti-Fascism](https://www.leftcom.org/en/articles/2015-03-09/beyond-anti-fascism) by the Internationalist Communist Tendency
+
+### Damen vs Bordiga Split
+
+* [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm) by Onorato Damen
+* [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
+* [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
+
+### Falsifiers
+
+* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
+* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
+* [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
+* [What Distinguishes Revolutionaries from Trotskyism?](https://en.internationalism.org/ir/139/trotsykism) by the International Communist Current
+* [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskyism) by the Internationalist Communist Tendency
+* [Doctrine of the Body Possesed by the Devil](https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm) by Amadeo Bordiga
+
+### Nationalism
+
+* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
+* [Theses on the Right of Nations to Self-determination by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin)
+
+### Party
+
+* [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
+* [Centralised Party, Yes – Centralism over the Party, No!](https://marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
+* [Class Consciousness and Revolutionary Organisation](https://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
 
 ### Revolution and War
 
@@ -65,35 +99,17 @@
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 
-### Nationalism
+### Unions
 
-* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
-* [Theses on the Right of Nations to Self-determination by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin)
-
-### Falsifiers
-
-* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
-* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
-* [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
-
-### Party
-
-* [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
-* [Centralised Party, Yes – Centralism over the Party, No!](https://marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
-* [Class Consciousness and Revolutionary Organisation](https://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
-
-* [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
+* [Unions Against the Working Class](https://en.internationalism.org/pamphlets/unions.htm) by the International Communist Current
 * [On the Union Question](https://libcom.org/library/union-question-amadeo-bordiga-onorato-damen) by Amadeo Bordiga and Onorato Damen
-
-### Damen vs Bordiga Split
-
-* [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm) by Onorato Damen
-* [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
-* [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
 
 ### Workers' Councils
 
 * [Workers' Councils](https://www.marxists.org/archive/pannekoe/1936/councils.htm) by Anton Pannekoek
 * [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) by Amadeo Bordiga
-* [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
+
+### Misc
+
+* [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
 * [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
