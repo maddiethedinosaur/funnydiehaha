@@ -13,7 +13,7 @@
 * [Family](#family)
 * [Humanism](#humanism)
 * [National Liberation](#national-liberation)
-* [On Reactionaries](#on-reactionaries)
+* [On Falsifiers and Deniers](#on-falsifiers-and-deniers)
 * [Party](#party)
 * [Philosophy](#philosophy)
 * [Property](#property)
@@ -83,12 +83,6 @@
 * [Kinderkommunismus: A Feminist Analysis of the 21st Century Family and a Communist Proposal for Its Abolition](https://subversionpress.files.wordpress.com/2015/06/kinderkom.pdf) by KD Griffiths and JJ Gleeson
 * [Communism and the Family](https://www.marxists.org/archive/kollonta/1920/communism-family.htm) by Alexandra Kollontai
 
-## History
-
-* [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
-* [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
-* [The Civil War in France](https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm) by Karl Marx
-
 ## Humanism
 
 * [The Amsterdam Declaration](https://humanists.international/what-is-humanism/the-amsterdam-declaration/) by Humanist International
@@ -97,13 +91,14 @@
 * [Marxist-Humanism’s concept of Subject](https://www.marxists.org/archive/dunayevskaya/works/1971/subject.htm) by Raya Dunayevskaya
 * [The Uniqueness of Marxist-Humanism](https://www.marxists.org/archive/dunayevskaya/works/1963/uniqueness.htm) by Raya Dunayevskaya
 * [Marxism and Freedom](https://github.com/maddiethedinosaur/maddiethedinosaur.github.io/blob/main/MARXISM_AND_FREEDOM.pdf) by Raya Dunayevskaya
+* [The Paris Manuscripts](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm) by Karl Marx
 
 ## National Liberation
 
 * [Theses on the Right of Nations to Self-determination](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin) by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin
 * [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
 
-## On Reactionaries
+## On Falsifiers and Deniers
 
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskyism) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
@@ -111,6 +106,7 @@
 * [Trotskyism and the Labour Party](https://libcom.org/library/trotskyism-labor-party-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left
 * [The Junius Pamphlet](https://www.marxists.org/archive/luxemburg/1915/junius/) by Rosa Luxemburg
 * [Capitalist Democracy: a Contrast Between the Position of Lenin and that of Trotsky](https://libcom.org/library/capitalist-democracy-contrast-between-position-lenin-trotsky-%E2%80%93-american-fraction-left-co) by American Fraction of the International Communist-Left
+* [Stalinists Falsify Marxism Anew](https://www.marxists.org/archive/dunayevskaya/works/1948/stalinists-falsify.htm) by Raya Dunayevskaya
 
 ## Party
 
@@ -123,7 +119,6 @@
 
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
 * [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
-* [The Paris Manuscripts](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm) by Karl Marx
 * [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
 * [Socialism: Utopian and Scientific](https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
 * [Ludwig Feuerbach and the End of Classical German Philosophy](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm) by Friedrich Engels
@@ -141,6 +136,7 @@
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 * [The Defeat of One’s Own Government in the Imperialist War](https://www.marxists.org/archive/lenin/works/1915/jul/26.htm) by V.I. Lenin
 * [The April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) by V.I. Lenin
+* [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
 
 ## "Socialist" States
 
@@ -149,13 +145,14 @@
 * [Mao’s China, Certified Copy of the Bourgeois Capitalist Society](http://materialnecessity.org/2019/09/05/maos-china-certified-copy-of-the-bourgeois-capitalist-society-1957/) by Amadeo Bordiga
 * [Aspects of the Russian Question](https://libcom.org/library/aspects-russian-question-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left
 * [The Nature of the Russian Economy](https://www.marxists.org/archive/dunayevskaya/works/1946/statecap.htm) by Raya Dunayevskaya
-* [Stalinists Falsify Marxism Anew](https://www.marxists.org/archive/dunayevskaya/works/1948/stalinists-falsify.htm) by Raya Dunayevskaya
 * [The Philosophy of the Yenan period: Mao Perverts Lenin](https://www.marxists.org/archive/dunayevskaya/works/articles/raya.htm) by Raya Dunayevskaya
 * [50 Years After the Revolution – Mao, Hegel, and Dialectics in China](https://www.marxists.org/archive/dunayevskaya/works/1957/maos-dialectics.htm) by Raya Dunayevskaya
 
 ## State
 
-* [State and Revolution](https://marxists.org/archive/lenin/works/1917/staterev/) by Vladimir Lenin
+* [State and Revolution](https://marxists.org/archive/lenin/works/1917/staterev/) by V.I. Lenin
+* [The Civil War in France](https://www.marxists.org/archive/marx/works/1871/civil-war-france/index.htm) by Karl Marx
+* [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
 
 ## Tactics
 
