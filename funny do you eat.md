@@ -28,7 +28,7 @@
 - [x] PEAS
 - [ ] WATERMELON
 - [x] PINEAPPLE
-- [] MILK
+- [ ] MILK
 - [x] BEETS
 - [x] MUSTARD
 - [x] VINEGAR
