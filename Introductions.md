@@ -1,4 +1,4 @@
-# ☭ Introduction to the Communist-Left☭ 
+# ☭ Introduction to the Communist-Left ☭ 
 ![no](left-communist.png)
 
 ## Table of Contents
