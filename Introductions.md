@@ -10,6 +10,16 @@
   - [Work](#work)
 * [Intro to Left-Communism](#intro-to-left-communism)
   - [Intro](#intro)
+  - [Anarchism](#anarchism)
+  - [Anti-Fascism](#anti-fascism)
+  - [Damen vs Bordiga Split](#damen-vs-bordiga-split)
+  - [Falsifiers](#falsifiers)
+  - [Nationalism](#nationalism)
+  - [Party](#party)
+  - [Revolution and War](#revolution-and-war)
+  - [Unions](#unions)
+  - [Workers' Councils](#workers-councils)
+  - [Misc](#misc)
 
 ## Intro to Communism
 
