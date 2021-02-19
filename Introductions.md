@@ -105,8 +105,8 @@
 * [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm) by Onorato Damen
 * [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
 * [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
-* [Axioms of Revolutionary Theory and Practice] (https://www.marxists.org/archive/damen/1974/axioms.htm) by Onorato Damen
-* [The "Absolutes" of Neo-Idealism] (https://www.marxists.org/archive/damen/1975/absolutes.htm) by Onorato Damen
+* [Axioms of Revolutionary Theory and Practice](https://www.marxists.org/archive/damen/1974/axioms.htm) by Onorato Damen
+* [The "Absolutes" of Neo-Idealism](https://www.marxists.org/archive/damen/1975/absolutes.htm) by Onorato Damen
 
 ### Falsifiers
 
