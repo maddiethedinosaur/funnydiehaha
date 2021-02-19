@@ -145,7 +145,6 @@
 ## "Socialist" States
 
 * [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
-
 * [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 * [Mao’s China, Certified Copy of the Bourgeois Capitalist Society](http://materialnecessity.org/2019/09/05/maos-china-certified-copy-of-the-bourgeois-capitalist-society-1957/) by Amadeo Bordiga
 * [Aspects of the Russian Question](https://libcom.org/library/aspects-russian-question-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left
