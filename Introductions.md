@@ -14,6 +14,7 @@
   - [Anti-Fascism](#anti-fascism)
   - [Damen vs Bordiga Split](#damen-vs-bordiga-split)
   - [Falsifiers](#falsifiers)
+  - [More Intro](#more-intro)
   - [Nationalism](#nationalism)
   - [Party](#party)
   - [Revolution and War](#revolution-and-war)
@@ -62,9 +63,9 @@
   - [Introductions to Our Positions 3](http://www.leftcom.org/en/articles/2020-02-18/the-internationalist-communist-tendency)
 * [The Lyons Theses](https://www.marxists.org/archive/bordiga/works/1926/lyons-theses.htm) by Amadeo Bordiga
 * [Manifesto of the ICWP](https://docs.google.com/document/d/1N3SgrTwbW3pc0CKerVCoLhBSvsS8gw8nbe9z7ZFHfn0/edit?usp=sharing) by the International Communist Workers' Party
+* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
-* [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 
 ### Anarchism
 
@@ -91,6 +92,11 @@
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskyism) by the Internationalist Communist Tendency
 * [Doctrine of the Body Possesed by the Devil](https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm) by Amadeo Bordiga
 * [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
+
+### More Intro
+
+* [Background on the Italian Communist Left, Bordiga and Bordigism](http://www.leftcom.org/en/articles/2003-08-01/background-on-the-italian-communist-left-bordiga-and-bordigism) by the Internationalist Communist Tendency
+* [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 
 ### Nationalism
 
