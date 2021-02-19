@@ -1,0 +1,61 @@
+# 1 Point = Everything You Don't Eat on this List
+
+- [x] LETTUCE
+- [x] BRUSSEL SPROUTS
+- [x] CUCUMBER
+- [ ] EGGS
+- [x] LIVER
+- [ ] PICKLES
+- [x] AVOCADO
+- [ ] ORANGES
+- [x] APPLES
+- [ ] WHEAT BREAD
+- [ ] YOGURT
+- [ ] KETCHUP
+- [x] RANCH DRESSING
+- [x] BLUE CHEESE
+- [x] CANNED TUNA
+- [x] CRAB
+- [x] GRAPES
+- [x] PEANUT BUTTER
+- [ ] PORK
+- [x] TOFU
+- [x] CABBAGE
+- [x] ZUCCHINI
+- [x] ASPARAGUS
+- [x] CELERY
+- [x] EGG PLANT
+- [x] PEAS
+- [ ] WATERMELON
+- [x] PINEAPPLE
+- [] MILK
+- [x] BEETS
+- [x] MUSTARD
+- [x] VINEGAR
+- [x] RAW FISH
+- [x] OYSTERS
+- [x] SHRIMP
+- [x] SOURDOUGH BREAD
+- [x] NUTELLA
+- [x] TURKEY
+- [x] ONIONS
+- [x] TOMATOES
+- [x] CAULIFLOWER
+- [x] COCONUT
+- [ ] WHITE CHOCOLATE
+- [x] MUSHROOMS
+- [x] BEANS
+- [x] STRAWBERRIES
+- [ ] BANANAS
+- [x] GRAPEFRUIT
+- [x] RAISINS
+- [x] OLIVES
+- [x] MAYONNAISE
+- [x] SOY SAUCE
+- [x] COOKED FISH
+- [x] SNAILS
+- [ ] CHICKEN
+- [x] COFFEE
+- [ ] BEEF
+- [x] GARLIC
+- [ ] CARROTS
