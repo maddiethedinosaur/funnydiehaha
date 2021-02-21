@@ -59,6 +59,7 @@
 
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
 * [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
+* [The Poverty of Philosophy](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/) by Karl Marx
 * [Socialism: Utopian and Scientific](https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
 
 ### State
