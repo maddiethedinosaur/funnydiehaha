@@ -19,7 +19,6 @@
   - [Anti-Fascism](#anti-fascism)
   - [Damen vs Bordiga Split](#damen-vs-bordiga-split)
   - [Falsifiers](#falsifiers)
-  - [Family](#family)
   - [More Intro](#more-intro)
   - [Nationalism](#nationalism)
   - [Party](#party)
@@ -31,7 +30,38 @@
 
 ## How to Read
 
-Okay, you fucking dumbass, here's the order to read this in so your head doesn't explode: Intro (to Communism), Anti-Political Economy, Philosophy, then read all the other stuff in whatever the fuck order then do Intro (to Left-Communism) and shit.
+Okay, you fucking dumbass, here's the order to read this in so your head doesn't explode: Intro (to Communism), Anti-Political Economy, Philosophy, then read all the other stuff in whatever the fuck order then do Intro (to Left-Communism) and shit. Alternatively, you could do it like this: 
+* Principles of Communism by Friedrich Engels
+* Theses on Feuerbach by Karl Marx
+* The Right to be Lazy by Paul Lafargue
+* The German Ideology (Chapter 1) by Karl Marx
+* Wage Labor and Capital by Karl Marx
+* State and Revolution by Vladimir Lenin
+* Critique of the Gotha Programme by Karl Marx
+* Socialism: Utopian and Scientific by Friedrich Engels
+* Eighteenth Brumaire of Louis Bonaparte by Karl Marx
+then move onto:
+* For Communism by the Internationalist Communist Tendency
+* Reform or Revolution by Rosa Luxemburg
+* The National Question by Rosa Luxemburg
+* Who Needs the War? by Alexandra Kollontai
+* The Proletarian Revolution and the Renegade Kautsky by V.I. Lenin
+* The Formation of the Red Army by Karl Radek
+* The Russia We Love and Defend by Onorato Damen
+* Stalin and Stalinism by the Internationalist Communist Tendency
+* Bourgeois Violence and Proletarian Defence by Onorato Damen
+* Party and Class by Amadeo Bordiga
+* Dialogue With Stalin by Amadeo Bordiga
+* The Spirit of Horsepower by Amadeo Bordiga
+* Centralised Party, Yes – Centralism over the Party, No! by Onorato Damen
+* On the Union Question by Amadeo Bordiga and Onorato Damen
+* What Does the Communist Left do? by the Internationalist Communist Tendency
+* We Defend the Italian Left by Onorato Damen
+* The Lyons Theses by Amadeo Bordiga
+* Anarchy and Scientific Communism by Nikolai Bukharin
+* Workers Councils by Anton Pannekoek
+* The System of Communist Representation by Amadeo Bordiga
+then read whatever the fuck else.
 
 ## Intro to Communism
 
@@ -50,6 +80,7 @@ Okay, you fucking dumbass, here's the order to read this in so your head doesn't
 ### Family
 
 * [Communism and the Family](https://www.marxists.org/archive/kollonta/1920/communism-family.htm) by Alexandra Kollontai
+* [The Origin of the Family, Private Property and the State](https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm) by Friedrich Engels
 
 ### Environment
 
