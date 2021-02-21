@@ -62,6 +62,7 @@ then move onto:
 * The Lyons Theses by Amadeo Bordiga
 * Anarchy and Scientific Communism by Nikolai Bukharin
 * Workers Councils by Anton Pannekoek
+* The Irrational in the World of the Superstructure by Onorato Damen
 * The System of Communist Representation by Amadeo Bordiga
 
 then read whatever the fuck else.
