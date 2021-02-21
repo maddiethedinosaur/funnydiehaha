@@ -40,7 +40,9 @@ Okay, you fucking dumbass, here's the order to read this in so your head doesn't
 * Critique of the Gotha Programme by Karl Marx
 * Socialism: Utopian and Scientific by Friedrich Engels
 * Eighteenth Brumaire of Louis Bonaparte by Karl Marx
+
 then move onto:
+
 * For Communism by the Internationalist Communist Tendency
 * Reform or Revolution by Rosa Luxemburg
 * The National Question by Rosa Luxemburg
@@ -61,6 +63,7 @@ then move onto:
 * Anarchy and Scientific Communism by Nikolai Bukharin
 * Workers Councils by Anton Pannekoek
 * The System of Communist Representation by Amadeo Bordiga
+
 then read whatever the fuck else.
 
 ## Intro to Communism
