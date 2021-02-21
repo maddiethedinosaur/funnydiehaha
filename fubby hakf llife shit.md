@@ -15,6 +15,6 @@
 
 # Black Ops
 
-* [The Black Operations weapons]https://combineoverwiki.net/wiki/Category:Black_Ops_weapons
+* [The Black Operations weapons](https://combineoverwiki.net/wiki/Category:Black_Ops_weapons)
 * [The Black Ops transport](https://combineoverwiki.net/wiki/Category:Black_Ops_transportation)
 * [The Black Ops tech](https://combineoverwiki.net/wiki/Category:Black_Ops_technology)
