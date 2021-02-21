@@ -2,6 +2,7 @@
 ![no](left-communist.png)
 
 ## Table of Contents
+* [How to Read](#how-to-read)
 * [Intro to Communism](#intro-to-communism)
   - [Intro](#intro)
   - [Anti-Political Economy](#anti-political-economy)
@@ -22,11 +23,15 @@
   - [More Intro](#more-intro)
   - [Nationalism](#nationalism)
   - [Party](#party)
-  - [Revolution and War](#revolution-and-war)
+  - [Revolution](#revolution)
   - [Tactics](#tactics)
   - [Unions](#unions)
   - [Workers' Councils](#workers-councils)
   - [Misc](#misc)
+
+## How to Read
+
+Okay, you fucking dumbass, here's the order to read this in so your head doesn't explode: Intro (to Communism), Anti-Political Economy, Philosophy, then read all the other stuff in whatever the fuck order then do Intro (to Left-Communism) and shit.
 
 ## Intro to Communism
 
