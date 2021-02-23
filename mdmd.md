@@ -10,31 +10,31 @@
 
 ## Communism:
 
-* Principles of Communism by Friedrich Engels
-* Theses on Feuerbach by Karl Marx
-* The Right to be Lazy by Paul Lafargue
-* The German Ideology (Chapter 1) by Karl Marx
-* Wage Labor and Capital by Karl Marx
-* State and Revolution by Vladimir Lenin
-* Critique of the Gotha Programme by Karl Marx
-* Socialism: Utopian and Scientific by Friedrich Engels
-* Eighteenth Brumaire of Louis Bonaparte by Karl Marx
+* Principles of Communism(https://marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
+* Theses on Feuerbach(https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
+* The Right to be Lazy(https://marxists.org/archive/lafargue/1883/lazy/) by Paul Lafargue
+* [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
+* [Wage Labor and Capital](https://marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
+* [State and Revolution](https://marxists.org/archive/lenin/works/1917/staterev/) by V.I. Lenin
+* Critique of the Gotha Programme(https://marxists.org/archive/marx/works/1875/gotha/) by Karl Marx
+* Socialism: Utopian and Scientific(https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
+* Eighteenth Brumaire of Louis Bonaparte(https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
 
 ## Dialectical Materialism:
 
-* Phenomenology of Spirit by G. W. F. Hegel
-* Science of Logic by G. W. F. Hegel
-* Philosophy of Right by G. W. F. Hegel
-* Philosophy of History by G. W. F. Hegel
-* On the Question of Dialectics by V.I. Lenin
-* Afterword to the Second German Edition of Capital by Karl Marx
-* Ludwig Feuerbach by Friedrich Engels
-* Dialectics of Nature by Friedrich Engels
-* Anti-Duhring Part I: Philosophy by Friedrich Engels
-* Materialism and Empirio-Criticism by V.I. Lenin
-* Philosophical Noteboks by V.I. Lenin
-* Fundamental Problems of Marxism by Georgi Plekhanov
-* History and Class Consciousness by Georg Lukacs
+* [Phenomenology of Spirit](https://libcom.org/files/Georg%20Wilhelm%20Friedrich%20Hegel%20-%20The%20Phenomenology%20of%20Spirit%20(Terry%20Pinkard%20Translation).pdf) by G. W. F. Hegel
+* [Science of Logic](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm) by G. W. F. Hegel
+* [Philosophy of Right](https://hscif.org/wp-content/uploads/2018/04/Hegel-Phil-of-Right.pdf) by G. W. F. Hegel
+* [Philosophy of History](https://socialsciences.mcmaster.ca/~econ/ugcm/3ll3/hegel/history.pdf) by G. W. F. Hegel
+* [On the Question of Dialectics](https://marxists.org/archive/lenin/works/1915/misc/x02.htm) by V.I. Lenin
+* [Afterword to the Second German Edition of Capital](https://marxists.org/archive/marx/works/1867-c1/p3.htm) by Karl Marx
+* [Ludwig Feuerbach](https://marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm) by Friedrich Engels
+* [Dialectics of Nature by Friedrich](https://marxists.org/archive/marx/works/1883/don/index.htm) Engels
+* [Anti-Duhring Part I: Philosophy](https://marxists.org/archive/marx/works/1877/anti-duhring/) by Friedrich Engels
+* [Materialism and Empirio-Criticism](https://marxists.org/archive/lenin/works/1908/mec/) by V.I. Lenin
+* [Philosophical Noteboks](https://marxists.org/archive/lenin/works/cw/volume38.htm) by V.I. Lenin
+* [Fundamental Problems of Marxism](https://marxists.org/archive/plekhanov/1907/fundamental-problems.htm) by Georgi Plekhanov
+* [History and Class Consciousness](https://marxists.org/archive/lukacs/works/history/index.htm) by Georg Lukacs
 
 ## Left-Communism:
 
