@@ -15,7 +15,7 @@ If I recall correctly, it was through the CCCP discussion group.
 
 4. Why do you wish to become a full member of the ICWP?
 
-I wish to become a full member of the ICWP because
+I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.([^1])
 
 5. What is your opinion of the Soviet Union? Was it capitalist or socialist? Explain your reasoning
 
@@ -26,13 +26,33 @@ The Soviet Union was state capitalist. My reasoning is as follows: it had all th
 <details>
   <summary>Open here.</summary>
   
-I'm currently reading some of The German Ideology (Marx) and just finished The Right to be Lazy (Lafargue). Other things I have read include For Communism (ICT), The Communist Manifesto (Marx + Engels, although what did Engels actually contribute to it?), Theses on Feuerbach (Marx), Principles of Communism (Engels), The Conquest of Bread (Kropotkin), Centralized Party? Yes! Centralism over the Party? No! (Damen), Fundamentals of Revolutionary Communism (ICP, commonly attributed to Bordiga because libcom.org thinks they're synonymous for some reason), The Fundamentals for a Marxist Orientation (Bordiga, this and the next one are in my Bordiga book I bought from Amazon), Characteristic Theses of the Party (Bordiga), The Revolutionary Programme of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour (ICP, this is the actual name), Beyond Anti-Fascism (ICT), Background on the Italian Communist Left, Bordiga, and Bordigism (written by a councilist but edited by the ICT), The System of Communist Representation (Bordiga), Workers' Councils (Pannekoek), Capitalist Democracy: a Contrast Between the Position of Trotsky and That of Lenin (written by the Italian Left in exile in the USA), Party and Class (Bordiga), KAPD Manifesto (obviously the KAPD), Antifa? No thanks (IP), and probably some others but I'm too lazy to write them down (I barely slept) or forgot them.
+I'm currently reading some of The German Ideology (Marx) and just finished The Right to be Lazy (Lafargue).
+Other things I have read include:
+* For Communism (ICT)
+* The Communist Manifesto (Marx + Engels, although what did Engels actually contribute to it?)
+* Theses on Feuerbach (Marx)
+* Principles of Communism (Engels)
+* The Conquest of Bread (Kropotkin)
+* Centralized Party? Yes! Centralism over the Party? No! (Damen)
+* Fundamentals of Revolutionary Communism (ICP, commonly attributed to Bordiga because libcom.org thinks they're synonymous for some reason)
+* The Fundamentals for a Marxist Orientation (Bordiga, this and the next one are in my Bordiga book I bought from Amazon. Fundamentals for Revolutionary Communism is in it too.)
+* Characteristic Theses of the Party (Bordiga)
+* The Revolutionary Programme of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour (ICP, this is the actual name)
+* Beyond Anti-Fascism (ICT)
+* Background on the Italian Communist Left, Bordiga, and Bordigism (written by a councilist but edited by the ICT)
+* The System of Communist Representation (Bordiga)
+* Workers' Councils (Pannekoek)
+* Capitalist Democracy: a Contrast Between the Position of Trotsky and That of Lenin (written by the Italian Left in exile in the USA)
+* Party and Class (Bordiga)
+* KAPD Manifesto (obviously the KAPD)
+* Antifa? No thanks (IP)
+* and probably some others but I'm too lazy to write them down (I barely slept) or forgot them.
 
 </details>
 
 7. What label would you likely consider yourself? Examples include, Left Communism, Anarchism, Liberalism, etc
 
-I guess left-communist.
+I would say left-communist.
 
 8. What is capitalism?
 
@@ -47,7 +67,7 @@ It is a society free of:
 * Wages
 * Work
 * Money
-* Commodities (and the production of them on both generalized and petty levels!([^1]))
+* Commodities (and the production of them on both generalized and petty levels!([^2]))
 * Nations
 * Borders
 * Class
@@ -59,4 +79,5 @@ It is a society free of:
 
 It's stupid and 99% of the "left" is actually for capitalism, the groups commonly lumped into that broad category that actually are anti-capitalist don't often view themselves as seperate from the left.
 
-([^1]: Bartering)
+([^1]: Another reason is that the members are cool.)
+([^2]: Bartering)
