@@ -113,7 +113,7 @@ It is a society free of:
 * Family
 * Etc.
 
-I could maybe list down every part but I don't have the time.
+I could maybe list down every part but I don't have the time. Another thing to note down here is that under the lower phase of communist society, after "it has just emerged after prolonged birth pangs from capitalist society."<sup>[3](#footnotes)</sup>, communist society has not yet ridden itself of certain bourgeois influences and thus distribution is done based on how much labour one contributes, and under the higher phase of communism, "after the enslaving subordination of the individual to the division of labor, and therewith also the antithesis between mental and physical labor, has vanished; after labor has become not only a means of life but life's prime want; after the productive forces have also increased with the all-around development of the individual, and all the springs of co-operative wealth flow more abundantly – only then can the narrow horizon of bourgeois right be crossed in its entirety and society inscribe on its banners: From each according to his ability, to each according to his needs!"<sup>[4](#footnotes)</sup>
 
 </details>
 
@@ -130,4 +130,8 @@ It's stupid and 99% of the "left" is actually for capitalism, the groups commonl
 
 <sup>1</sup>Another reason is that the members are cool.
 
-<sup>2</sup>Bartering
+<sup>2</sup>Bartering.
+
+<sup>3</sup>Karl Marx, Chapter 1 of Critique of the Gotha Programme.
+
+<sup>4</sup>See previous footnote.
