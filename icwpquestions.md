@@ -33,7 +33,7 @@ If I recall correctly, it was through the CCCP discussion group.
 <details>
   <summary>Answer.</summary>
 
-I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.<sup>1</sup>
+I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.<sup>[1](#footnotes)</sup>
 
 </details>
 
@@ -105,7 +105,7 @@ It is a society free of:
 * Wages
 * Work
 * Money
-* Commodities (and the production of commodities on both generalized and petty levels!<sup>2</sup>
+* Commodities (and the production of commodities on both generalized and petty levels!<sup>[2](#footnotes)</sup>
 * Nations
 * Borders
 * Class
@@ -129,4 +129,5 @@ It's stupid and 99% of the "left" is actually for capitalism, the groups commonl
 ## Footnotes:
 
 <sup>1</sup>Another reason is that the members are cool.
+
 <sup>2</sup>Bartering
