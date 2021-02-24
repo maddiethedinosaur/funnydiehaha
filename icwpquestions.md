@@ -1,6 +1,18 @@
 # ICWP Questions
 ![this is a pnwc logo i used because i can't get the icwp logo rn cause school](left-communist.png)
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Questions](#questions)
+* [Footnotes](#footnotes
+
+## Introduction
+
+I apologize in advance for shitty formatting. This is the ICWP membership questionnaire, answered entirely by me. Obviously, you (I am addresing Lily for anyone who isn't her), wrote these questions, I know I'm not required to answer them but who the hell cares? 
+
+## Questions
+
 Question: What is your roblox username?
 
 <details>
