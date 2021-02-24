@@ -122,7 +122,7 @@ Question: Opinions on “Left Unity”?
 <details>
   <summary>Answer.</summary>
 
-**It's stupid and 99% of the "left" is actually for capitalism, the groups commonly lumped into that broad category that actually are anti-capitalist don't often view themselves as seperate from the left.
+**It's stupid and 99% of the "left" is actually for capitalism, the groups commonly lumped into that broad category that actually are anti-capitalist don't often view themselves as part of the "left", and they are correct.
 
 </details>
 
