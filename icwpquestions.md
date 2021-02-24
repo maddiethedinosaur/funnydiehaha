@@ -15,7 +15,7 @@ If I recall correctly, it was through the CCCP discussion group.
 
 4. Why do you wish to become a full member of the ICWP?
 
-I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.[^1]
+I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.<sup>1</sup>
 
 5. What is your opinion of the Soviet Union? Was it capitalist or socialist? Explain your reasoning
 
@@ -67,7 +67,7 @@ It is a society free of:
 * Wages
 * Work
 * Money
-* Commodities (and the production of commodities on both generalized and petty levels![^2]
+* Commodities (and the production of commodities on both generalized and petty levels!<sup>2</sup>
 * Nations
 * Borders
 * Class
@@ -79,5 +79,5 @@ It is a society free of:
 
 It's stupid and 99% of the "left" is actually for capitalism, the groups commonly lumped into that broad category that actually are anti-capitalist don't often view themselves as seperate from the left.
 
-[^1]: Another reason is that the members are cool.
-[^2]: Bartering
+<sup>1</sup>Another reason is that the members are cool.
+<sup>2</sup>Bartering
