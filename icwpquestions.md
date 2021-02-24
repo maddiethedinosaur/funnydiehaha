@@ -1,16 +1,16 @@
 # ICWP Questions
 ![this is a pnwc logo i used because i can't get the icwp logo rn cause school](left-communist.png)
 
-1. What is your roblox username?
+Question: What is your roblox username?
 
 <details>
-  <summary>Answer.</summary>
+  <summary>Answer</summary>
   
 My roblox username is Dinosaur_612.
 
 </details>
 
-2. What is your discord username?
+Question: What is your discord username?
 
 <details>
   <summary>Answer.</summary>
@@ -19,7 +19,7 @@ It is comrade human being#7143
 
 </details>
 
-3. How did you find out about the ICWP?
+Question: How did you find out about the ICWP?
 
 <details>
   <summary>Answer.</summary>
@@ -28,7 +28,7 @@ If I recall correctly, it was through the CCCP discussion group.
 
 </details>
 
-4. Why do you wish to become a full member of the ICWP?
+Question: Why do you wish to become a full member of the ICWP?
 
 <details>
   <summary>Answer.</summary>
@@ -37,7 +37,7 @@ I wish to become a full member of the ICWP because it's a left-communist group a
 
 </details>
 
-5. What is your opinion of the Soviet Union? Was it capitalist or socialist? Explain your reasoning
+Question: What is your opinion of the Soviet Union? Was it capitalist or socialist? Explain your reasoning
 
 <details>
   <summary>Answer.</summary>
@@ -46,7 +46,7 @@ The Soviet Union was state capitalist. My reasoning is as follows: it had all th
 
 </details>
 
-6. What theory have you read?
+Question: What theory have you read?
 
 <details>
   <summary>Answer.</summary>
@@ -75,7 +75,7 @@ Other things I have read include:
 
 </details>
 
-7. What label would you likely consider yourself? Examples include, Left Communism, Anarchism, Liberalism, etc
+Question: What label would you likely consider yourself? Examples include, Left Communism, Anarchism, Liberalism, etc
 
 <details>
   <summary>Answer.</summary>
@@ -84,7 +84,7 @@ I identify as a left-communist. I plan to make a manifesto once I read more.
 
 </details>
 
-8. What is capitalism?
+Question: What is capitalism?
 
 <details>
   <summary>Answer.</summary>
@@ -93,7 +93,7 @@ Capitalism is a society with the following things: the law of value, generalized
 
 </details>
 
-9. What is communism?
+Question: What is communism?
 
 <details>
   <summary>Answer.</summary>
@@ -117,7 +117,7 @@ I could maybe list down every part but I don't have the time. Another thing to n
 
 </details>
 
-10. Opinions on “Left Unity”?
+Question: Opinions on “Left Unity”?
 
 <details>
   <summary>Answer.</summary>
