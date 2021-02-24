@@ -3,28 +3,53 @@
 
 1. What is your roblox username?
 
+<details>
+  <summary>Answer.</summary>
+  
 My roblox username is Dinosaur_612.
+
+</details>
 
 2. What is your discord username?
 
+<details>
+  <summary>Answer.</summary>
+  
 It is comrade human being#7143
+
+</details>
 
 3. How did you find out about the ICWP?
 
+<details>
+  <summary>Answer.</summary>
+  
 If I recall correctly, it was through the CCCP discussion group.
+
+</details>
 
 4. Why do you wish to become a full member of the ICWP?
 
+<details>
+  <summary>Answer.</summary>
+
 I wish to become a full member of the ICWP because it's a left-communist group and I personally am a left-communist.<sup>1</sup>
+
+</details>
 
 5. What is your opinion of the Soviet Union? Was it capitalist or socialist? Explain your reasoning
 
+<details>
+  <summary>Answer.</summary>
+  
 The Soviet Union was state capitalist. My reasoning is as follows: it had all the defining features of capitalist society (commodity production, state, class, etc), the only really "peculiar" thing about it was most, if not all, private property in it was no longer private (as in the contemporary sense of the word, being owned by individuals), but state managed.
+
+</details>
 
 6. What theory have you read?
 
 <details>
-  <summary>Open here.</summary>
+  <summary>Answer.</summary>
   
 I'm currently reading some of The German Ideology (Marx) and just finished The Right to be Lazy (Lafargue).
 Other things I have read include:
@@ -52,14 +77,27 @@ Other things I have read include:
 
 7. What label would you likely consider yourself? Examples include, Left Communism, Anarchism, Liberalism, etc
 
-I would say left-communist.
+<details>
+  <summary>Answer.</summary>
+
+I identify as a left-communist. I plan to make a manifesto once I read more.
+
+</details>
 
 8. What is capitalism?
 
+<details>
+  <summary>Answer.</summary>
+  
 Capitalism is a society with the following things: the law of value, generalized commodity production, private property and classes (and therefore class struggle and the state).
+
+</details>
 
 9. What is communism?
 
+<details>
+  <summary>Answer.</summary>
+  
 Communism is the society following capitalism.
 
 It is a society free of:
@@ -75,9 +113,20 @@ It is a society free of:
 * Family
 * Etc.
 
+I could maybe list down every part but I don't have the time.
+
+</details>
+
 10. Opinions on “Left Unity”?
 
+<details>
+  <summary>Answer.</summary>
+
 It's stupid and 99% of the "left" is actually for capitalism, the groups commonly lumped into that broad category that actually are anti-capitalist don't often view themselves as seperate from the left.
+
+</details>
+
+## Footnotes:
 
 <sup>1</sup>Another reason is that the members are cool.
 <sup>2</sup>Bartering
