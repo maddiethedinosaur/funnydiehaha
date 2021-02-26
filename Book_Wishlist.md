@@ -11,7 +11,6 @@
 ## Amazon.ca
 
 * [Principles of Communism](https://www.amazon.ca/dp/9977090025/) by Friedrich Engels
-
 * [The German Ideology + Theses on Feuerbach](https://www.amazon.ca/German-Ideology-Including-Thesis-Feuerbach/dp/1573922587/) by Karl Marx
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Paul-Lafargue/dp/1406881430/) by Paul Lafargue
 * [Wage Labour and Capital](https://www.amazon.ca/Wage-Labor-Capital-Karl-Marx/dp/1978461232/) by Karl Marx
