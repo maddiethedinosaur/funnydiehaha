@@ -74,3 +74,5 @@
 * What is Behind the Label? A Plea for Clearness by Sylvia Pankhurst
 * Activism by Amadeo Bordiga
 * The Jewish Question by Karl Marx
+* Fundamentals for a Marxist Orientation by Amadeo Bordiga 
+* Force, Violence and Dictatorship in the Class Struggle by Amadeo Bordiga
