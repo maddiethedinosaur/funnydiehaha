@@ -7,6 +7,16 @@
 
 ## Communism
 
+* [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
+* [The Right to be Lazy](https://marxists.org/archive/lafargue/1883/lazy/) by Paul Lafargue
+* [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
+* [Communism and the Family](https://www.marxists.org/archive/kollonta/1920/communism-family.htm) by Alexandra Kollontai
+* [Wage Labor and Capital](https://marxists.org/archive/marx/works/1847/wage-labour/) by Karl Marx
+* [State and Revolution](https://marxists.org/archive/lenin/works/1917/staterev/) by V.I. Lenin
+* [Critique of the Gotha Programme](https://marxists.org/archive/marx/works/1875/gotha/) by Karl Marx
+* [Socialism: Utopian and Scientific](https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
+* [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
+
 ## Left-Communism
 
 * [An Introduction to the Work of the CWO and ICT](http://www.leftcom.org/en/articles/2020-12-27/an-introduction-to-the-work-of-the-cwo-and-ict) by the Internationalist Communist Tendency
