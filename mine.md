@@ -18,6 +18,7 @@
 * [Socialism: Utopian and Scientific](https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
 * [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
 * [On Authority](https://www.marxists.org/archive/marx/works/1872/10/authority.htm) by Friedrich Engels
+* [The Human Species and the Earth's Crust](https://libcom.org/files/Amadeo%20Bordiga-%20The%20human%20species%20and%20the%20Earth.pdf) by Amadeo Bordiga
 
 ## Left-Communism
 
