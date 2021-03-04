@@ -27,15 +27,12 @@
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution) by Rosa Luxemburg
 * [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
-* [Theses on the Right of Nations to Self-determination](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin) by Georgy Pyatakov, Yevgenia Bosch and Nikolai Bukharin
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 * [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
 * [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 * [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
-* [Nuevo Curso and the “Spanish Communist Left”: What are the origins of the Communist Left?](https://en.internationalism.org/content/16727/nuevo-curso-and-spanish-communist-left-what-are-origins-communist-left) by the International Communist Current
 * [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
-* [Beyond Anti-Fascism](https://www.leftcom.org/en/articles/2015-03-09/beyond-anti-fascism) by the Internationalist Communist Tendency
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 * [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
 * [Class Consciousness and Revolutionary Organisation](https://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
@@ -50,8 +47,6 @@
 * [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm) by Onorato Damen
 * [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
 * [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
-* [The Irrational in the World of the Superstructure](https://www.marxists.org/archive/damen/1972/irrational.htm) by Onorato Damen
 * [On the Union Question](https://libcom.org/library/union-question-amadeo-bordiga-onorato-damen) by Amadeo Bordiga and Onorato Damen
-* [Unions Against the Working Class](https://en.internationalism.org/pamphlets/unions.htm) by the International Communist Current
 * [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 * [The Communist-Left and the Continuity of Marxism](https://en.internationalism.org/the-communist-left) by the International Communist Current
