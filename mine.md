@@ -7,6 +7,7 @@
 
 ## Communism
 
+* [
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
 * [The Right to be Lazy](https://marxists.org/archive/lafargue/1883/lazy/) by Paul Lafargue
 * [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
@@ -16,6 +17,7 @@
 * [Critique of the Gotha Programme](https://marxists.org/archive/marx/works/1875/gotha/) by Karl Marx
 * [Socialism: Utopian and Scientific](https://marxists.org/archive/marx/works/1880/soc-utop/index.htm) by Friedrich Engels
 * [Eighteenth Brumaire of Louis Bonaparte](https://marxists.org/archive/marx/works/1852/18th-brumaire/) by Karl Marx
+* [On Authority](https://www.marxists.org/archive/marx/works/1872/10/authority.htm) by Friedrich Engels
 
 ## Left-Communism
 
