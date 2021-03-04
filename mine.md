@@ -7,7 +7,8 @@
 
 ## Communism
 
-* []() by 
+* [The Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
+* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) by Karl Marx
 * [Theses on Feuerbach](https://marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
 * [The Right to be Lazy](https://marxists.org/archive/lafargue/1883/lazy/) by Paul Lafargue
 * [The German Ideology (Chapter 1)](https://marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
