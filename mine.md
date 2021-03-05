@@ -35,7 +35,6 @@
 * [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 * [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
-* [Class Consciousness and Revolutionary Organisation](https://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
 * [On the Future International](https://www.leftcom.org/en/articles/2018-06-22/on-the-future-international) by the Internationalist Communist Tendency
 * [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
 * [We Are Against All Institutional Parties](http://www.leftcom.org/en/articles/2020-05-18/we-are-against-all-institutional-parties) by the Internationalist Communist Tendency
