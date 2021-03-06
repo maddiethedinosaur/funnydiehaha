@@ -42,10 +42,9 @@
 * [Workers' Councils](https://www.marxists.org/archive/pannekoe/1936/councils.htm) by Anton Pannekoek
 * [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
 * [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
-* [Centralised Party, Yes – Centralism over the Party, No!](https://marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
+* [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
 * [Five Letters and an Outline of the Disagreement](https://www.marxists.org/archive/damen/1952/five-letters.htm) by Onorato Damen
 * [Points of Disagreement with the 1952 "Platform" Drafted by Bordiga](https://www.marxists.org/archive/damen/1952/disagreement.htm) by Onorato Damen
-* [We Defend the Italian Left](https://www.marxists.org/archive/damen/1966/defend.htm) by Onorato Damen
 * [On the Union Question](https://libcom.org/library/union-question-amadeo-bordiga-onorato-damen) by Amadeo Bordiga and Onorato Damen
 * [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
 * [The Communist-Left and the Continuity of Marxism](https://en.internationalism.org/the-communist-left) by the International Communist Current
