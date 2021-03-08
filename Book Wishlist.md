@@ -8,6 +8,7 @@
 * [ICT](#ict)
 * [ICC](#icc)
 * [Ebay](#ebay)
+* [N&L](#n-l)
 
 ## Amazon
 
@@ -52,3 +53,7 @@
 ## Ebay
 
 * [Communism and its Tactics](https://www.ebay.ca/itm/Communism-and-Its-Tactics-Paperback-by-Pankhurst-Sylvia-Like-New-Used-Fre/363246346024) by Sylvia Pankhurst
+
+## N&L
+
+* [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/)
