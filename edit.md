@@ -8,7 +8,7 @@
 This is from left to right for the first row then reversed for the next row and so on.
 
 ## 1st Row:
-Communist Manifesto (Marx + Engels), Right to be Lazy (Lafargue), Principles of Communism (Engels), For Communism (ICT), German Ideology, State and Revolution (Lenin), 18th Brumaire of Louis Bonaparte (Marx)
+Communist Manifesto (Marx + Engels), Right to be Lazy (Lafargue), Principles of Communism (Engels), For Communism (ICT), German Ideology (Marx), State and Revolution (Lenin), 18th Brumaire of Louis Bonaparte (Marx)
 ## 2nd Row:
 The Proletarian Revolution and the Renegade Kautsky (Lenin), The National Question (Luxemburg), Reform or Revolution (Luxemburg), Wage Labour and Capital (Marx), The Human Species and the Earth's Crust (Bordiga), Critique of the Gotha Programme (Marx), Socialism: Utopian and Scientific (Engels)
 ## 3rd Row:
