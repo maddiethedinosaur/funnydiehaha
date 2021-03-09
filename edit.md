@@ -3,11 +3,19 @@
 
 ![shelf](https://cdn.discordapp.com/attachments/817929314401779725/818521556883865630/unknown.png)
 
-# Description
+# Furniture
+
+There is a bed, wardrobe and bookshelf
+
+# Posters, Flags and Symbols
+
+There is an Internationalist Communist Party poster and a Half Life: Opposing Force poster. There are trans, lesbian, non-binary girl, polyamorous, and left-communist flags. There is a left-communist and humanist symbol.
+
+# Wardrobe Contents
 
 In the left-side of the wardrobe there is Animal Girlfriends by Drool Cutie, .357 Magnum Ammo, and a Revolver. In the right-side of the wardrobe there is Master of Reality by Black Sabbath and a bottle of pills.
 
-# Shelf Contents
+# Bookshelf Contents
 
 This is from left to right for the first row then reversed for the next row and so on.
 
