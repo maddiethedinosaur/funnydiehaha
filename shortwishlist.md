@@ -1,4 +1,4 @@
-# Book Wishlist
+# Short Book Wishlist
 
 ![book](books.png)
 
