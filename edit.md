@@ -3,6 +3,10 @@
 
 ![shelf](https://cdn.discordapp.com/attachments/817929314401779725/818521556883865630/unknown.png)
 
+# Description
+
+In the left-side of the wardrobe there is Animal Girlfriends by Drool Cutie, .357 Magnum Ammo, and a Revolver. In the right-side of the wardrobe there is Master of Reality by Black Sabbath and a bottle of pills.
+
 # Shelf Contents
 
 This is from left to right for the first row then reversed for the next row and so on.
