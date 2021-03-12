@@ -72,7 +72,14 @@
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen
-
+* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Sylvia Pankhurst's Revolutionary Years](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Holocaust and Hiroshima](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Capitalism and the Environment](http://www.leftcom.org/en/store) by Mauro Stefanini
+* [1921: Beginning of the Counter-Revolution?](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Gramsci between Marxism and Idealism](http://www.leftcom.org/en/store) by Onorato Damen
+* [South Africa's New Turmoil](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Spain 1934-39: From Working Class Struggle to Imperialist War](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
 ## ICC
 
