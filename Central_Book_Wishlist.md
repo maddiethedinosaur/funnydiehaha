@@ -46,7 +46,7 @@
 * [A World Without Money: Communism](https://www.amazon.ca/dp/0422915068/) by The Friends of 4 Million Young Workers
 * [A Contribution To The Critique Of The Political Economy](https://www.amazon.ca/dp/9389821940/) by Karl Marx
 * [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
-* [Society of the Spectacle](https://www.amazon.ca/gp/product/0946061122/) by Guy Debord
+* [Society of the Spectacle](https://www.amazon.ca/Society-Spectacle-2-Radical-Reprint/dp/5841295055/) by Guy Debord
 * [Comments on the Society of the Spectacle](https://www.amazon.ca/gp/product/1844676722/) by Guy Debord
 * [Industrial Society and Its Future](https://www.amazon.ca/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K/) by Theodore John Kaczynski
 * [Capital and Community](https://www.amazon.ca/Capital-Community-immediate-production-economic/dp/4550932848/) by Jacques Camatte
@@ -86,6 +86,7 @@
 * [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
 * [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Communism: Not a 'nice idea' but a material necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ## Ebay
 
