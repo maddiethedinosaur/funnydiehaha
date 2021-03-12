@@ -1,8 +1,8 @@
 # Central Book Wishlist
 
 ## Table of Contents
-* [Amazon]
-* [ICT]
+* [Amazon](#amazon)
+* [ICT](#
 * [ICC]
 * [Ebay](#ebay)
 * [N&L](#n-l)
