@@ -3,8 +3,8 @@
 
 ## Table of Contents
 * [Amazon](#amazon)
-* [ICT](#
-* [ICC]
+* [ICT](#ict)
+* [ICC](#icc)
 * [Ebay](#ebay)
 * [N&L](#n-l)
 
@@ -30,6 +30,7 @@
 * [Capitalist Realism](https://www.amazon.ca/dp/1846943175/) by Mark Fisher
 * [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
+* [Eclipse and Re-emergence of the Communist Movement](https://www.amazon.ca/dp/1629630438/) by Gilles Dauvé
 
 ## ICT
 
