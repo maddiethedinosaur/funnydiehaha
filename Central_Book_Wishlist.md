@@ -7,6 +7,7 @@
 * [ICC](#icc)
 * [Ebay](#ebay)
 * [N&L](#n-l)
+* [Other Lists](#other-lists)
 
 ## Amazon
 
@@ -100,8 +101,8 @@
 
 ## Other Lists
 
-https://maddiethedinosaur.github.io/edit
-https://maddiethedinosaur.github.io/shortwishlist
-https://maddiethedinosaur.github.io/Book%20Wishlist
-https://www.amazon.ca/hz/wishlist/ls/IQYC7M0O8E4W?ref_=wl_share
-https://www.amazon.ca/hz/wishlist/ls/1O8TVV1EAWCRY?ref_=wl_share
+* [Picrew Edit](https://maddiethedinosaur.github.io/edit)
+* [Short Wishlist](https://maddiethedinosaur.github.io/shortwishlist)
+* [Book Wishlist](https://maddiethedinosaur.github.io/Book%20Wishlist)
+* [Marxist Theory Wishlist](https://www.amazon.ca/hz/wishlist/ls/IQYC7M0O8E4W?ref_=wl_share)
+* [Fiction Wishlist](https://www.amazon.ca/hz/wishlist/ls/1O8TVV1EAWCRY?ref_=wl_share)
