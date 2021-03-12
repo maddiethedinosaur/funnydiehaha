@@ -63,6 +63,7 @@
 * [Slaughterhouse-Five](https://www.amazon.ca/dp/0440180295/) by Kurt Vonnegut Jr.
 * [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
+* [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
 
 ## ICT
 
