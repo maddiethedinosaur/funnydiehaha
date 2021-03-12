@@ -46,6 +46,23 @@
 * [A World Without Money: Communism](https://www.amazon.ca/dp/0422915068/) by The Friends of 4 Million Young Workers
 * [A Contribution To The Critique Of The Political Economy](https://www.amazon.ca/dp/9389821940/) by Karl Marx
 * [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
+* [Society of the Spectacle](https://www.amazon.ca/gp/product/0946061122/) by Guy Debord
+* [Comments on the Society of the Spectacle](https://www.amazon.ca/gp/product/1844676722/) by Guy Debord
+* [Industrial Society and Its Future](https://www.amazon.ca/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K/) by Theodore John Kaczynski
+* [Capital and Community](https://www.amazon.ca/Capital-Community-immediate-production-economic/dp/4550932848/) by Jacques Camatte
+* [Value, Price and Profit](https://www.amazon.ca/Value-Price-Profit-Classic-Reprint/dp/B008NU3ODY/) by Karl Marx
+* [Dune](https://www.amazon.ca/dp/0441172717/) by Frank Herbert
+* [Dune Messiah](https://www.amazon.ca/dp/0593098234/) by Frank Herbert
+* [Children of Dune](https://www.amazon.ca/dp/0593098242/) by Frank Herbert
+* [God Emperor of Dune](https://www.amazon.ca/dp/0593098250/) by Frank Herbert
+* [Heretics of Dune](https://www.amazon.ca/dp/0593098269/) by Frank Herbert
+* [Chapterhouse: Dune](https://www.amazon.ca/dp/0593098277/) by Frank Herbert
+* [Jurassic Park](https://www.amazon.ca/dp/0345538986/) by Michael Crichton
+* [The Lost World](https://www.amazon.ca/dp/0345538994/) by Michael Crichton
+* [Fahrenheit 451](https://www.amazon.ca/dp/1451673310/) by Ray Bradbury
+* [Slaughterhouse-Five](https://www.amazon.ca/dp/0440180295/) by Kurt Vonnegut Jr.
+* [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
+* [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
 
 ## ICT
 
@@ -55,6 +72,7 @@
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen
+
 
 ## ICC
 
