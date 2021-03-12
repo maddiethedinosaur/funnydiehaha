@@ -31,6 +31,21 @@
 * [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
 * [Eclipse and Re-emergence of the Communist Movement](https://www.amazon.ca/dp/1629630438/) by Gilles Dauvé
+* [Capital Volume 1](https://www.amazon.ca/Capital-1-Critique-Political-Economy/dp/0140445684/) by Karl Marx
+* [Capital Volume 2](https://www.amazon.ca/Capital-2-Critique-Political-Economy/dp/0140445692/) by Karl Marx
+* [Capital Volume 3](https://www.amazon.ca/dp/0140445706/) by Karl Marx
+* [Results of the Direct Production Process](https://www.amazon.ca/dp/711411155X/) by Karl Marx
+* [A Revolution Summed Up: The Great Lessons of October 1917](https://www.amazon.ca/dp/B08DSTHLLF/) by International Communist Party
+* [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton
+* [Marxist Theory and Revolutionary Tactics](https://www.amazon.ca/dp/2348252066/) by Anton Pannekoek
+* [Grundrisse](https://www.amazon.ca/dp/0140445757/) by Karl Marx
+* [What is Communism?](https://www.amazon.ca/dp/2343445133/) by Paul Mattick
+* [Mutual Aid](https://www.amazon.ca/dp/1549909851/) by Peter Kropotkin
+* [State Capitalism and World Revolution Paperback](https://www.amazon.ca/dp/1604860928/) by C. L. R. James, Raya Dunayevskaya, and Grace Lee Boggs
+* [Imperialism, the Highest Stage of Capitalism](https://www.amazon.ca/dp/1603866639/) by Vladimir Lenin
+* [A World Without Money: Communism](https://www.amazon.ca/dp/0422915068/) by The Friends of 4 Million Young Workers
+* [A Contribution To The Critique Of The Political Economy](https://www.amazon.ca/dp/9389821940/) by Karl Marx
+* [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
 
 ## ICT
 
@@ -54,6 +69,7 @@
 ## N&L
 
 * [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
+* [Rosa Luxemburg, Women’s Liberation, and Marx’s Philosophy of Revolution](https://newsandletters.org/shop/on-women/rosa-luxemburg-womens-liberation-and-marxs-philosophy-of-revolution/) by Raya Dunayevskaya
 
 ## Other Lists
 
