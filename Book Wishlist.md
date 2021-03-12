@@ -27,7 +27,7 @@
 * [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
 * [The Paris Manuscripts](https://www.amazon.ca/Economic-Philosophic-Manuscripts-1844-Karl/dp/0486455610/) by Karl Marx
 * [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
-* [Anti-Dühring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
+* [Anti-DÃ¼hring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
 * ["Left-Wing" Communism, an Infantile Disorder](https://www.amazon.ca/dp/1537029371/) by Vladimir Lenin
 * [Capitalist Realism](https://www.amazon.ca/dp/1846943175/) by Mark Fisher
 * [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
@@ -45,9 +45,7 @@
 ## ICC
 
 * [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
-
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
-
 * [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ## Ebay
@@ -56,4 +54,4 @@
 
 ## N&L
 
-* [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/)
+* [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
