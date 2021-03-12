@@ -27,5 +27,6 @@
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen
