@@ -68,30 +68,17 @@
 ### Fiction
 
 * [Dune](https://www.amazon.ca/dp/0441172717/) by Frank Herbert
-
 * [Dune Messiah](https://www.amazon.ca/dp/0593098234/) by Frank Herbert
-
 * [Children of Dune](https://www.amazon.ca/dp/0593098242/) by Frank Herbert
-
 * [God Emperor of Dune](https://www.amazon.ca/dp/0593098250/) by Frank Herbert
-
 * [Heretics of Dune](https://www.amazon.ca/dp/0593098269/) by Frank Herbert
-
 * [Chapterhouse: Dune](https://www.amazon.ca/dp/0593098277/) by Frank Herbert
-
 * [Jurassic Park](https://www.amazon.ca/dp/0345538986/) by Michael Crichton
-
 * [The Lost World](https://www.amazon.ca/dp/0345538994/) by Michael Crichton
-
 * [Fahrenheit 451](https://www.amazon.ca/dp/1451673310/) by Ray Bradbury
-
 * [Slaughterhouse-Five](https://www.amazon.ca/dp/0440180295/) by Kurt Vonnegut Jr.
-
 * [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
-
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
-
-
 
 ### Imperialism
 
@@ -106,6 +93,7 @@
 * [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
 * [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
+* [The Junius Pamphlet](https://www.amazon.ca/crisis-German-social-democracy-Junius-pamphlet/dp/B00ZDCC8FU/) by Rosa Luxemburg
 
 ### Science
 
