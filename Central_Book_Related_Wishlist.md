@@ -1,4 +1,4 @@
-# Central Book Wishlist
+# Central Book + Related Wishlist
 ![books](books.png)
 
 ## Table of Contents
@@ -8,6 +8,7 @@
 * [ICT](#ict)
 * [Ikea](#ikea)
 * [N&L](#n-l)
+* [PM Press](#pm-press)
 * [Other Lists](#other-lists)
 
 ## Amazon
@@ -103,6 +104,12 @@
 
 * [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
 * [Rosa Luxemburg, Women’s Liberation, and Marx’s Philosophy of Revolution](https://newsandletters.org/shop/on-women/rosa-luxemburg-womens-liberation-and-marxs-philosophy-of-revolution/) by Raya Dunayevskaya
+
+## PM Press
+
+* [Eclipse and Re-emergence of the Communist Movement](https://pmpress.org/index.php?l=product_detail&p=673) by Gilles Dauvé
+* [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
+* [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
 
 ## Other Lists
 
