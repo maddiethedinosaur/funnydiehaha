@@ -103,7 +103,7 @@
 ### Stalinism
 
 * [Dialogue With Stalin](https://www.amazon.ca/Dialogue-Stalin-Amadeo-Bordiga/dp/7465082013/) by Amadeo Bordiga
-* [State Capitalism and World Revolution](https://www.amazon.ca/dp/1604860928/) by C. L. R. James, Raya Dunayevskaya, and Grace Lee Boggs
+* [State Capitalism and World Revolution](https://www.amazon.ca/dp/1604860928/) by C.L.R. James, Raya Dunayevskaya, and Grace Lee Boggs
 * [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
 
 ### State
@@ -181,15 +181,34 @@
 
 ## IMH
 
+### Humanism
+
 * [For Humanism](https://imhojournal.org/publications/for-humanism-explorations-in-theory-and-politics/) by David Alderson, Kevin Anderson, Barbara Epstein and Robert Spencer
+
+### Stalinism
+
 * [The Marxist-Humanist Theory of State-Capitalism](https://imhojournal.org/publications/the-marxist-humanist-theory-of-state-capitalism/) by Raya Dunayevskaya
 
 ## N&L
 
-* [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
+### Feminism
+
 * [Rosa Luxemburg, Women’s Liberation, and Marx’s Philosophy of Revolution](https://newsandletters.org/shop/on-women/rosa-luxemburg-womens-liberation-and-marxs-philosophy-of-revolution/) by Raya Dunayevskaya
 
+### Humanism
+
+* [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
+
 ## PM Press
+
+### Capitalism
+
+* [A Letter to My Children and the Children of the World to Come](https://pmpress.org/index.php?l=product_detail&p=927) by Raoul Vaneigem
+* [The Revolution of Everyday Life](https://pmpress.org/index.php?l=product_detail&p=242) by Raoul Vaneigem
+
+### Communism
+
+* [Modern Politics](https://pmpress.org/index.php?l=product_detail&p=546) by C.L.R. James
 
 ### Communization
 
@@ -198,8 +217,8 @@
 ### Work
 
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
+
 * [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
-* [A Letter to My Children and the Children of the World to Come](https://pmpress.org/index.php?l=product_detail&p=927) by Raoul Vaneigem
 
 ## Printable Zines
 
