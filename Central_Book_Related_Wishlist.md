@@ -9,6 +9,7 @@
 * [Ikea](#ikea)
 * [N&L](#n-l)
 * [PM Press](#pm-press)
+* [Printable Zines](#printable-zines)
 * [Other Lists](#other-lists)
 
 ## Amazon
@@ -71,6 +72,8 @@
 * [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
 * [Lessons of the Counterrevolutions](https://www.amazon.ca/dp/826409967X/) by Amadeo Bordiga
 * [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
+* [Communization and Its Discontents](https://www.amazon.ca/Communization-Its-Discontents-Contestation-Contemporary/dp/157027231X/) by Benjamin Noys
+* [From Crisis to Communisation](https://www.amazon.ca/Crisis-Communisation-Gilles-Dauv%C3%A9/dp/1629630993/) by Gilles Dauvé
 
 ## Ebay
 
@@ -115,6 +118,24 @@
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
 * [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
 * [A Letter to My Children and the Children of the World to Come](https://pmpress.org/index.php?l=product_detail&p=927) by Raoul Vaneigem
+
+## Printable Zines
+
+* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
+* [Statement of Principles](https://pnwcommunists.org/wp-content/uploads/2021/03/Statement-of-Principles-Zine.pdf) by the Pacific Northwest Communists
+* [Private Property, Scarcity and Democracy](https://subversionpress.files.wordpress.com/2016/11/private-bklt.pdf) by Humanaesfera
+* [A to Z of Communisation](https://subversionpress.files.wordpress.com/2016/08/a-z-bklt.pdf) by Gilles Dauvé
+* [Self Management of Misery or the Misery of Self Management](https://subversionpress.files.wordpress.com/2017/05/self-manage-bklt.pdf) by Terra Cremada
+* [Communisation](https://subversionpress.files.wordpress.com/2015/03/communisation-bklt.pdf) by Gilles Dauvé
+* [A Few Clarifacations on Anti-Work](https://subversionpress.files.wordpress.com/2017/03/anti-work-bklt1.pdf) by Bruno Astarian
+* [Workers Against Work](https://subversionpress.files.wordpress.com/2016/08/work-bklt.pdf) by Tom Regel
+* [The Continuing Appeal of Religion](https://subversionpress.files.wordpress.com/2015/04/the-continuing-appeal-of-religion2-bklt.pdf) by Gilles Dauvé
+* [Hard to Believe! A Critique of Religion](https://subversionpress.files.wordpress.com/2016/08/religion-shorter-bklt.pdf) by Gegen Kapital und Nation
+* [The Sanders Campaign](https://subversionpress.files.wordpress.com/2016/10/sanders-bklt.pdf) by ????
+* [Trade Unions: Pillars of Capitalism](https://subversionpress.files.wordpress.com/2016/10/trade-unions-bklt.pdf) by Internationalist Perspective
+* [The Communist Tendency in History](https://subversionpress.files.wordpress.com/2015/04/com-tend-hist-bklt1.pdf) by ????
+* [The Crisis of Civilisation](https://subversionpress.files.wordpress.com/2015/10/civil-crisis-bklt.pdf) by Gilles Dauvé
+* [Kinderkommunismus](https://subversionpress.files.wordpress.com/2015/06/kinderkom-bklt.pdf) by K.D. Griffiths and J.J. Gleeson
 
 ## Other Lists
 
