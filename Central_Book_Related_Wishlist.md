@@ -33,7 +33,6 @@
 * [Capitalist Realism](https://www.amazon.ca/dp/1846943175/) by Mark Fisher
 * [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
-* [Eclipse and Re-emergence of the Communist Movement](https://www.amazon.ca/dp/1629630438/) by Gilles Dauvé
 * [Capital Volume 1](https://www.amazon.ca/Capital-1-Critique-Political-Economy/dp/0140445684/) by Karl Marx
 * [Capital Volume 2](https://www.amazon.ca/Capital-2-Critique-Political-Economy/dp/0140445692/) by Karl Marx
 * [Capital Volume 3](https://www.amazon.ca/dp/0140445706/) by Karl Marx
