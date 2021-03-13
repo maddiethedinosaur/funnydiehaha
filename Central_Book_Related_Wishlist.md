@@ -131,27 +131,49 @@
 
 ## ICC
 
-* [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
+### Communism
+
 * [Communism: Not a 'nice idea' but a material necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
+
+### Decadence
+
+* [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
+
+### Unions
+
+* [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ## ICT
 
+### Capitalism
+
+* [Capitalism and the Environment](http://www.leftcom.org/en/store) by Mauro Stefanini
+
+### Communism
+
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
-* [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+
+### Falsifiers, Oppurtinists, Splits and Debates
+
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Gramsci between Marxism and Idealism](http://www.leftcom.org/en/store) by Onorato Damen
 * [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen
-* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+
+### History
+
 * [Sylvia Pankhurst's Revolutionary Years](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Holocaust and Hiroshima](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
-* [Capitalism and the Environment](http://www.leftcom.org/en/store) by Mauro Stefanini
 * [1921: Beginning of the Counter-Revolution?](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
-* [Gramsci between Marxism and Idealism](http://www.leftcom.org/en/store) by Onorato Damen
 * [South Africa's New Turmoil](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Spain 1934-39: From Working Class Struggle to Imperialist War](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+
+### Party
+
+* [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
 ## Ikea
 
@@ -188,8 +210,8 @@
 ### Communism
 
 * [Abundance and Scarcity in Primitive Societies](https://drive.google.com/file/d/1s2zvYNvyT2MFIjzm2hq0ypMmYE59Wwsl/view?usp=sharing) by La Guerre Sociale
-
 * [A Communist Confession of Faith](https://drive.google.com/file/d/1Smo53cCgfqhljqKBWkzrjDs_mOwSYxvp/view?usp=sharing) by Friedrich Engels
+* [Communism As a Movement](https://drive.google.com/file/d/16MZfghaxBxDAuRvj1Z2inSlVgY3WcDfX/view?usp=sharing) by D.Z. Rowan
 * [Primitive Communism, Barbarism, and the Origin of Bourgeois Society](https://drive.google.com/file/d/1Bt6wekAm2dNimjDDJNBhP35F0ig6IcMq/view?usp=sharing) by Lionel Sims
 * [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [Statement of Principles](https://pnwcommunists.org/wp-content/uploads/2021/03/Statement-of-Principles-Zine.pdf) by the Pacific Northwest Communists
