@@ -15,7 +15,7 @@
 
 * [Principles of Communism](https://www.amazon.ca/dp/9977090025/) by Friedrich Engels
 * [The German Ideology + Theses on Feuerbach](https://www.amazon.ca/German-Ideology-Including-Thesis-Feuerbach/dp/1573922587/) by Karl Marx
-* [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Paul-Lafargue/dp/1406881430/) by Paul Lafargue
+* [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue
 * [Wage Labour and Capital](https://www.amazon.ca/Wage-Labor-Capital-Karl-Marx/dp/1978461232/) by Karl Marx
 * [State and Revolution](https://www.amazon.ca/dp/1795754613/) by Vladimir Lenin
 * [Socialism: Utopian and Scientific](https://www.amazon.ca/Socialism-Utopian-Scientific-Frederick-Engels/dp/1514132230/) by Friedrich Engels
