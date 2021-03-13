@@ -3,9 +3,10 @@
 
 ## Table of Contents
 * [Amazon](#amazon)
-* [ICT](#ict)
-* [ICC](#icc)
 * [Ebay](#ebay)
+* [ICC](#icc)
+* [ICT](#ict)
+* [Ikea](#ikea)
 * [N&L](#n-l)
 * [Other Lists](#other-lists)
 
@@ -66,6 +67,17 @@
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
 
+## Ebay
+
+* [Communism and its Tactics](https://www.ebay.ca/itm/Communism-and-Its-Tactics-Paperback-by-Pankhurst-Sylvia-Like-New-Used-Fre/363246346024) by Sylvia Pankhurst
+
+## ICC
+
+* [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Communism: Not a 'nice idea' but a material necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
+
 ## ICT
 
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
@@ -83,16 +95,9 @@
 * [South Africa's New Turmoil](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Spain 1934-39: From Working Class Struggle to Imperialist War](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
-## ICC
+## Ikea
 
-* [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [Communism: Not a 'nice idea' but a material necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
-
-## Ebay
-
-* [Communism and its Tactics](https://www.ebay.ca/itm/Communism-and-Its-Tactics-Paperback-by-Pankhurst-Sylvia-Like-New-Used-Fre/363246346024) by Sylvia Pankhurst
+* [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
 
 ## N&L
 
