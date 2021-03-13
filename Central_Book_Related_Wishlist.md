@@ -66,6 +66,11 @@
 * [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
+* [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx
+* [The Right To Be Greedy](https://www.amazon.ca/dp/5079602023/) by For Ourselves!
+* [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
+* [Lessons of the Counterrevolutions](https://www.amazon.ca/dp/826409967X/) by Amadeo Bordiga
+* [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
 
 ## Ebay
 
@@ -109,6 +114,7 @@
 * [Eclipse and Re-emergence of the Communist Movement](https://pmpress.org/index.php?l=product_detail&p=673) by Gilles Dauvé
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
 * [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
+* [A Letter to My Children and the Children of the World to Come](https://pmpress.org/index.php?l=product_detail&p=927) by Raoul Vaneigem
 
 ## Other Lists
 
