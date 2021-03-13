@@ -107,6 +107,11 @@
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
 
+## IMH
+
+* [For Humanism](https://imhojournal.org/publications/for-humanism-explorations-in-theory-and-politics/) by David Alderson, Kevin Anderson, Barbara Epstein and Robert Spencer
+* [The Marxist-Humanist Theory of State-Capitalism](https://imhojournal.org/publications/the-marxist-humanist-theory-of-state-capitalism/) by Raya Dunayevskaya
+
 ## N&L
 
 * [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
@@ -136,6 +141,8 @@
 * [The Communist Tendency in History](https://subversionpress.files.wordpress.com/2015/04/com-tend-hist-bklt1.pdf) by ????
 * [The Crisis of Civilisation](https://subversionpress.files.wordpress.com/2015/10/civil-crisis-bklt.pdf) by Gilles Dauvé
 * [Kinderkommunismus](https://subversionpress.files.wordpress.com/2015/06/kinderkom-bklt.pdf) by K.D. Griffiths and J.J. Gleeson
+* [In This World But Not of This World](https://subversionpress.files.wordpress.com/2015/03/in-this-world-bklt.pdf)
+* [A Contribution to the Critique of Political Autonomy](https://subversionpress.files.wordpress.com/2015/03/critic-autonomy-bklt.pdf) by Gilles Dauvé
 
 ## Other Lists
 
