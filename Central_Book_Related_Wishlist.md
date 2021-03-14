@@ -37,6 +37,7 @@
 
 * [Principles of Communism](https://www.amazon.ca/dp/9977090025/) by Friedrich Engels
 * [What is Communism?](https://www.amazon.ca/dp/2343445133/) by Paul Mattick
+* [Fundamental Principles of Communist Production and Distribution](https://www.amazon.ca/gp/aw/d/B0851LZZ17/) by Group of International Communists
 
 ### Communization
 
@@ -84,6 +85,7 @@
 
 * [Imperialism, the Highest Stage of Capitalism](https://www.amazon.ca/dp/1603866639/) by Vladimir Lenin
 * [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1516843460/) by Nikolai Bukharin
+* 
 
 ### Revolution
 
@@ -254,6 +256,7 @@
 ### Work
 
 * [A Few Clarifacations on Anti-Work](https://subversionpress.files.wordpress.com/2017/03/anti-work-bklt1.pdf) by Bruno Astarian
+* [Never Work!](https://azinelibrary.org/approved/never-work-0-1.pdf) by Karen Elliot
 * [Self Management of Misery or the Misery of Self Management](https://subversionpress.files.wordpress.com/2017/05/self-manage-bklt.pdf) by Terra Cremada
 * [Workers Against Work](https://subversionpress.files.wordpress.com/2016/08/work-bklt.pdf) by Tom Regel
 
@@ -261,6 +264,8 @@
 
 * [In This World But Not of This World](https://subversionpress.files.wordpress.com/2015/03/in-this-world-bklt.pdf) by Gilles Dauvé
 * [The Sanders Campaign](https://subversionpress.files.wordpress.com/2016/10/sanders-bklt.pdf) by ????
+* [The Subversion of Everyday Life](https://subversionpress.files.wordpress.com/2016/11/subversion-of-daily-bklt.pdf) by ???? Kolinko
+* [We Are Not “Anti”](https://subversionpress.files.wordpress.com/2016/08/anti-bklt.pdf) by Bernard Lyon
 
 ### Religion
 
