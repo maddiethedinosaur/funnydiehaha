@@ -1,6 +1,6 @@
 # Central Book + Related Wishlist
 
-![books](G:\Apps\Typora\Files\Images\books-1615647551659.png)
+![books](books.png)
 
 ## Table of Contents
 
