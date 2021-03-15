@@ -6,20 +6,20 @@
 
 ## Table of Contents
 
-* [The Continuation of Marxism](#the-continuation-of-marxism)
+* [Introduction](#introduction)
 * [Marx, Engels, Lenin](#marx-engels-lenin)
 * [The Revolutionary Communist Movement After October](#the-revolutionary-communist-movement-after-october)
 
-## The Continuation of Marxism
+## Introduction
 
-I've decided, despite it being roughly 1:00 in the morning (on a school day!), to finish this document and write a short intro. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. A summary of the positions of the Italian Communist-Left (which this document focuses on) is as follows:
+I've decided to finish this document and write a short introduction. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. This document is supposed to be short, and was mostly not compiled by me.
 
 ## Marx, Engels, Lenin
 
-* [Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) by Friedrich Engels
-* [Manifesto of the Communist Party](https://libcom.org/library/communist-manifesto-marx-engels-0) by Karl Marx
+* [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
+* [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
 * [Theses on Feuerbach](http://libcom.org/library/ludwig-feuerbach-end-classical-german-philosophy-engels-appendix) by Karl Marx
-* [The Right to be Lazy](https://libcom.org/library/right-lazy-paul-lafargue) by Paul Lafargue
+* [The Right to be Lazy](https://drive.google.com/file/d/1o0THxDK3mnt0pf390Ff_xndPqAtlT58P/view?usp=sharing) by Paul Lafargue
 * [The German Ideology (Chapter 1)](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
 * [Wage Labor and Capital](https://drive.google.com/file/d/191AJKZONkV_rq9T__4w9KOA3o-oxWhhd/view?usp=sharing) by Karl Marx
 * [State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) by V.I. Lenin
