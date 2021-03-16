@@ -12,7 +12,8 @@
 * [Left-Communism 101](#left-communism-101)
 * [The Principles of the Communist-Left](#the-principles-of-the-communist-left)
 * [The Communist Party](#the-communist-party)
-* [The Capitalist Nature of the USSR](#the-capitalist-nature-of-the-ussr)
+* [Russia, China, Falsifiers, Etc.](#Russia-china-falsifiers-etc)
+* [Miscellaneous](#miscellaneous)
 
 ## Introduction
 
@@ -75,8 +76,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 * [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
-* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
-* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 
 ## The Communist Party
@@ -86,14 +85,17 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
 * [We Are Against All Institutional Parties](http://www.leftcom.org/en/articles/2020-05-18/we-are-against-all-institutional-parties) by the Internationalist Communist Tendency
 * [For the International Party of the Proletariat](https://www.leftcom.org/en/articles/2020-05-21/for-the-international-party-of-the-proletariat) by the Internationalist Communist Tendency
+* [Centralised Party, Yes – Centralism over the Party, No!](https://www.marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
 
-## The Capitalist Nature of the USSR
+## Russia, China, Falsifiers, Etc.
 
 * [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
 * [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
+* [Aspects of the Russian Question](https://libcom.org/library/aspects-russian-question-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left/American Fraction of the Left-Communist International
+* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
+* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
 
-## 
+## Miscellaneous
 
-* [Centralised Party, Yes – Centralism over the Party, No!](https://www.marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
 * [On the Union Question](https://libcom.org/library/union-question-amadeo-bordiga-onorato-damen) by Amadeo Bordiga and Onorato Damen
 * [What Does the Communist Left do?](http://www.leftcom.org/en/articles/2020-04-22/what-does-the-communist-left-do) by the Internationalist Communist Tendency
