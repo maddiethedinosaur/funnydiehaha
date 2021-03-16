@@ -46,14 +46,18 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 * [Critique of the Gotha Programme](https://libcom.org/library/critique-of-the-gotha-program-karl-marx) by Karl Marx
 
-  *A
+  *A critique of the draft programme of the United Workers' Party of Germany, Marx critiques its lassallian politics and outlines various positions of scientific socialism.*
 
 * [Socialism: Utopian and Scientific](https://libcom.org/library/socialism-utopian-scientific-engels) by Friedrich Engels
+
+  *A short pamphlet created by Engels at the request of Paul Lafargue, containing a short explanation of the differences between Utopian Socialism and Scientific Socialism.*
+
 * [Eighteenth Brumaire of Louis Bonaparte](https://libcom.org/library/18th-brumaire-louis-napoleon-marx) by Karl Marx
 
-## The Revolutionary Communist Movement After October
+  *Following a coup by Louis Bonaparte, Marx wrote this. It contains an outline of how different social interests conflicting manifest as political struggles.*
 
-* [An Introduction to the Work of the CWO and ICT](http://www.leftcom.org/en/articles/2020-12-27/an-introduction-to-the-work-of-the-cwo-and-ict) by the Internationalist Communist Tendency
+## Basic Positions of the Communist-Left
+
 * [Introductions to Our Positions](http://www.leftcom.org/en/articles/2020-02-03/introductions-to-our-positions) by the Internationalist Communist Tendency
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution) by Rosa Luxemburg
