@@ -7,7 +7,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [The Basics of the Communist Orientation](#the-basics-of-the-communist-orientation)
+* [The Basics of the Communist Viewpoint](#the-basics-of-the-communist-viewpoint)
 * [The Revolutionary Communist Movement After October](#the-revolutionary-communist-movement-after-october)
 
 ## Introduction
