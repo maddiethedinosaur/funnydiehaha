@@ -14,10 +14,15 @@
 
 I've decided to finish this document and write a short introduction. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. This document is supposed to be short, and was mostly not compiled by me, but I did add stuff I thought was important.
 
-## The Basics of the Communist Orientation
+## The Basics of the Communist Viewpoint
+
+### Communism 101
 
 * [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
 * [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
+
+### Critique of Philosophy
+
 * [Theses on Feuerbach](http://libcom.org/library/ludwig-feuerbach-end-classical-german-philosophy-engels-appendix) by Karl Marx
 * [The Right to be Lazy](https://drive.google.com/file/d/1o0THxDK3mnt0pf390Ff_xndPqAtlT58P/view?usp=sharing) by Paul Lafargue
 * [The German Ideology (Chapter 1)](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
