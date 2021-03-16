@@ -32,6 +32,7 @@
 
 * [Eighteenth Brumaire of Louis Bonaparte](https://www.amazon.ca/Eighteenth-Brumaire-Louis-Bonaparte/dp/1522064885/) by Karl Marx
 * [The Civil War in France](https://www.amazon.ca/dp/1614276048/) by Karl Marx
+* [Class Struggles in France](https://www.amazon.ca/Class-Struggles-France-1848-1850-Karl/dp/071780030X/) by Karl Marx
 
 ### Communism
 
@@ -54,7 +55,6 @@
 * [Grundrisse](https://www.amazon.ca/dp/0140445757/) by Karl Marx
 * [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
 * [Results of the Direct Production Process](https://www.amazon.ca/dp/711411155X/) by Karl Marx
-* [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
 * [Value, Price and Profit](https://www.amazon.ca/Value-Price-Profit-Classic-Reprint/dp/B008NU3ODY/) by Karl Marx
 * [Wage Labour and Capital](https://www.amazon.ca/Wage-Labor-Capital-Karl-Marx/dp/1978461232/) by Karl Marx
 
@@ -81,11 +81,15 @@
 * [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
 
+### Humanism
+
+* [For Humanism](https://www.amazon.ca/exec/obidos/ASIN/0745336140/marxist-20/) by David Alderson, and Robert Spencer
+
 ### Imperialism
 
 * [Imperialism, the Highest Stage of Capitalism](https://www.amazon.ca/dp/1603866639/) by Vladimir Lenin
 * [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1516843460/) by Nikolai Bukharin
-* 
+* [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
 
 ### Revolution
 
@@ -181,16 +185,6 @@
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
 
-## IMH
-
-### Humanism
-
-* [For Humanism](https://imhojournal.org/publications/for-humanism-explorations-in-theory-and-politics/) by David Alderson, Kevin Anderson, Barbara Epstein and Robert Spencer
-
-### Stalinism
-
-* [The Marxist-Humanist Theory of State-Capitalism](https://imhojournal.org/publications/the-marxist-humanist-theory-of-state-capitalism/) by Raya Dunayevskaya
-
 ## N&L
 
 ### Feminism
@@ -200,6 +194,10 @@
 ### Humanism
 
 * [Marxism and Freedom](https://newsandletters.org/shop/books-by-raya-dunayevskaya/marxism-and-freedom-from-1776-until-today/) by Raya Dunayevskaya
+
+### Stalinism
+
+* [The Marxist-Humanist Theory of State-Capitalism](https://newsandletters.org/shop/books-by-raya-dunayevskaya/the-marxist-humanist-theory-of-state-capitalism/) by Raya Dunayevskaya
 
 ## PM Press
 
