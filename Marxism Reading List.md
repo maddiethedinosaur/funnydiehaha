@@ -16,17 +16,13 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 ## The Basics of the Communist Viewpoint
 
-### Communism 101
-
 * [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
 
   *A draft programme for the Communist League which outlines some of the fundamental positions of communism.*
 
 * [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
 
-  *The final programme for the Communist League, it contains outlines of some fundamental positions of communism and is much larger than Principles of Communism.*
-
-### Critique of Philosophy
+  *The final programme for the Communist League, it is a larger and more detailed outline of some fundamental positions of communism.*
 
 * [Theses on Feuerbach](http://libcom.org/library/ludwig-feuerbach-end-classical-german-philosophy-engels-appendix) by Karl Marx
 * [The Right to be Lazy](https://drive.google.com/file/d/1o0THxDK3mnt0pf390Ff_xndPqAtlT58P/view?usp=sharing) by Paul Lafargue
