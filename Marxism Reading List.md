@@ -19,7 +19,12 @@ I've decided to finish this document and write a short introduction. My goal of 
 ### Communism 101
 
 * [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
+
+  *A draft programme for the Communist League which outlines some of the fundamental positions of communism.*
+
 * [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
+
+  *The final programme for the Communist League, it contains outlines of some fundamental positions of communism and is much larger than Principles of Communism.*
 
 ### Critique of Philosophy
 
