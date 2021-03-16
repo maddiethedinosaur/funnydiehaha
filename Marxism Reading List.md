@@ -76,24 +76,26 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 * [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
+* [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
+* [Centralised Party, Yes – Centralism over the Party, No!](https://www.marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
+* [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
+* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
+* [Trotsky, Trotskyism, Trotskyists](https://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskyism) by the Internationalist Communist Tendency
 
 ## The Communist Party
 
-* [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
 * [On the Future International](https://www.leftcom.org/en/articles/2018-06-22/on-the-future-international) by the Internationalist Communist Tendency
 * [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
 * [We Are Against All Institutional Parties](http://www.leftcom.org/en/articles/2020-05-18/we-are-against-all-institutional-parties) by the Internationalist Communist Tendency
 * [For the International Party of the Proletariat](https://www.leftcom.org/en/articles/2020-05-21/for-the-international-party-of-the-proletariat) by the Internationalist Communist Tendency
-* [Centralised Party, Yes – Centralism over the Party, No!](https://www.marxists.org/archive/damen/1951/centralised.htm) by Onorato Damen
+
 
 ## Russia, China, Falsifiers, Etc.
 
-* [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
 * [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
 * [Aspects of the Russian Question](https://libcom.org/library/aspects-russian-question-%E2%80%93-american-fraction-left-communist-international-1949) by American Fraction of the International Communist-Left/American Fraction of the Left-Communist International
 * [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
-* [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
 
 ## Miscellaneous
 
