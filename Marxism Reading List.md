@@ -7,14 +7,14 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Marx, Engels, Lenin](#marx-engels-lenin)
+* [The Basics of the Communist Orientation](#the-basics-of-the-communist-orientation)
 * [The Revolutionary Communist Movement After October](#the-revolutionary-communist-movement-after-october)
 
 ## Introduction
 
-I've decided to finish this document and write a short introduction. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. This document is supposed to be short, and was mostly not compiled by me.
+I've decided to finish this document and write a short introduction. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. This document is supposed to be short, and was mostly not compiled by me, but I did add stuff I thought was important.
 
-## Marx, Engels, Lenin
+## The Basics of the Communist Orientation
 
 * [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
 * [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
