@@ -7,14 +7,15 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [The Basics of the Communist Viewpoint](#the-basics-of-the-communist-viewpoint)
-* [The Revolutionary Communist Movement After October](#the-revolutionary-communist-movement-after-october)
+* [Communism 101](#communism-101)
+* [Philosophy and Politics of the Communist Movement](#philosophy-and-politics-of-the-communist-movement)
+* [Basic Positions of the Communist-Left](#basic-positions-of-the-communist-left)
 
 ## Introduction
 
 I've decided to finish this document and write a short introduction. My goal of this is to offer anyone curious with an introduction to the communist movement, and its contemporary continuation: the communist-left. This document is supposed to be short, and was mostly not compiled by me, but I did add stuff I thought was important.
 
-## The Basics of the Communist Viewpoint
+## Communism 101
 
 * [Principles of Communism](https://drive.google.com/file/d/1TasOyPDYlUWBw1P8tUdxjgaXFfsCm6At/view?usp=sharing) by Friedrich Engels
 
@@ -23,6 +24,8 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Manifesto of the Communist Party](https://drive.google.com/file/d/1HnOE1zEGIEAJj4pfS8AFDBHAlIz1HKeC/view?usp=sharing) by Karl Marx
 
   *The final programme for the Communist League, it is a larger and more detailed outline of some fundamental positions of communism.*
+
+## Philosophy and Politics of the Communist Movement
 
 * [Theses on Feuerbach](http://libcom.org/library/ludwig-feuerbach-end-classical-german-philosophy-engels-appendix) by Karl Marx
 
