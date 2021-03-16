@@ -25,11 +25,29 @@ I've decided to finish this document and write a short introduction. My goal of 
   *The final programme for the Communist League, it is a larger and more detailed outline of some fundamental positions of communism.*
 
 * [Theses on Feuerbach](http://libcom.org/library/ludwig-feuerbach-end-classical-german-philosophy-engels-appendix) by Karl Marx
+
+  *11 short Theses on Ludwig Feuerbach written by Marx outlining Marx's disagreements and problems with Feuerbach.*
+
 * [The Right to be Lazy](https://drive.google.com/file/d/1o0THxDK3mnt0pf390Ff_xndPqAtlT58P/view?usp=sharing) by Paul Lafargue
+
+  *A manifesto against work and moralism, and for laziness.*
+
 * [The German Ideology (Chapter 1)](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01.htm) by Karl Marx
+
+  *A critique of prevailing philosophies in Germany during the time, this chapter focusing on Feuerbach.*
+
 * [Wage Labor and Capital](https://drive.google.com/file/d/191AJKZONkV_rq9T__4w9KOA3o-oxWhhd/view?usp=sharing) by Karl Marx
+
+  *An introduction to Marx's critique of political economy.*
+
 * [State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) by V.I. Lenin
+
+  *An outline of the Marxist view of the state, written by Lenin with excerpts from Marx and Engels.*
+
 * [Critique of the Gotha Programme](https://libcom.org/library/critique-of-the-gotha-program-karl-marx) by Karl Marx
+
+  *A
+
 * [Socialism: Utopian and Scientific](https://libcom.org/library/socialism-utopian-scientific-engels) by Friedrich Engels
 * [Eighteenth Brumaire of Louis Bonaparte](https://libcom.org/library/18th-brumaire-louis-napoleon-marx) by Karl Marx
 
