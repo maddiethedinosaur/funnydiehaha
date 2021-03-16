@@ -12,7 +12,7 @@
 * [Left-Communism 101](#left-communism-101)
 * [The Principles of the Communist-Left](#the-principles-of-the-communist-left)
 * [The Communist Party](#the-communist-party)
-* [Russia, China, Falsifiers, Etc.](#Russia-china-falsifiers-etc)
+* [Russia, China, Falsifiers, Etc.](#russia-china-falsifiers-etc)
 * [Miscellaneous](#miscellaneous)
 
 ## Introduction
