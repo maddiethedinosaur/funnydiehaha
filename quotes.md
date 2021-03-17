@@ -5,3 +5,4 @@
 * "The central lesson that the Communist Left drew from the October Revolution and the counter-revolutionary process is that the proletariat cannot excuse itself from this role and delegate its power and the task of realising communism to others, not even to its own class party." - Internationalist Communist Tendency, Marxism or Idealism - Our Differences with the ICC
 * "This tendency to create community by fighting against the conditions of our lives—and therefore against work, money, exchange, borders, nations, governments, police, religion, and race—has at times been called “communism”." - Prole.info, Work Community Politics War
 * "We communists have already established ourselves as a major power. All factions, left and right eventually turn their eyes towards us and our destruction." - International Communist Workers' Party, Manifesto of the International Communist Workers Party
+* "Apply the lube, Engels" - Karl Marx, Unknown
