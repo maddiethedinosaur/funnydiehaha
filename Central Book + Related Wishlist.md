@@ -360,20 +360,20 @@
 * [The Proletarian Woman (1914)](http://materialnecessity.org/2019/10/28/the-proletarian-woman-1914-by-rosa-luxemburg/) by Rosa Luxemburg
 * [The Revolutionary Program of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour](http://materialnecessity.org/2019/08/14/the-revolutionary-program-of-communist-society-eliminates-all-forms-of-ownership-of-land-the-instruments-of-production-and-the-products-of-labor-pcint/)  by the International Communist Party
 * [The Marxist Ideology in Russia](http://materialnecessity.org/2019/09/04/the-marxist-ideology-in-russia-karl-korsch/) by Karl Korsch
-* [](http://materialnecessity.org/2019/09/05/maos-china-certified-copy-of-the-bourgeois-capitalist-society-1957/) by Amadeo Bordiga
+* [Mao’s China, Certified Copy of the Bourgeois Capitalist Society](http://materialnecessity.org/2019/09/05/maos-china-certified-copy-of-the-bourgeois-capitalist-society-1957/) by Amadeo Bordiga
 * [Nationalism and Socialism](http://materialnecessity.org/2019/09/17/nationalism-and-socialism-paul-mattick/) by Paul Mattick
 * [The Democratic Principle](http://materialnecessity.org/2019/08/01/the-democratic-principle-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/08/01/in-janitzio-death-is-not-scary-bordiga/) by Amadeo Bordiga
-* [In Janitzio Death is not Scary](http://materialnecessity.org/2019/08/08/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-damen/) by Onorato Damen
+* [In Janitzio Death is not Scary](http://materialnecessity.org/2019/08/01/in-janitzio-death-is-not-scary-bordiga/) by Amadeo Bordiga
+* [Amadeo Bordiga – Beyond the Myth and the Rhetoric](http://materialnecessity.org/2019/08/08/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-damen/) by Onorato Damen
 * [On the Dialectical Method](http://materialnecessity.org/2019/08/12/on-the-dialectical-method-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/08/12/crisis-of-bordigism-maybe-but-not-a-crisis-of-the-italian-left-damen/) by Onorato Damen
+* [Crisis of Bordigism? Maybe, But Not a Crisis of the Italian Left](http://materialnecessity.org/2019/08/12/crisis-of-bordigism-maybe-but-not-a-crisis-of-the-italian-left-damen/) by Onorato Damen
 * [We Defend the Italian Left](http://materialnecessity.org/2019/08/12/we-defend-the-italian-left-damen/) by Onorato Damen
 * [The Construction of Socialism](http://materialnecessity.org/2019/08/13/the-construction-of-socialism-nikolai-ossinsky/) by Nikolai Ossinsky
 * [The Lyons Theses](http://materialnecessity.org/2019/07/28/lyons-theses-amadeo-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/07/28/doctrine-of-the-body-possessed-by-the-devil-amadeo-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/08/01/the-system-of-communist-representation-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/07/31/state-capitalism-and-dictatorship-anton-pannekoek/) by Anton Pannekoek
-* [](http://materialnecessity.org/2019/07/27/the-communist-left-and-the-continuity-of-marxism-icc/) by the International Communist Current
+* [Doctrine of the Body Possessed by the Devil](http://materialnecessity.org/2019/07/28/doctrine-of-the-body-possessed-by-the-devil-amadeo-bordiga/) by Amadeo Bordiga
+* [The System of Communist Representation](http://materialnecessity.org/2019/08/01/the-system-of-communist-representation-bordiga/) by Amadeo Bordiga
+* [State Capitalism and Dictatorship](http://materialnecessity.org/2019/07/31/state-capitalism-and-dictatorship-anton-pannekoek/) by Anton Pannekoek
+* [The Communist-Left and the Continuity of Marxism](http://materialnecessity.org/2019/07/27/the-communist-left-and-the-continuity-of-marxism-icc/) by the International Communist Current
 
 ## Other Lists
 
