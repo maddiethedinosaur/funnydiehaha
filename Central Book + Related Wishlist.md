@@ -96,6 +96,10 @@
 * [The Ultimate Hitchhiker's Guide to the Galaxy Omnibus](https://www.amazon.ca/dp/1529051436/) by Douglas Adams
 * [The Complete Fiction of H. P. Lovecraft](https://www.amazon.ca/dp/3903352012/) by H. P. Lovecraft
 
+### History
+
+* [A People's History of the World](https://www.amazon.ca/Peoples-History-World-Stone-Millennium/dp/1786630818) by Chris Harman
+
 ### Humanism
 
 * [For Humanism](https://www.amazon.ca/exec/obidos/ASIN/0745336140/marxist-20/) by David Alderson, and Robert Spencer
