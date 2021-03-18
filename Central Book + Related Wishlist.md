@@ -273,6 +273,7 @@
 * [Communization and the Abolition of Gender](https://drive.google.com/file/d/1wb66WaNiNE0SImcFf1YbA_RdW_8wyhh4/view?usp=sharing) by Maya Andrea Gonzalez
 * [Crisis Activity and Communisation](https://subversionpress.files.wordpress.com/2015/04/crisis-bklt1.pdf) by Bruno Astarian
 * [Our Problems With Leftism](https://drive.google.com/file/d/1TTDNSouqqFrJGOZ3VMf5a3Wh8GjUd2Re/view?usp=drivesdk) by D.Z. Rowan
+* [Value and its Abolition](https://subversionpress.files.wordpress.com/2016/07/value-and-its-abolition-bklt.pdf) by Bruno Astarian
 
 ### Democracy
 
