@@ -159,7 +159,6 @@
 ### Communism
 
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
-* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
 ### Falsifiers, Oppurtinists, Splits and Debates
@@ -168,6 +167,7 @@
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Gramsci between Marxism and Idealism](http://www.leftcom.org/en/store) by Onorato Damen
 * [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen
+* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
 ### History
 
