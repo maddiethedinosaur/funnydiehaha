@@ -284,9 +284,14 @@
 
 * [Kinderkommunismus](https://subversionpress.files.wordpress.com/2015/06/kinderkom-bklt.pdf) by K.D. Griffiths and J.J. Gleeson
 
+### Politics
+
+* [The Real Death of Politics](https://subversionpress.files.wordpress.com/2017/03/politics-bklt.pdf) by Ediciones Inéditos
+
 ### Work
 
 * [A Few Clarifacations on Anti-Work](https://subversionpress.files.wordpress.com/2017/03/anti-work-bklt1.pdf) by Bruno Astarian
+* [But We Have To, So We Do It Real Slow](https://subversionpress.files.wordpress.com/2016/11/real-slow-bklt.pdf) by L.A. Onda
 * [Never Work!](https://azinelibrary.org/approved/never-work-0-1.pdf) by Karen Elliot
 * [Self Management of Misery or the Misery of Self Management](https://subversionpress.files.wordpress.com/2017/05/self-manage-bklt.pdf) by Terra Cremada
 * [Workers Against Work](https://subversionpress.files.wordpress.com/2016/08/work-bklt.pdf) by Tom Regel
