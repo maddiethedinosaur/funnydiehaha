@@ -14,6 +14,7 @@
 * [N&L](#n-l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
+* [Future Zines](#future-zines)
 * [Other Lists](#other-lists)
 
 ## AK Press
@@ -100,6 +101,7 @@
 ### History
 
 * [A People's History of the World](https://www.amazon.ca/Peoples-History-World-Stone-Millennium/dp/1786630818) by Chris Harman
+* [The Bolsheviks Come to Power](https://www.amazon.ca/Bolsheviks-Come-Power-Revolution-Petrograd-dp-1608467937/dp/1608467937/) by Alexander Rabinowitch
 
 ### Humanism
 
@@ -327,6 +329,24 @@
 ### Unions
 
 * [Trade Unions: Pillars of Capitalism](https://subversionpress.files.wordpress.com/2016/10/trade-unions-bklt.pdf) by Internationalist Perspective
+
+## Future Zines
+
+* [Theses of Programmatical Orientation](https://libcom.org/library/theses-of-programmatical-orientation) by the Internationalist Communist Group
+* [When Insurrections Die](https://libcom.org/library/when-insurrections-die) by Gilles Dauvé
+* [What Distinguishes Our Party](https://www.international-communist-party.org/BasicTexts/WhatDist.htm) by the International Communist Party
+* [The Ultra Left International](https://theanarchistlibrary.org/library/d-z-rowan-the-ultra-left-international)
+* [What's It All About?](https://www.troploin.fr/node/48) by Gilles Dauvé
+* [To Work or Not to Work?](https://www.troploin.fr/node/34) by Gilles Dauvé
+* [Space Versus Cement](http://materialnecessity.org/2020/04/02/space-versus-cement-il-programa-comunista/) by the International Communist Party
+* [The Democratic Mystification](http://materialnecessity.org/2019/08/05/the-democratic-mystification-jacques-camatte/) by Jacques Camatte
+* [Activism](http://materialnecessity.org/2019/07/29/activism-amadeo-bordiga/) by Amadeo Bordiga
+* [Economics and Politics in the Era of the Dictatorship of the Proletariat](http://materialnecessity.org/2019/07/29/economics-and-politics-in-the-era-of-the-dictatorship-of-the-proletariat-vladimir-lenin/) by Vladimir Lenin
+* [Against Grover Furr, Against Stalinism](http://materialnecessity.org/2019/08/01/against-grover-furr-against-stalinism-john/)
+* [Manifesto of the Workers' Group](https://www.marxists.org/archive/miasnikov/1923/manifesto-workers-group/index.htm) by Gavril Myasnikov
+* [The April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) by Vladimir Lenin
+* [Against ‘Great Man History’](http://materialnecessity.org/2019/08/01/against-great-man-history-john/) by John
+* [The Plague of Consumption](http://materialnecessity.org/2019/10/04/the-plague-of-consumption-mack/) by Mack
 
 ## Other Lists
 
