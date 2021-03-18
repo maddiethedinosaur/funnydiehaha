@@ -272,11 +272,13 @@
 * [A to Z of Communisation](https://subversionpress.files.wordpress.com/2016/08/a-z-bklt.pdf) by Gilles Dauvé
 * [Communisation](https://subversionpress.files.wordpress.com/2015/03/communisation-bklt.pdf) by Gilles Dauvé
 * [Communization and the Abolition of Gender](https://drive.google.com/file/d/1wb66WaNiNE0SImcFf1YbA_RdW_8wyhh4/view?usp=sharing) by Maya Andrea Gonzalez
+* [Crisis Activity and Communisation](https://subversionpress.files.wordpress.com/2015/04/crisis-bklt1.pdf) by Bruno Astarian
 
 ### Democracy
 
 * [A Contribution to the Critique of Political Autonomy](https://subversionpress.files.wordpress.com/2015/03/critic-autonomy-bklt.pdf) by Gilles Dauvé
 * [Private Property, Scarcity and Democracy](https://subversionpress.files.wordpress.com/2016/11/private-bklt.pdf) by Humanaesfera
+* [This is What Democracy Looks Like](https://subversionpress.files.wordpress.com/2017/03/democracy-bklt.pdf) by Internationalist Perspective
 
 ### Family
 
