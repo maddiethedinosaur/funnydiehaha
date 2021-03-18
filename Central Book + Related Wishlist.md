@@ -124,6 +124,7 @@
 
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
 * [Mutual Aid](https://www.amazon.ca/dp/1549909851/) by Peter Kropotkin
+* [The Interpretation of Dreams](https://www.amazon.ca/Interpretation-Dreams-Sigmund-Freud/dp/1522055762/) by Sigmund Freud
 
 ### Stalinism
 
