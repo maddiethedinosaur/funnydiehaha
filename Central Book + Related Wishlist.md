@@ -152,7 +152,7 @@
 ### Work
 
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue
-* [The Right To Be Greedy](https://www.amazon.ca/dp/5079602023/) by For Ourselves!
+* [The Right to be Greedy](https://www.amazon.ca/dp/5079602023/) by For Ourselves!
 
 ## Ebay
 
@@ -168,7 +168,7 @@
 
 ### Communism
 
-* [Communism: Not a 'nice idea' but a material necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Communism: Not a 'Nice Idea' but a Material Necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ### Decadence
@@ -364,8 +364,8 @@
 * [Nationalism and Socialism](http://materialnecessity.org/2019/09/17/nationalism-and-socialism-paul-mattick/) by Paul Mattick
 * [The Democratic Principle](http://materialnecessity.org/2019/08/01/the-democratic-principle-bordiga/) by Amadeo Bordiga
 * [](http://materialnecessity.org/2019/08/01/in-janitzio-death-is-not-scary-bordiga/) by Amadeo Bordiga
-* [](http://materialnecessity.org/2019/08/08/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-damen/) by Onorato Damen
-* [](http://materialnecessity.org/2019/08/12/on-the-dialectical-method-bordiga/) by Amadeo Bordiga
+* [In Janitzio Death is not Scary](http://materialnecessity.org/2019/08/08/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-damen/) by Onorato Damen
+* [On the Dialectical Method](http://materialnecessity.org/2019/08/12/on-the-dialectical-method-bordiga/) by Amadeo Bordiga
 * [](http://materialnecessity.org/2019/08/12/crisis-of-bordigism-maybe-but-not-a-crisis-of-the-italian-left-damen/) by Onorato Damen
 * [We Defend the Italian Left](http://materialnecessity.org/2019/08/12/we-defend-the-italian-left-damen/) by Onorato Damen
 * [The Construction of Socialism](http://materialnecessity.org/2019/08/13/the-construction-of-socialism-nikolai-ossinsky/) by Nikolai Ossinsky
