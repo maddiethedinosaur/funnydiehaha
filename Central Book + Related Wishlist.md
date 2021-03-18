@@ -7,6 +7,7 @@
 * [AK Press](#ak-press)
 * [Amazon](#amazon)
 * [Ebay](#ebay)
+* [Endnotes](#endnotes)
 * [ICC](#icc)
 * [ICT](#ict)
 * [Ikea](#ikea)
@@ -154,6 +155,12 @@
 ## Ebay
 
 * [Communism and its Tactics](https://www.ebay.ca/itm/Communism-and-Its-Tactics-Paperback-by-Pankhurst-Sylvia-Like-New-Used-Fre/363246346024) by Sylvia Pankhurst
+
+## Endnotes
+
+* [Endnotes 1](https://endnotes.org.uk/issues)
+* [Endnotes 3](https://endnotes.org.uk/issues)
+* [Endnotes 5](https://endnotes.org.uk/issues)
 
 ## ICC
 
