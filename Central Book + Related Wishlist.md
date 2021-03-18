@@ -244,7 +244,6 @@
 ### Work
 
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
-
 * [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
 
 ## Printable Zines
@@ -273,16 +272,31 @@
 * [Communisation](https://subversionpress.files.wordpress.com/2015/03/communisation-bklt.pdf) by Gilles Dauvé
 * [Communization and the Abolition of Gender](https://drive.google.com/file/d/1wb66WaNiNE0SImcFf1YbA_RdW_8wyhh4/view?usp=sharing) by Maya Andrea Gonzalez
 * [Crisis Activity and Communisation](https://subversionpress.files.wordpress.com/2015/04/crisis-bklt1.pdf) by Bruno Astarian
+* [Our Problems With Leftism](https://drive.google.com/file/d/1TTDNSouqqFrJGOZ3VMf5a3Wh8GjUd2Re/view?usp=drivesdk) by D.Z. Rowan
 
 ### Democracy
 
 * [A Contribution to the Critique of Political Autonomy](https://subversionpress.files.wordpress.com/2015/03/critic-autonomy-bklt.pdf) by Gilles Dauvé
 * [Private Property, Scarcity and Democracy](https://subversionpress.files.wordpress.com/2016/11/private-bklt.pdf) by Humanaesfera
+* [The Spector of Democracy](https://drive.google.com/file/d/15APQV-MbaoiT-CA4JVPzX0sbqO8qYYEa/view?usp=drivesdk) by Against Sleep and Nightmare
 * [This is What Democracy Looks Like](https://subversionpress.files.wordpress.com/2017/03/democracy-bklt.pdf) by Internationalist Perspective
 
 ### Family
 
 * [Kinderkommunismus](https://subversionpress.files.wordpress.com/2015/06/kinderkom-bklt.pdf) by K.D. Griffiths and J.J. Gleeson
+
+### Introductions
+
+* [Introductory GUide](https://drive.google.com/file/d/1BIbSi9-hkmPYQlMRlQzMqHAGcngZsEI-/view?usp=drivesdk) by libcom.org
+* [What is Class?](https://drive.google.com/file/d/1EvZQdMtkZfQSvTH_g6FgLk615jRUJb0U/view?usp=drivesdk) by sub.media
+* [What is Direct Action?](https://drive.google.com/file/d/1dSv3bxeYyjzN-az-ISDLyuGWGri1k63q/view?usp=drivesdk) by sub.media
+* [What is Property?](https://drive.google.com/file/d/16WrtdjWx3tvF4CQPX0kbNvBxBVzlpmEO/view?usp=drivesdk)  by sub.media
+* [What is Gender?](https://drive.google.com/file/d/1c0QyU0lGNJCHIvrKG401yqEJzoq5dZ2Y/view?usp=drivesdk) by sub.media
+* [What is Mutual Aid?](https://drive.google.com/file/d/1yZ6ZnP5bMySxo1tKgn6I08vPvU3ScCE4/view?usp=drivesdk) by sub.media
+* [What is Nationalism?](https://drive.google.com/file/d/14n1TUKFnseEih_gEk3xKMsWYPgZ36BGr/view?usp=drivesdk) by sub.media
+* [What is Race?](https://drive.google.com/file/d/14OcfNoc8-NI9xZSf9kMadiQJ14aFyM93/view?usp=drivesdk) by sub.media
+* [What is Violence?](https://drive.google.com/file/d/1tZZHhlsfMD8aMFuOgNgM3cRk77IvzeMP/view?usp=drivesdk) by sub.media
+* [What is Prefigurative Politics?](https://drive.google.com/file/d/1f-37q39cxUKsmoljsfsaGNWgute8R-sL/view?usp=drivesdk) by sub.media
 
 ### Politics
 
