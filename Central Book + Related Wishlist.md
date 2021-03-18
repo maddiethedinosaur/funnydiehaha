@@ -347,6 +347,33 @@
 * [The April Theses](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm) by Vladimir Lenin
 * [Against ‘Great Man History’](http://materialnecessity.org/2019/08/01/against-great-man-history-john/) by John
 * [The Plague of Consumption](http://materialnecessity.org/2019/10/04/the-plague-of-consumption-mack/) by Mack
+* [Towards a Dialectical Centralism](http://materialnecessity.org/2019/08/13/towards-a-dialectical-centralism-mouthy-infidel/) by Mouthy Infidel
+* [1917](http://www.leftcom.org/en/articles/2007-11-01/1917) by the Internationalist Communist Tendency
+* [The Degeneration of the Russian Revolution](http://materialnecessity.org/2019/08/17/the-degeneration-of-the-russian-revolution/) by John
+* [Rosa Luxemburg’s: The Russian Revolution](http://materialnecessity.org/2019/11/21/rosa-luxemburgs-the-russian-revolution-onorato-damen/) by Onorato Damen
+* [The Destruction of Nature](http://materialnecessity.org/2019/11/21/the-destruction-of-nature-anton-pannekoek/) by Anton Pannekoek
+* [Ten Theses on Marxism Today](http://materialnecessity.org/2019/12/03/ten-theses-on-marxism-today-karl-korsch/) by Karl Korsch
+* [The Guignol in History](http://materialnecessity.org/2020/03/30/the-guignol-in-history-amadeo-bordiga-2/) by Amadeo Bordiga
+* [Against the Concept of the “Brilliant Leader”](http://materialnecessity.org/2019/08/10/against-the-concept-of-the-brilliant-leader-icc/) by the International Communist Current
+* [The Hidden Legacy of the Left of Capital](http://materialnecessity.org/2019/10/03/the-hidden-legacy-of-the-left-of-capital-icc/) by the International Communist Current
+* [The Lessons of Kronstadt](http://materialnecessity.org/2019/08/01/the-lessons-of-kronstadt-icc/) by the International Communist Current
+* [The Proletarian Woman (1914)](http://materialnecessity.org/2019/10/28/the-proletarian-woman-1914-by-rosa-luxemburg/) by Rosa Luxemburg
+* [The Revolutionary Program of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labour](http://materialnecessity.org/2019/08/14/the-revolutionary-program-of-communist-society-eliminates-all-forms-of-ownership-of-land-the-instruments-of-production-and-the-products-of-labor-pcint/)  by the International Communist Party
+* [The Marxist Ideology in Russia](http://materialnecessity.org/2019/09/04/the-marxist-ideology-in-russia-karl-korsch/) by Karl Korsch
+* [](http://materialnecessity.org/2019/09/05/maos-china-certified-copy-of-the-bourgeois-capitalist-society-1957/) by Amadeo Bordiga
+* [Nationalism and Socialism](http://materialnecessity.org/2019/09/17/nationalism-and-socialism-paul-mattick/) by Paul Mattick
+* [The Democratic Principle](http://materialnecessity.org/2019/08/01/the-democratic-principle-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/08/01/in-janitzio-death-is-not-scary-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/08/08/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-damen/) by Onorato Damen
+* [](http://materialnecessity.org/2019/08/12/on-the-dialectical-method-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/08/12/crisis-of-bordigism-maybe-but-not-a-crisis-of-the-italian-left-damen/) by Onorato Damen
+* [We Defend the Italian Left](http://materialnecessity.org/2019/08/12/we-defend-the-italian-left-damen/) by Onorato Damen
+* [The Construction of Socialism](http://materialnecessity.org/2019/08/13/the-construction-of-socialism-nikolai-ossinsky/) by Nikolai Ossinsky
+* [The Lyons Theses](http://materialnecessity.org/2019/07/28/lyons-theses-amadeo-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/07/28/doctrine-of-the-body-possessed-by-the-devil-amadeo-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/08/01/the-system-of-communist-representation-bordiga/) by Amadeo Bordiga
+* [](http://materialnecessity.org/2019/07/31/state-capitalism-and-dictatorship-anton-pannekoek/) by Anton Pannekoek
+* [](http://materialnecessity.org/2019/07/27/the-communist-left-and-the-continuity-of-marxism-icc/) by the International Communist Current
 
 ## Other Lists
 
