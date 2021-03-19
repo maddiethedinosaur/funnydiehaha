@@ -11,6 +11,7 @@
 * [ICC](#icc)
 * [ICT](#ict)
 * [Ikea](#ikea)
+* [Little Black Cart](#little-black-cart)
 * [N&L](#n-l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
@@ -39,6 +40,7 @@
 * [Society of the Spectacle](https://www.amazon.ca/Society-Spectacle-2-Radical-Reprint/dp/5841295055/) by Guy Debord
 * [Comments on the Society of the Spectacle](https://www.amazon.ca/gp/product/1844676722/) by Guy Debord
 * [Capital and Community](https://www.amazon.ca/Capital-Community-immediate-production-economic/dp/4550932848/) by Jacques Camatte
+* [On Ideology](https://www.amazon.ca/Ideology-Louis-Althusser-dp-1788738551/dp/1788738551/) by Louis Althusser
 
 ### Civilization
 
@@ -213,6 +215,12 @@
 ## Ikea
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
+
+## Little Black Cart
+
+### Communism
+
+* [Nihilist Communism](https://littleblackcart.com/index.php?dispatch=products.view&product_id=502) by Monsieur Dupont
 
 ## N&L
 
