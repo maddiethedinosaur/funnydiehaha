@@ -413,6 +413,7 @@
 * [State Capitalism and Dictatorship](http://materialnecessity.org/2019/07/31/state-capitalism-and-dictatorship-anton-pannekoek/) by Anton Pannekoek
 * [The Communist-Left and the Continuity of Marxism](http://materialnecessity.org/2019/07/27/the-communist-left-and-the-continuity-of-marxism-icc/) by the International Communist Current
 * [Some Basic Programmatic Theses](https://www.leftcom.org/en/articles/2013-05-21/some-basic-programmatic-theses) by the Internationalist Communist Tendency
+* [1918 Constitution of the R.S.F.S.R.](https://www.marxists.org/history/ussr/government/constitution/1918/index.htm) by the Russian Soviet Federated Socialist Republic
 
 ## Other Lists
 
