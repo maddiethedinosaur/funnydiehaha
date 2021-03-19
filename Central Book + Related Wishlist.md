@@ -121,6 +121,7 @@
 * [Lessons of the Counterrevolutions](https://www.amazon.ca/dp/826409967X/) by Amadeo Bordiga
 * [Marxist Theory and Revolutionary Tactics](https://www.amazon.ca/dp/2348252066/) by Anton Pannekoek
 * [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton
+* [Proletarian Dictatorship and Terrorism](https://www.amazon.ca/Proletarian-Dictatorship-Terrorism-Classic-Reprint/dp/B008ILIY6U/) by Karl Radek
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
 * [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
 * [The Junius Pamphlet](https://www.amazon.ca/crisis-German-social-democracy-Junius-pamphlet/dp/B00ZDCC8FU/) by Rosa Luxemburg
@@ -352,8 +353,9 @@
 ### Reform and Revolution
 
 * [In This World But Not of This World](https://subversionpress.files.wordpress.com/2015/03/in-this-world-bklt.pdf) by Gilles Dauvé
+* [The Proletarian Revolution and the Renegade Kautsky](https://drive.google.com/file/d/1GHP2orJgFUSNwdGCe4fr15PmQw0EG7Ck/view?usp=sharing) by Vladimir Lenin
 * [The Sanders Campaign](https://subversionpress.files.wordpress.com/2016/10/sanders-bklt.pdf) by ????
-* [The Subversion of Everyday Life](https://subversionpress.files.wordpress.com/2016/11/subversion-of-daily-bklt.pdf) by ???? Kolinko
+* [The Subversion of Everyday Life](https://subversionpress.files.wordpress.com/2016/11/subversion-of-daily-bklt.pdf) by Kolinko
 * [We Are Not “Anti”](https://subversionpress.files.wordpress.com/2016/08/anti-bklt.pdf) by Bernard Lyon
 * [Nic Nihil, Hic Salta – A Critique of Bartlebyism](https://subversionpress.files.wordpress.com/2015/09/nihil-hic-salta-bklt.pdf) by Research & Destroy
 
