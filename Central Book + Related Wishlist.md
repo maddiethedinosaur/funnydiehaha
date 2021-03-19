@@ -172,10 +172,18 @@
 
 * [Communism: Not a 'Nice Idea' but a Material Necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Communist Organisation and Class consciousness](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ### Decadence
 
 * [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current
+
+### History
+
+* [The British Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [The Dutch and German Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [The Italian Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [The Russian Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ### Unions
 
@@ -212,6 +220,22 @@
 
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
+### Revolutionary Perspectives
+
+* [Revolutionary Perspectives Series #3 Issue #2](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #4](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #49](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #50](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #51](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #52](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #1](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #5](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #11](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #14](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #15](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #16](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #17](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+
 ## Ikea
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
@@ -221,6 +245,10 @@
 ### Communism
 
 * [Nihilist Communism](https://littleblackcart.com/index.php?dispatch=products.view&product_id=502) by Monsieur Dupont
+
+### Revolution
+
+* [Armed Joy](https://littleblackcart.com/index.php?dispatch=products.view&product_id=500) by Alfredo M. Bonanno
 
 ## N&L
 
@@ -382,6 +410,7 @@
 * [The System of Communist Representation](http://materialnecessity.org/2019/08/01/the-system-of-communist-representation-bordiga/) by Amadeo Bordiga
 * [State Capitalism and Dictatorship](http://materialnecessity.org/2019/07/31/state-capitalism-and-dictatorship-anton-pannekoek/) by Anton Pannekoek
 * [The Communist-Left and the Continuity of Marxism](http://materialnecessity.org/2019/07/27/the-communist-left-and-the-continuity-of-marxism-icc/) by the International Communist Current
+* [Some Basic Programmatic Theses](https://www.leftcom.org/en/articles/2013-05-21/some-basic-programmatic-theses) by the Internationalist Communist Tendency
 
 ## Other Lists
 
