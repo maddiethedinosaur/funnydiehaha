@@ -75,6 +75,7 @@
 * [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
 * [Results of the Direct Production Process](https://www.amazon.ca/dp/711411155X/) by Karl Marx
 * [Value, Price and Profit](https://www.amazon.ca/Value-Price-Profit-Classic-Reprint/dp/B008NU3ODY/) by Karl Marx
+* [The Economic Theory of the Leisure Class](https://www.amazon.ca/Economic-Theory-Leisure-Class/dp/085345261X) by Nikolai Bukharin
 * [Wage Labour and Capital](https://www.amazon.ca/Wage-Labor-Capital-Karl-Marx/dp/1978461232/) by Karl Marx
 
 ### Critique of Philosophy
@@ -114,6 +115,11 @@
 * [Imperialism, the Highest Stage of Capitalism](https://www.amazon.ca/dp/1603866639/) by Vladimir Lenin
 * [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1516843460/) by Nikolai Bukharin
 * [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
+
+### National Liberation
+
+* [Factors of Race and Nation in Marxist Theory](https://www.amazon.ca/Factors-Race-Nation-Marxist-Theory/dp/1090488246/) by the International Communist Party
+* 
 
 ### Revolution
 
