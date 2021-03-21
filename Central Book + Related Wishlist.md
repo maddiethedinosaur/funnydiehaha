@@ -87,6 +87,10 @@
 * [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
 * [History and Class Consciousness](https://www.amazon.com/dp/2229555618/) by Georg Lukács
 
+### Feminism
+
+* [Women and Class: Toward a Socialist Feminism](https://www.amazon.ca/Women-Class-Toward-Socialist-Feminism/dp/1460998324) by Hal Draper
+
 ### Fiction
 
 * [Dune](https://www.amazon.ca/dp/0441172717/) by Frank Herbert
@@ -313,7 +317,6 @@
 * [A Communist Confession of Faith](https://drive.google.com/file/d/1Smo53cCgfqhljqKBWkzrjDs_mOwSYxvp/view?usp=sharing) by Friedrich Engels
 * [Communism As a Movement](https://drive.google.com/file/d/16MZfghaxBxDAuRvj1Z2inSlVgY3WcDfX/view?usp=sharing) by D.Z. Rowan
 * [Primitive Communism, Barbarism, and the Origin of Bourgeois Society](https://drive.google.com/file/d/1Bt6wekAm2dNimjDDJNBhP35F0ig6IcMq/view?usp=sharing) by Lionel Sims
-* [Principles of Communism](https://drive.google.com/file/d/10sM-hUGJRKwxOV-BRH2zX8YnkCdnuqdk/view?usp=sharing) by the Pacific Northwest Communists
 * [Statement of Principles](https://pnwcommunists.org/wp-content/uploads/2021/03/Statement-of-Principles-Zine.pdf) by the Pacific Northwest Communists
 * [The Communist Tendency in History](https://subversionpress.files.wordpress.com/2015/04/com-tend-hist-bklt1.pdf) by ????
 
@@ -349,7 +352,6 @@
 * [What is Nationalism?](https://drive.google.com/file/d/14n1TUKFnseEih_gEk3xKMsWYPgZ36BGr/view?usp=drivesdk) by sub.media
 * [What is Race?](https://drive.google.com/file/d/14OcfNoc8-NI9xZSf9kMadiQJ14aFyM93/view?usp=drivesdk) by sub.media
 * [What is Violence?](https://drive.google.com/file/d/1tZZHhlsfMD8aMFuOgNgM3cRk77IvzeMP/view?usp=drivesdk) by sub.media
-* [What is Prefigurative Politics?](https://drive.google.com/file/d/1f-37q39cxUKsmoljsfsaGNWgute8R-sL/view?usp=drivesdk) by sub.media
 
 ### Politics
 
