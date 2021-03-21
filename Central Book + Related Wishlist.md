@@ -12,6 +12,7 @@
 * [ICT](#ict)
 * [Ikea](#ikea)
 * [Little Black Cart](#little-black-cart)
+* [Lulu](#lulu)
 * [N&L](#n-l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
@@ -267,6 +268,12 @@
 
 * [Armed Joy](https://littleblackcart.com/index.php?dispatch=products.view&product_id=500) by Alfredo M. Bonanno
 
+## Lulu
+
+### Marxism
+
+* [Marxism in a Nutshell](https://www.lulu.com/shop/robin-goodfellow/marxism-in-a-nutshell/paperback/product-22716400.html?page=1&pageSize=4) by Robin Goodfellow
+
 ## N&L
 
 ### Feminism
@@ -291,6 +298,7 @@
 ### Communism
 
 * [Modern Politics](https://pmpress.org/index.php?l=product_detail&p=546) by C.L.R. James
+* [Class Power on Zero Hours](https://www.pmpress.org/index.php?l=product_detail&p=1164) by Angry Workers of the World
 
 ### Communization
 
