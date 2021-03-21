@@ -85,6 +85,7 @@
 * [The German Ideology + Theses on Feuerbach](https://www.amazon.ca/German-Ideology-Including-Thesis-Feuerbach/dp/1573922587/) by Karl Marx
 * [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx and Friedrich Engels
 * [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
+* [History and Class Consciousness](https://www.amazon.com/dp/2229555618/) by Georg Lukács
 
 ### Fiction
 
@@ -249,8 +250,13 @@
 
 ## Little Black Cart
 
+### Communization
+
+* [Sic 2](https://littleblackcart.com/index.php?dispatch=products.view&product_id=425)
+
 ### Communism
 
+* [Against Sleep and Nightmare #8](https://littleblackcart.com/index.php?dispatch=products.view&product_id=426) by Against Sleep and Nightmare
 * [Nihilist Communism](https://littleblackcart.com/index.php?dispatch=products.view&product_id=502) by Monsieur Dupont
 
 ### Revolution
@@ -316,6 +322,7 @@
 * [A to Z of Communisation](https://subversionpress.files.wordpress.com/2016/08/a-z-bklt.pdf) by Gilles Dauvé
 * [Communisation](https://subversionpress.files.wordpress.com/2015/03/communisation-bklt.pdf) by Gilles Dauvé
 * [Communization and the Abolition of Gender](https://drive.google.com/file/d/1wb66WaNiNE0SImcFf1YbA_RdW_8wyhh4/view?usp=sharing) by Maya Andrea Gonzalez
+* [Communization of the Whole World in Five Years or Less: A Practical Guide](https://drive.google.com/file/d/17QynDFguUMQt6kh6qG1q8yWgyEZk9qbT/view?usp=sharing) by Jehu
 * [Crisis Activity and Communisation](https://subversionpress.files.wordpress.com/2015/04/crisis-bklt1.pdf) by Bruno Astarian
 * [Our Problems With Leftism](https://drive.google.com/file/d/1TTDNSouqqFrJGOZ3VMf5a3Wh8GjUd2Re/view?usp=drivesdk) by D.Z. Rowan
 * [Value and its Abolition](https://subversionpress.files.wordpress.com/2016/07/value-and-its-abolition-bklt.pdf) by Bruno Astarian
