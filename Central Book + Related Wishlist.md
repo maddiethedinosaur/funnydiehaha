@@ -124,7 +124,7 @@
 ### National Liberation
 
 * [Factors of Race and Nation in Marxist Theory](https://www.amazon.ca/Factors-Race-Nation-Marxist-Theory/dp/1090488246/) by the International Communist Party
-* 
+* [The Right of Nations to Self-Determination](https://www.amazon.ca/Right-Nations-Self-Determination-Vladimir-Ilich/dp/1410217051/) by Vladimir Lenin
 
 ### Revolution
 
@@ -142,6 +142,7 @@
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
 * [Mutual Aid](https://www.amazon.ca/dp/1549909851/) by Peter Kropotkin
 * [The Interpretation of Dreams](https://www.amazon.ca/Interpretation-Dreams-Sigmund-Freud/dp/1522055762/) by Sigmund Freud
+* [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
 
 ### Stalinism
 
@@ -160,7 +161,6 @@
 ### Various
 
 * [Reform or Revolution + The National Question](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg
-* [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels
 * [The Paris Manuscripts](https://www.amazon.ca/Economic-Philosophic-Manuscripts-1844-Karl/dp/0486455610/) by Karl Marx
 
 ### Work
