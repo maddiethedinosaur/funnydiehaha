@@ -250,6 +250,13 @@
 * [Revolutionary Perspectives Series #4 Issue #16](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #17](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
+## ICP
+
+* ["Left-wing Communism, An Infantile Disorder", Condemnation of the Renegades to Come](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+* [What Distinguishes our Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+* [Theses on the Nature and Role of the Revolutionary Communist Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+* [Revolution and Counter-revolution in Russia](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+
 ## Ikea
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
