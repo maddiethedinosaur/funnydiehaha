@@ -10,7 +10,7 @@
 * [Endnotes](#endnotes)
 * [ICC](#icc)
 * [ICT](#ict)
-* [ICP](#icp)
+* [ICP (Il Partito)](#icp-il-partito)
 * [Ikea](#ikea)
 * [Little Black Cart](#little-black-cart)
 * [Lulu](#lulu)
@@ -29,11 +29,18 @@
 
 ### Communism
 
+* [Chuang #1](https://www.akpress.org/chuang.html)
+* [Chuang #2](https://www.akpress.org/catalog/product/view/id/3766/s/chuang/)
 * [Communism and Christianism](https://www.akpress.org/communismandchristianism.html) by William Montgomery Brown
 
 ### Democracy
 
 * [Every Cook Can Govern](https://www.akpress.org/everycookcangovern.html) by C.L.R. James
+
+### Situationists
+
+* [Public Secrets](https://www.akpress.org/publicsecrets.html) by Ken Knabb
+* [Situationist International Anthology](https://www.akpress.org/situationistinternationalanthology.html) by Ken Knabb
 
 ## Amazon
 
@@ -80,15 +87,6 @@
 * [The Economic Theory of the Leisure Class](https://www.amazon.ca/Economic-Theory-Leisure-Class/dp/085345261X) by Nikolai Bukharin
 * [Wage Labour and Capital](https://www.amazon.ca/Wage-Labor-Capital-Karl-Marx/dp/1978461232/) by Karl Marx
 
-### Critique of Philosophy
-
-* [Anti-Dühring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
-* [Socialism: Utopian and Scientific](https://www.amazon.ca/Socialism-Utopian-Scientific-Frederick-Engels/dp/1514132230/) by Friedrich Engels
-* [The German Ideology + Theses on Feuerbach](https://www.amazon.ca/German-Ideology-Including-Thesis-Feuerbach/dp/1573922587/) by Karl Marx
-* [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx and Friedrich Engels
-* [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
-* [History and Class Consciousness](https://www.amazon.com/dp/2229555618/) by Georg Lukács
-
 ### Feminism
 
 * [Women and Class: Toward a Socialist Feminism](https://www.amazon.ca/Women-Class-Toward-Socialist-Feminism/dp/1460998324) by Hal Draper
@@ -128,6 +126,20 @@
 * [Factors of Race and Nation in Marxist Theory](https://www.amazon.ca/Factors-Race-Nation-Marxist-Theory/dp/1090488246/) by the International Communist Party
 * [The Right of Nations to Self-Determination](https://www.amazon.ca/Right-Nations-Self-Determination-Vladimir-Ilich/dp/1410217051/) by Vladimir Lenin
 
+### Philosophy
+
+* [Anti-Dühring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
+* [Elements of the Philosophy of Right](https://www.amazon.ca/Hegel-Philosophy-Georg-Wilhelm-Fredrich/dp/0521348889/) by Georg Wilhelm Friedrich Hegel
+* [Ludwig Feuerbach and the End of Classical German Philosophy](https://www.amazon.ca/Ludwig-Feuerbach-Classical-German-Philosophy/dp/9811463743/) by Friedrich Engels
+* [Phenomenology of Spirit](https://www.amazon.ca/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/) by Georg Wilhelm Friedrich Hegel
+* [Science of Logic](https://www.amazon.ca/Science-Logic-Georg-Hegel/dp/1542519918/) by Georg Wilhelm Friedrich Hegel
+* [Socialism: Utopian and Scientific](https://www.amazon.ca/Socialism-Utopian-Scientific-Frederick-Engels/dp/1514132230/) by Friedrich Engels
+* [The German Ideology + Theses on Feuerbach](https://www.amazon.ca/German-Ideology-Including-Thesis-Feuerbach/dp/1573922587/) by Karl Marx
+* [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx and Friedrich Engels
+* [The Philosophy of History](https://www.amazon.ca/Philosophy-History-G-W-F-Hegel/dp/0879756314/) by Georg Wilhelm Friedrich Hegel
+* [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
+* [History and Class Consciousness](https://www.amazon.com/dp/2229555618/) by Georg Lukács
+
 ### Revolution
 
 * [A Revolution Summed Up: The Great Lessons of October 1917](https://www.amazon.ca/dp/B08DSTHLLF/) by the International Communist Party
@@ -136,6 +148,7 @@
 * [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton
 * [Proletarian Dictatorship and Terrorism](https://www.amazon.ca/Proletarian-Dictatorship-Terrorism-Classic-Reprint/dp/B008ILIY6U/) by Karl Radek
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
+* [The Coming Insurrection](https://www.amazon.ca/Coming-Insurrection-Invisible-Committee/dp/1584350806/) by the Invisible Committee
 * [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
 * [The Junius Pamphlet](https://www.amazon.ca/crisis-German-social-democracy-Junius-pamphlet/dp/B00ZDCC8FU/) by Rosa Luxemburg
 
@@ -163,6 +176,7 @@
 ### Various
 
 * [Reform or Revolution + The National Question](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg
+* [Selections from the Prison Notebooks of Antonio Gramsci](https://www.amazon.ca/dp/071780397X/) by Antonio Gramsci
 * [The Paris Manuscripts](https://www.amazon.ca/Economic-Philosophic-Manuscripts-1844-Karl/dp/0486455610/) by Karl Marx
 
 ### Work
@@ -243,14 +257,24 @@
 * [Revolutionary Perspectives Series #3 Issue #51](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #3 Issue #52](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #1](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #2](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #3](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #4](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #5](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #6](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #7](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #8](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #9](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #10](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #11](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #12](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #4 Issue #13](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #14](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #15](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #16](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #17](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
-## ICP
+## ICP (Il Partito)
 
 * ["Left-wing Communism, An Infantile Disorder", Condemnation of the Renegades to Come](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
 * [What Distinguishes our Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
