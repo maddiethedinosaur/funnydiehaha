@@ -10,9 +10,11 @@
 * [Endnotes](#endnotes)
 * [ICC](#icc)
 * [ICT](#ict)
+* [ICP](#icp)
 * [Ikea](#ikea)
 * [Little Black Cart](#little-black-cart)
 * [Lulu](#lulu)
+* [MHI](#mhi)
 * [N&L](#n-l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
@@ -46,7 +48,6 @@
 ### Civilization
 
 * [The Human Species and the Earth's Crust](https://www.amazon.ca/Human-Species-Earths-Crust-13/dp/5684164749/) by Amadeo Bordiga
-* [Industrial Society and Its Future](https://www.amazon.ca/Industrial-Society-Its-Future-Unabomber/dp/B086Y5JY5K/) by Theodore John Kaczynski
 
 ### Class
 
@@ -273,6 +274,10 @@
 ### Marxism
 
 * [Marxism in a Nutshell](https://www.lulu.com/shop/robin-goodfellow/marxism-in-a-nutshell/paperback/product-22716400.html?page=1&pageSize=4) by Robin Goodfellow
+
+## MHI
+
+* [Principles & By-Laws of Marxist-Humanist Initiative](https://www.marxisthumanistinitiative.org/product/principles-plus-april-2009-statement-why-a-new-organization) by Marxist-Humanist Initiative
 
 ## N&L
 
