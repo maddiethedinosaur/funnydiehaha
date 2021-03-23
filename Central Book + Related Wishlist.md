@@ -134,6 +134,7 @@
 
 * [Anti-Dühring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
 * [Elements of the Philosophy of Right](https://www.amazon.ca/Hegel-Philosophy-Georg-Wilhelm-Fredrich/dp/0521348889/) by Georg Wilhelm Friedrich Hegel
+* [Fundamental Problems of Marxism](https://www.amazon.ca/Fundamental-Problems-Marxism-G-Plekhanov/dp/0717800733/) by Georgi Plekhanov
 * [Ludwig Feuerbach and the End of Classical German Philosophy](https://www.amazon.ca/Ludwig-Feuerbach-Classical-German-Philosophy/dp/9811463743/) by Friedrich Engels
 * [Phenomenology of Spirit](https://www.amazon.ca/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/) by Georg Wilhelm Friedrich Hegel
 * [Science of Logic](https://www.amazon.ca/Science-Logic-Georg-Hegel/dp/1542519918/) by Georg Wilhelm Friedrich Hegel
