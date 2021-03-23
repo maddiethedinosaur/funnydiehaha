@@ -295,6 +295,7 @@
 ## Ikea
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
+* [BLÅHAJ](https://www.ikea.com/ca/en/p/blahaj-soft-toy-shark-90373590/)
 
 ## Little Black Cart
 
