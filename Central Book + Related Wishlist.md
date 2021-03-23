@@ -168,6 +168,7 @@
 ### State
 
 * [State and Revolution](https://www.amazon.ca/dp/1795754613/) by Vladimir Lenin
+* [Workers' Councils](https://www.amazon.ca/Workers-Councils-Anton-Pannekoek/dp/1902593561/) by Anton Pannekoek
 
 ### Tactics
 
