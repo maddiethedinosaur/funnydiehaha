@@ -1,6 +1,6 @@
 # Central Book + Related Wishlist
 
-![books](books.png)
+![kapd logo, so just a red circle](800px-Disc_Plain_red.svg.png)
 
 ## Table of Contents
 
