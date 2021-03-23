@@ -89,7 +89,10 @@
 
 ### Feminism
 
+* [The Gender Accelerationist Manifesto](https://www.amazon.ca/Gender-Accelerationist-Manifesto-Vikky-Storm/dp/1095167626) by Vikky Storm
 * [Women and Class: Toward a Socialist Feminism](https://www.amazon.ca/Women-Class-Toward-Socialist-Feminism/dp/1460998324) by Hal Draper
+* [Xenofeminism](https://www.amazon.ca/Xenofeminism-Helen-Hester/dp/1509520635/) by Helen Hester
+* [The Xenofeminist Manifesto](https://www.amazon.ca/Xenofeminist-Manifesto-Politics-Alienation/dp/1788731573/) by Laboria Cuboniks
 
 ### Fiction
 
