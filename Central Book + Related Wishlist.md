@@ -344,6 +344,10 @@
 
 * [Eclipse and Re-emergence of the Communist Movement](https://pmpress.org/index.php?l=product_detail&p=673) by Gilles Dauvé
 
+### History
+
+* [All Power to the Councils!: A Documentary History of the German Revolution of 1918-1919](https://pmpress.org/index.php?l=product_detail&p=381) by Gabriel Kuhn
+
 ### Work
 
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
