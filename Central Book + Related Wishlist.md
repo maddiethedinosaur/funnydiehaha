@@ -8,6 +8,7 @@
 * [Amazon](#amazon)
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
+* [Fightback](#fightback)
 * [ICC](#icc)
 * [ICT](#ict)
 * [ICP (Il Partito)](#icp-il-partito)
@@ -141,7 +142,7 @@
 * [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx and Friedrich Engels
 * [The Philosophy of History](https://www.amazon.ca/Philosophy-History-G-W-F-Hegel/dp/0879756314/) by Georg Wilhelm Friedrich Hegel
 * [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
-* [History and Class Consciousness](https://www.amazon.com/dp/2229555618/) by Georg Lukács
+* [History and Class Consciousness](https://www.amazon.ca/dp/2229555618/) by Georg Lukács
 
 ### Revolution
 
@@ -197,6 +198,11 @@
 * [Endnotes 1](https://endnotes.org.uk/issues)
 * [Endnotes 3](https://endnotes.org.uk/issues)
 * [Endnotes 5](https://endnotes.org.uk/issues)
+
+## Fightback
+
+* [Materialism & Empirio-Criticism](https://www.marxist.ca/store/books) by Vladimir Lenin
+* [The Housing Question](https://www.marxist.ca/store/books) by Friedrich Engels
 
 ## ICC
 
