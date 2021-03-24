@@ -133,7 +133,7 @@
 
 * [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
 
-## Myths
+### Myths
 
 * [Infernal Dictionary](https://www.amazon.ca/Infernal-Dictionary-Devils-Spirits-Dictionnaire/dp/1076523110/) by Colin de Plancy
 
