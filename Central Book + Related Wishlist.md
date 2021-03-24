@@ -236,9 +236,27 @@
 
 ## Haymarket Books
 
+### Critique of Political Economy
+
+* [Economic Manuscripts of 1864-1865](https://www.haymarketbooks.org/books/1021-marx-s-economic-manuscript-of-1864-1865) by Karl Marx
+* [Theory as Critique](https://www.haymarketbooks.org/books/1313-theory-as-critique) by Paul Mattick
+
+### Feminism
+
+* [Marxism and the Oppression of Women](https://www.haymarketbooks.org/books/569-marxism-and-the-oppression-of-women) by Lise Vogel
+* [Marx, Women, and Capitalist Social Reproduction](https://www.haymarketbooks.org/books/1355-marx-women-and-capitalist-social-reproduction) by Martha E. Giménez
+
 ### Imperialism
 
 * [Imperialism and War](https://www.haymarketbooks.org/books/865-imperialism-and-war) by Vladimir Lenin and Nikolai Bukharin
+
+### Philosophy
+
+* [Karl Marx](https://www.haymarketbooks.org/books/772-karl-marx) by Karl Korsch
+
+### Various
+
+* [Clara Zetkin](https://www.haymarketbooks.org/books/616-clara-zetkin) by Clara Zetkin
 
 ## ICC
 
@@ -342,6 +360,8 @@
 
 ## Indigo
 
+### Humanism
+
 * [Existentialism Is a Humanism](https://www.chapters.indigo.ca/en-ca/books/existentialism-is-a-humanism/9780300115468-item.html) by Jean-Paul Sartre
 
 ## Little Black Cart
@@ -410,9 +430,9 @@
 
 ## Thriftbooks
 
-### Feminism
+### Left-Communism
 
-* [Marxism and the Oppression of Women](https://www.thriftbooks.com/w/marxism-and-the-oppression-of-women-toward-a-unitary-theory_lise-vogel/924013/#edition=33265186&idiq=38348683) by Lise Vogel
+* [Webster's Introduction to Left Communism: Concepts, People, and Organizations](https://www.thriftbooks.com/w/websters-introduction-to-left-communism--concepts-people-and-organizations/10625547/#edition=10077011&idiq=15007293) by Mack Javens
 
 ## Zines
 
