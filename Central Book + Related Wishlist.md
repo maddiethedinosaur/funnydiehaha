@@ -131,8 +131,6 @@
 
 ### Imperialism
 
-* [Imperialism, the Highest Stage of Capitalism](https://www.amazon.ca/dp/1603866639/) by Vladimir Lenin
-* [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1516843460/) by Nikolai Bukharin
 * [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
 
 ## Myths
@@ -240,7 +238,7 @@
 
 ### Imperialism
 
-* [](https://www.haymarketbooks.org/books/865-imperialism-and-war) by Vladimir Lenin and N
+* [Imperialism and War](https://www.haymarketbooks.org/books/865-imperialism-and-war) by Vladimir Lenin and Nikolai Bukharin
 
 ## ICC
 
