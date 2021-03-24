@@ -6,7 +6,7 @@
 
 * [AK Press](#ak-press)
 * [Amazon](#amazon)
-* [Barnes & Nobles](#barnes-and-nobles)
+* [Barnes and Nobles](#barnes-and-nobles)
 * [Brill](#brill)
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
