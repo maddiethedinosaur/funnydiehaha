@@ -6,7 +6,7 @@
 
 * [AK Press](#ak-press)
 * [Amazon](#amazon)
-* [Barnes & Nobles](#barnes-&-nobles)
+* [Barnes & Nobles](#barnes---nobles)
 * [Brill](#brill)
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
@@ -18,7 +18,7 @@
 * [Little Black Cart](#little-black-cart)
 * [Lulu](#lulu)
 * [MHI](#mhi)
-* [N&L](#n-&-l)
+* [N&L](#n---l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
 * [Thriftbooks](#thriftbooks)
