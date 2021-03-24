@@ -6,7 +6,7 @@
 
 * [AK Press](#ak-press)
 * [Amazon](#amazon)
-* [Barnes & Nobles](#barnes---nobles)
+* [Barnes & Nobles](#barnes-and-nobles)
 * [Brill](#brill)
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
@@ -18,7 +18,7 @@
 * [Little Black Cart](#little-black-cart)
 * [Lulu](#lulu)
 * [MHI](#mhi)
-* [N&L](#n---l)
+* [News and Letters](#news-and-letters)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
 * [Thriftbooks](#thriftbooks)
@@ -200,7 +200,7 @@
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue
 * [The Right to be Greedy](https://www.amazon.ca/dp/5079602023/) by For Ourselves!
 
-## Barnes & Nobles
+## Barnes and Nobles
 
 ### Humanism
 
@@ -343,7 +343,7 @@
 
 * [Principles & By-Laws of Marxist-Humanist Initiative](https://www.marxisthumanistinitiative.org/product/principles-plus-april-2009-statement-why-a-new-organization) by Marxist-Humanist Initiative
 
-## N&L
+## News and Letters
 
 ### Feminism
 
