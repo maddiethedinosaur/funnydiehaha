@@ -15,6 +15,7 @@
 * [ICT](#ict)
 * [ICP (Il Partito)](#icp-il-partito)
 * [Ikea](#ikea)
+* [Indigo](#indigo)
 * [Little Black Cart](#little-black-cart)
 * [Lulu](#lulu)
 * [MHI](#mhi)
@@ -329,6 +330,10 @@
 
 * [GERSBY](https://www.ikea.com/ca/en/p/gersby-bookcase-white-70261131/)
 * [BLÅHAJ](https://www.ikea.com/ca/en/p/blahaj-soft-toy-shark-90373590/)
+
+## Indigo
+
+* [Existentialism Is a Humanism](https://www.chapters.indigo.ca/en-ca/books/existentialism-is-a-humanism/9780300115468-item.html) by Jean-Paul Sartre
 
 ## Little Black Cart
 
