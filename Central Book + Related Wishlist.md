@@ -6,6 +6,8 @@
 
 * [AK Press](#ak-press)
 * [Amazon](#amazon)
+* [Barnes & Nobles](#barnes-nobles)
+* [Brill](#brill)
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
 * [Fightback](#fightback)
@@ -19,6 +21,7 @@
 * [N&L](#n-l)
 * [PM Press](#pm-press)
 * [Printable Zines](#printable-zines)
+* [Thriftbooks](#thriftbooks)
 * [Future Zines](#future-zines)
 * [Other Lists](#other-lists)
 
@@ -37,6 +40,10 @@
 ### Democracy
 
 * [Every Cook Can Govern](https://www.akpress.org/everycookcangovern.html) by C.L.R. James
+
+### Feminism
+
+* [Caliban and the Witch](https://www.akpress.org/catalog/product/view/id/789/s/calibanandthewitch/) by Silvia Federici
 
 ### Situationists
 
@@ -81,6 +88,7 @@
 * [Capital Volume 1](https://www.amazon.ca/Capital-1-Critique-Political-Economy/dp/0140445684/) by Karl Marx
 * [Capital Volume 2](https://www.amazon.ca/Capital-2-Critique-Political-Economy/dp/0140445692/) by Karl Marx
 * [Capital Volume 3](https://www.amazon.ca/dp/0140445706/) by Karl Marx
+* [Essays on Marx's Theory of Value](https://www.amazon.ca/Essays-Marxs-Theory-Value-Ilyich/dp/3034004729/) by Isaak Ilyich Rubin
 * [Grundrisse](https://www.amazon.ca/dp/0140445757/) by Karl Marx
 * [Marx and Keynes: The Limits of the Mixed Economy](https://www.amazon.ca/dp/4487549485/) by Paul Mattick
 * [Results of the Direct Production Process](https://www.amazon.ca/dp/711411155X/) by Karl Marx
@@ -135,6 +143,8 @@
 * [Anti-Dühring](https://www.amazon.ca/dp/1661533663/) by Friedrich Engels
 * [Elements of the Philosophy of Right](https://www.amazon.ca/Hegel-Philosophy-Georg-Wilhelm-Fredrich/dp/0521348889/) by Georg Wilhelm Friedrich Hegel
 * [Fundamental Problems of Marxism](https://www.amazon.ca/Fundamental-Problems-Marxism-G-Plekhanov/dp/0717800733/) by Georgi Plekhanov
+* [History and Class Consciousness](https://www.amazon.ca/dp/2229555618/) by Georg Lukács
+* [Karl Marx and the Future of the Human](https://www.amazon.ca/Karl-Future-Human-Cyril-Smith/dp/0739110276) by Cyril Smith
 * [Ludwig Feuerbach and the End of Classical German Philosophy](https://www.amazon.ca/Ludwig-Feuerbach-Classical-German-Philosophy/dp/9811463743/) by Friedrich Engels
 * [Phenomenology of Spirit](https://www.amazon.ca/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/) by Georg Wilhelm Friedrich Hegel
 * [Science of Logic](https://www.amazon.ca/Science-Logic-Georg-Hegel/dp/1542519918/) by Georg Wilhelm Friedrich Hegel
@@ -143,7 +153,7 @@
 * [The Holy Family](https://www.amazon.ca/dp/272255934X/) by Karl Marx and Friedrich Engels
 * [The Philosophy of History](https://www.amazon.ca/Philosophy-History-G-W-F-Hegel/dp/0879756314/) by Georg Wilhelm Friedrich Hegel
 * [The Poverty of Philosophy](https://www.amazon.ca/Poverty-Philosophy-Classic-Reprint/dp/1451015178/) by Karl Marx
-* [History and Class Consciousness](https://www.amazon.ca/dp/2229555618/) by Georg Lukács
+* [The Rise of Conspiracy Theories](https://www.amazon.ca/Rise-Conspiracy-Theories-Radical-Reprint/dp/8548655860) by Aufheben Collective
 
 ### Revolution
 
@@ -189,6 +199,17 @@
 
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue
 * [The Right to be Greedy](https://www.amazon.ca/dp/5079602023/) by For Ourselves!
+
+## Barnes & Nobles
+
+### Humanism
+
+* [Humanist Manifesto 2000](https://www.barnesandnoble.com/w/humanist-manifesto-2000-paul-kurtz/1019242906?ean=9781615921997) by Paul Kurtz
+
+## Brill
+
+* [Marx on Gender and the Family](https://brill.com/view/title/20337) by Heather A. Brown
+* [The Science and Passion of Communism](https://brill.com/view/title/22024) by Amadeo Bordiga
 
 ## Ebay
 
@@ -442,6 +463,10 @@
 ### Unions
 
 * [Trade Unions: Pillars of Capitalism](https://subversionpress.files.wordpress.com/2016/10/trade-unions-bklt.pdf) by Internationalist Perspective
+
+## Thriftbooks
+
+* [Marxism and the Oppression of Women](https://www.thriftbooks.com/w/marxism-and-the-oppression-of-women-toward-a-unitary-theory_lise-vogel/924013/#edition=33265186&idiq=38348683) by Lise Vogel
 
 ## Future Zines
 
