@@ -11,6 +11,7 @@
 * [Ebay](#ebay)
 * [Endnotes](#endnotes)
 * [Fightback](#fightback)
+* [Haymarket Books](#haymarket-books)
 * [ICC](#icc)
 * [ICT](#ict)
 * [ICP (Il Partito)](#icp-il-partito)
@@ -134,6 +135,10 @@
 * [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1516843460/) by Nikolai Bukharin
 * [The Accumulation of Capital](https://www.amazon.ca/Accumulation-Capital-Rosa-Luxemburg/dp/1614277885/) by Rosa Luxemburg
 
+## Myths
+
+* [Infernal Dictionary](https://www.amazon.ca/Infernal-Dictionary-Devils-Spirits-Dictionnaire/dp/1076523110/) by Colin de Plancy
+
 ### National Liberation
 
 * [Factors of Race and Nation in Marxist Theory](https://www.amazon.ca/Factors-Race-Nation-Marxist-Theory/dp/1090488246/) by the International Communist Party
@@ -230,6 +235,12 @@
 
 * [Materialism & Empirio-Criticism](https://www.marxist.ca/store/books) by Vladimir Lenin
 * [The Housing Question](https://www.marxist.ca/store/books) by Friedrich Engels
+
+## Haymarket Books
+
+### Imperialism
+
+* [](https://www.haymarketbooks.org/books/865-imperialism-and-war) by Vladimir Lenin and N
 
 ## ICC
 
