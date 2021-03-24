@@ -432,7 +432,8 @@
 
 ### Left-Communism
 
-* [Webster's Introduction to Left Communism: Concepts, People, and Organizations](https://www.thriftbooks.com/w/websters-introduction-to-left-communism--concepts-people-and-organizations/10625547/#edition=10077011&idiq=15007293) by Mack Javens
+* [A Reference Guide to Left Communism Including Its Key Concepts, Organizations, Variations, and More](https://www.thriftbooks.com/w/a-reference-guide-to-left-communism-including-its-key-concepts-organizations-variations-and-more/27123180/) by Charlene Sand
+* [Webster's Introduction to Left Communism: Concepts, People, and Organizations](https://www.thriftbooks.com/w/websters-introduction-to-left-communism--concepts-people-and-organizations/10625547/) by Mack Javens
 
 ## Zines
 
