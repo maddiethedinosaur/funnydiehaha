@@ -382,6 +382,12 @@
 * [Abolish Work](https://pmpress.org/index.php?l=product_detail&p=616) by Prole.info
 * [The Housing Monster](https://pmpress.org/index.php?l=product_detail&p=435) by Prole.info
 
+## Thriftbooks
+
+### Feminism
+
+* [Marxism and the Oppression of Women](https://www.thriftbooks.com/w/marxism-and-the-oppression-of-women-toward-a-unitary-theory_lise-vogel/924013/#edition=33265186&idiq=38348683) by Lise Vogel
+
 ## Printable Zines
 
 ### Capitalism
@@ -463,10 +469,6 @@
 ### Unions
 
 * [Trade Unions: Pillars of Capitalism](https://subversionpress.files.wordpress.com/2016/10/trade-unions-bklt.pdf) by Internationalist Perspective
-
-## Thriftbooks
-
-* [Marxism and the Oppression of Women](https://www.thriftbooks.com/w/marxism-and-the-oppression-of-women-toward-a-unitary-theory_lise-vogel/924013/#edition=33265186&idiq=38348683) by Lise Vogel
 
 ## Future Zines
 
