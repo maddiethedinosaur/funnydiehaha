@@ -20,8 +20,8 @@
 * [MHI](#mhi)
 * [News and Letters](#news-and-letters)
 * [PM Press](#pm-press)
-* [Printable Zines](#printable-zines)
 * [Thriftbooks](#thriftbooks)
+* [Zines](#zines)
 * [Future Zines](#future-zines)
 * [Other Lists](#other-lists)
 
@@ -206,6 +206,10 @@
 
 * [Humanist Manifesto 2000](https://www.barnesandnoble.com/w/humanist-manifesto-2000-paul-kurtz/1019242906?ean=9781615921997) by Paul Kurtz
 
+### Left-Communism
+
+* [Left Communism Reader](https://www.barnesandnoble.com/w/left-communism-reader-anton-pannekoek/1129909414?ean=9781482365870) by Sylvia Pankhurst, Herman Gorter, Anton Pannekoek, and Jacques Camatte
+
 ## Brill
 
 * [Marx on Gender and the Family](https://brill.com/view/title/20337) by Heather A. Brown
@@ -308,10 +312,18 @@
 
 ## ICP (Il Partito)
 
-* ["Left-wing Communism, An Infantile Disorder", Condemnation of the Renegades to Come](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
-* [What Distinguishes our Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+### Party
+
 * [Theses on the Nature and Role of the Revolutionary Communist Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+* [What Distinguishes our Party](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+
+### Revolution
+
 * [Revolution and Counter-revolution in Russia](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
+
+### Tactics
+
+* ["Left-wing Communism, An Infantile Disorder", Condemnation of the Renegades to Come](https://www.international-communist-party.org/EnglishPublications.htm) by the International Communist Party
 
 ## Ikea
 
@@ -388,7 +400,7 @@
 
 * [Marxism and the Oppression of Women](https://www.thriftbooks.com/w/marxism-and-the-oppression-of-women-toward-a-unitary-theory_lise-vogel/924013/#edition=33265186&idiq=38348683) by Lise Vogel
 
-## Printable Zines
+## Zines
 
 ### Capitalism
 
