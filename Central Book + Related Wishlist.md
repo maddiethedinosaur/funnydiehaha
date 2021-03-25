@@ -124,6 +124,7 @@
 
 * [A People's History of the World](https://www.amazon.ca/Peoples-History-World-Stone-Millennium/dp/1786630818) by Chris Harman
 * [The Bolsheviks Come to Power](https://www.amazon.ca/Bolsheviks-Come-Power-Revolution-Petrograd-dp-1608467937/dp/1608467937/) by Alexander Rabinowitch
+* [The Condition of the Working Class in England](https://www.amazon.ca/Condition-Working-Class-England/dp/0199555885) by Friedrich Engels
 
 ### Humanism
 
@@ -150,6 +151,7 @@
 * [History and Class Consciousness](https://www.amazon.ca/dp/2229555618/) by Georg Lukács
 * [Karl Marx and the Future of the Human](https://www.amazon.ca/Karl-Future-Human-Cyril-Smith/dp/0739110276) by Cyril Smith
 * [Ludwig Feuerbach and the End of Classical German Philosophy](https://www.amazon.ca/Ludwig-Feuerbach-Classical-German-Philosophy/dp/9811463743/) by Friedrich Engels
+* [Marxism and Philosophy](https://www.amazon.ca/gp/product/1781680272) by Karl Korsch
 * [Phenomenology of Spirit](https://www.amazon.ca/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/) by Georg Wilhelm Friedrich Hegel
 * [Science of Logic](https://www.amazon.ca/Science-Logic-Georg-Hegel/dp/1542519918/) by Georg Wilhelm Friedrich Hegel
 * [Socialism: Utopian and Scientific](https://www.amazon.ca/Socialism-Utopian-Scientific-Frederick-Engels/dp/1514132230/) by Friedrich Engels
@@ -316,6 +318,7 @@
 
 * [Revolutionary Perspectives Series #3 Issue #2](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #3 Issue #4](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+* [Revolutionary Perspectives Series #3 Issue #37](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #3 Issue #49](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #3 Issue #50](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #3 Issue #51](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
@@ -337,6 +340,43 @@
 * [Revolutionary Perspectives Series #4 Issue #15](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #16](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Revolutionary Perspectives Series #4 Issue #17](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
+
+## ICP (Il Comunista)
+
+### Communism
+
+* [The Fundamentals of Revolutionary Communism](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [The Party’s Programme](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+
+### Communist Program & Proletarian
+
+* [Communist Program Issue #1](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #2](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #3](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #4](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #5](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #6](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Communist Program Issue #7](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #1](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #2](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #3](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #4](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #5](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #6](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #7](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #8](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #9](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #10](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #11](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #12](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #13](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #14](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #15](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+* [Proletarian Issue #16](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
+
+### History
+
+* [The Tragedy of the German Proletariat after the First World War](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
 
 ## ICP (Il Partito)
 
@@ -521,8 +561,7 @@
 
 * [Theses of Programmatical Orientation](https://libcom.org/library/theses-of-programmatical-orientation) by the Internationalist Communist Group
 * [When Insurrections Die](https://libcom.org/library/when-insurrections-die) by Gilles Dauvé
-* [What Distinguishes Our Party](https://www.international-communist-party.org/BasicTexts/WhatDist.htm) by the International Communist Party
-* [The Ultra Left International](https://theanarchistlibrary.org/library/d-z-rowan-the-ultra-left-international)
+* [The Ultra Left International](https://theanarchistlibrary.org/library/d-z-rowan-the-ultra-left-international) by D.Z. Rowan
 * [What's It All About?](https://www.troploin.fr/node/48) by Gilles Dauvé
 * [To Work or Not to Work?](https://www.troploin.fr/node/34) by Gilles Dauvé
 * [Space Versus Cement](http://materialnecessity.org/2020/04/02/space-versus-cement-il-programa-comunista/) by the International Communist Party
