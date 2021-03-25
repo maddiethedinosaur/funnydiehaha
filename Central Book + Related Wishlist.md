@@ -131,7 +131,7 @@
 ### Humanism
 
 * [For Humanism](https://www.amazon.ca/exec/obidos/ASIN/0745336140/marxist-20/) by David Alderson, and Robert Spencer
-* [The Dunayevskaya-Marcuse-Fromm Correspondence](https://www.amazon.ca/dp/0739168363/)
+* [The Dunayevskaya-Marcuse-Fromm Correspondence](https://www.amazon.ca/dp/0739168363/) by Kevin Anderson
 
 ### Imperialism
 
@@ -412,6 +412,8 @@
 ### Communization
 
 * [Sic 2](https://littleblackcart.com/index.php?dispatch=products.view&product_id=425)
+* [Tiqqun 1](https://littleblackcart.com/index.php?dispatch=products.view&product_id=336)
+* [#Young-Girl](https://littleblackcart.com/index.php?dispatch=products.view&product_id=302) by Moira Weigel, Mal Ahern and Jaleh Mansoor.
 
 ### Communism
 
@@ -421,6 +423,10 @@
 ### Revolution
 
 * [Armed Joy](https://littleblackcart.com/index.php?dispatch=products.view&product_id=500) by Alfredo M. Bonanno
+
+### Situationism
+
+* [My Thoughts Have Been Replaced by Movie Images!](https://littleblackcart.com/index.php?dispatch=products.view&product_id=330) by the Situationist International, Jan D. Matthews, Bob Black, and Mustapha Khayati.
 
 ## Lulu
 
