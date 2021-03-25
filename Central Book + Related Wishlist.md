@@ -14,6 +14,7 @@
 * [Haymarket Books](#haymarket-books)
 * [ICC](#icc)
 * [ICT](#ict)
+* [ICP (Il Comunista)](#icp-il-comunista)
 * [ICP (Il Partito)](#icp-il-partito)
 * [Ikea](#ikea)
 * [Indigo](#indigo)
