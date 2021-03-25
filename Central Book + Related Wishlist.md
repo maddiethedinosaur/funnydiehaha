@@ -78,6 +78,7 @@
 * [Principles of Communism](https://www.amazon.ca/dp/9977090025/) by Friedrich Engels
 * [What is Communism?](https://www.amazon.ca/dp/2343445133/) by Paul Mattick
 * [Fundamental Principles of Communist Production and Distribution](https://www.amazon.ca/gp/aw/d/B0851LZZ17/) by Group of International Communists
+* [Marx's Concept of the Alternative to Capitalism](https://www.amazon.ca/dp/1608462757/) by Peter Hudis
 
 ### Communization
 
@@ -130,6 +131,7 @@
 ### Humanism
 
 * [For Humanism](https://www.amazon.ca/exec/obidos/ASIN/0745336140/marxist-20/) by David Alderson, and Robert Spencer
+* [The Dunayevskaya-Marcuse-Fromm Correspondence](https://www.amazon.ca/dp/0739168363/)
 
 ### Imperialism
 
@@ -198,7 +200,7 @@
 
 ### Various
 
-* [Reform or Revolution + The National Question](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg
+* [Writings of Rosa Luxemburg](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg
 * [Selections from the Prison Notebooks of Antonio Gramsci](https://www.amazon.ca/dp/071780397X/) by Antonio Gramsci
 * [The Paris Manuscripts](https://www.amazon.ca/Economic-Philosophic-Manuscripts-1844-Karl/dp/0486455610/) by Karl Marx
 
