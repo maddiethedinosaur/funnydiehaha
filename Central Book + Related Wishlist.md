@@ -177,6 +177,10 @@
 * [The Joy of Revolution](https://www.amazon.ca/dp/8537370924/) by Ken Knabb
 * [The Junius Pamphlet](https://www.amazon.ca/crisis-German-social-democracy-Junius-pamphlet/dp/B00ZDCC8FU/) by Rosa Luxemburg
 
+### School
+
+* [Anarchist Education and the Modern School](https://www.amazon.ca/Anarchist-Education-Modern-School-Francisco/dp/162963509X/) by Francisco Ferrer
+
 ### Science
 
 * [Dialectics of Nature](https://www.amazon.ca/dp/1900007452/) by Friedrich Engels
