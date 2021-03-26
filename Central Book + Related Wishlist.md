@@ -127,6 +127,7 @@
 * [A People's History of the World](https://www.amazon.ca/Peoples-History-World-Stone-Millennium/dp/1786630818) by Chris Harman
 * [The Bolsheviks Come to Power](https://www.amazon.ca/Bolsheviks-Come-Power-Revolution-Petrograd-dp-1608467937/dp/1608467937/) by Alexander Rabinowitch
 * [The Condition of the Working Class in England](https://www.amazon.ca/Condition-Working-Class-England/dp/0199555885) by Friedrich Engels
+* [The Development of Capitalism in Russia](https://www.amazon.ca/Development-Capitalism-Russia-Vladimir-Lenin/dp/1410213005) by Vladimir Lenin
 
 ### Humanism
 
