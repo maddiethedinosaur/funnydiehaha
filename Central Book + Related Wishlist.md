@@ -39,6 +39,7 @@
 * [Chuang #1](https://www.akpress.org/chuang.html)
 * [Chuang #2](https://www.akpress.org/catalog/product/view/id/3766/s/chuang/)
 * [Communism and Christianism](https://www.akpress.org/communismandchristianism.html) by William Montgomery Brown
+* [Facing Reality](https://www.akpress.org/facingreality.html) by C.L.R. James
 
 ### Democracy
 
@@ -109,6 +110,7 @@
 
 ### Fiction
 
+* [20,000 Leagues Under the Sea](https://www.amazon.ca/Twenty-Thousand-Leagues-Readers-Library-Classics/dp/1954839111/) by Jules Verne
 * [Dune](https://www.amazon.ca/dp/0441172717/) by Frank Herbert
 * [Dune Messiah](https://www.amazon.ca/dp/0593098234/) by Frank Herbert
 * [Children of Dune](https://www.amazon.ca/dp/0593098242/) by Frank Herbert
@@ -180,6 +182,7 @@
 ### School
 
 * [Anarchist Education and the Modern School](https://www.amazon.ca/Anarchist-Education-Modern-School-Francisco/dp/162963509X/) by Francisco Ferrer
+* [The Lore and Language of Schoolchildren](https://www.amazon.ca/Lore-Language-Schoolchildren-Iona-Opie/dp/0198811217/) by Iona Opie and Peter Opie
 
 ### Science
 
@@ -226,8 +229,13 @@
 
 ## Brill
 
-* [Marx on Gender and the Family](https://brill.com/view/title/20337) by Heather A. Brown
+### Communism
+
 * [The Science and Passion of Communism](https://brill.com/view/title/22024) by Amadeo Bordiga
+
+### Feminism
+
+* [Marx on Gender and the Family](https://brill.com/view/title/20337) by Heather A. Brown
 
 ## Ebay
 
@@ -274,7 +282,7 @@
 
 * [Communism: Not a 'Nice Idea' but a Material Necessity](https://en.internationalism.org/pamphlets) by the International Communist Current
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current
-* [Communist Organisation and Class consciousness](https://en.internationalism.org/pamphlets) by the International Communist Current
+* [Communist Organisation and Class Consciousness](https://en.internationalism.org/pamphlets) by the International Communist Current
 
 ### Decadence
 
@@ -302,7 +310,7 @@
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 
-### Falsifiers, Oppurtinists, Splits and Debates
+### Falsifiers, Opportunists, Splits and Debates
 
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency
