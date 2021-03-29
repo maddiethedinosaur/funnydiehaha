@@ -67,13 +67,6 @@
 * [The Italian Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 * [The Russian Communist Left](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 
-### Left-Wing of Capital
-
-* [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
-* [State Capitalism and World Revolution](https://www.amazon.ca/dp/1604860928/) by C.L.R. James, Raya Dunayevskaya, and Grace Lee Boggs
-* [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
-* [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
-
 ### Misc
 
 * [Revolutionary Perspectives Series #4 Issue #5](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
@@ -120,6 +113,12 @@
 * [State and Revolution](https://www.amazon.ca/dp/1795754613/) by Vladimir Lenin (Amazon)
 * [The Civil War in France](https://www.amazon.ca/dp/1614276048/) by Karl Marx (Amazon)
 
+### USSR & Stuff
+
+* [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [State Capitalism and World Revolution](https://www.amazon.ca/dp/1604860928/) by C.L.R. James, Raya Dunayevskaya, and Grace Lee Boggs
+* [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
 
 ### Various
 
