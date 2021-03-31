@@ -60,6 +60,8 @@
 
 ### Misc
 
+* [Revolutionary Perspectives Series #4 Issue #5](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [Revolutionary Perspectives Series #4 Issue #16](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 * [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels (Amazon)
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue (Amazon)
 
@@ -97,3 +99,5 @@
 ### Various
 
 * [Writings of Rosa Luxemburg](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg (Amazon)
+
+## Clothes
