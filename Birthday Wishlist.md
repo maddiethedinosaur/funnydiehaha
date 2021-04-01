@@ -4,14 +4,11 @@
 
 ## Table of Contents
 
-* [Intro](#intro)
 * [Books](#books)
+* [Cards](#cards)
 * [Clothes](#clothes)
+* [Electronics](#electronics)
 * [Games](#games)
-
-## Intro
-
-Inside this document, you'll find the many things I want for my birthday. It's a wide selection of things, containing books about politics, space feudalism (Dune & Its Sequels), sailors with too much time on their hands (20,000 Leagues), philosophy, science, etc. Games about [x]. 
 
 ## Books
 
@@ -19,6 +16,8 @@ Inside this document, you'll find the many things I want for my birthday. It's a
 
 * [Capitalism and the Environment](http://www.leftcom.org/en/store) by Mauro Stefanini (ICT)
 * [Capitalist Realism](https://www.amazon.ca/dp/1846943175/) by Mark Fisher (Amazon)
+* [Imperialism and World Economy](https://www.amazon.ca/Imperialism-World-Economy-Nikolai-Bukharin/dp/1482097524) by Nikolai Bukharin
+* [Imperialism: the Highest Stage of Capitalism](https://www.amazon.ca/Imperialism-Highest-Capitalism-Vladimir-Ilyich/dp/1603866639/) by Vladimir Lenin
 * [Society of the Spectacle](https://www.amazon.ca/Society-Spectacle-2-Radical-Reprint/dp/5841295055/) by Guy Debord (Amazon)
 * [The Decadence of Capitalism](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 
@@ -86,7 +85,9 @@ Inside this document, you'll find the many things I want for my birthday. It's a
 
 ### Left-Wing of Capital & State Capitalist States
 
+* [Dialogue With Stalin](https://www.amazon.ca/Dialogue-Stalin-Amadeo-Bordiga/dp/7465082013/) by Amadeo Bordiga (Amazon)
 * [Stalin and Stalinism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [State Capitalism and World Revolution](https://www.amazon.ca/dp/1604860928/) by C.L.R. James, Raya Dunayevskaya, and Grace Lee Boggs (Amazon)
 * [The Junius Pamphlet](https://www.amazon.ca/crisis-German-social-democracy-Junius-pamphlet/dp/B00ZDCC8FU/) by Rosa Luxemburg (Amazon)
 * [Trotsky, Trotskyism, Trotskyists](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 * [What Was The USSR?: Towards a Theory of Deformation of Value Under State Capitalism](https://www.amazon.ca/dp/5707440275/) by Aufheben Collective
@@ -133,9 +134,16 @@ Inside this document, you'll find the many things I want for my birthday. It's a
 * [State and Revolution](https://www.amazon.ca/dp/1795754613/) by Vladimir Lenin (Amazon)
 * [The Civil War in France](https://www.amazon.ca/dp/1614276048/) by Karl Marx (Amazon)
 
+### Tactics
+
+* [Unions Against the Working Class](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 
 ### Various
 
 * [Writings of Rosa Luxemburg](https://www.amazon.ca/Writings-Rosa-Luxemburg-Revolution-National/dp/1934941913/) by Rosa Luxemburg (Amazon)
 
-## Clothes
+## Cards
+
+* $25 Roblox Gift Card (Any Store)
+* $25 Steam Gift Card (Any Store)
+* $50 Prepaid Visa/Mastercard/Etc Card (Any Store)
