@@ -94,7 +94,6 @@
 
 ### Misc
 
-* [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels (Amazon)
 * [The Right to be Lazy](https://www.amazon.ca/Right-Be-Lazy-Radical-Reprint/dp/0288974662/) by Paul Lafargue (Amazon)
 
 ### Party
@@ -127,6 +126,10 @@
 * [Lessons of the Counterrevolutions](https://www.amazon.ca/dp/826409967X/) by Amadeo Bordiga (Amazon)
 * [Proletarian Dictatorship and Terrorism](https://www.amazon.ca/Proletarian-Dictatorship-Terrorism-Classic-Reprint/dp/B008ILIY6U/) by Karl Radek (Amazon)
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky (Amazon)
+
+### Science
+
+* [The Origin of the Family, Private Property and the State](https://www.amazon.ca/dp/1978455127/) by Friedrich Engels (Amazon)
 
 ### State
 
