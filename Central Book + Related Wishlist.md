@@ -171,7 +171,6 @@
 
 * [A Revolution Summed Up: The Great Lessons of October 1917](https://www.amazon.ca/dp/B08DSTHLLF/) by the International Communist Party
 * [Lessons of the Counterrevolutions](https://www.amazon.ca/dp/826409967X/) by Amadeo Bordiga
-* [Marxist Theory and Revolutionary Tactics](https://www.amazon.ca/dp/2348252066/) by Anton Pannekoek
 * [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton
 * [Proletarian Dictatorship and Terrorism](https://www.amazon.ca/Proletarian-Dictatorship-Terrorism-Classic-Reprint/dp/B008ILIY6U/) by Karl Radek
 * [Terrorism and Communism](https://www.amazon.ca/Terrorism-Communism-Reply-Karl-Kautsky/dp/1786633434/) by Leon Trotsky
@@ -205,6 +204,7 @@
 ### Tactics
 
 * ["Left-Wing" Communism, an Infantile Disorder](https://www.amazon.ca/dp/1537029371/) by Vladimir Lenin
+* [Marxist Theory and Revolutionary Tactics](https://www.amazon.ca/dp/2348252066/) by Anton Pannekoek
 
 ### Various
 
