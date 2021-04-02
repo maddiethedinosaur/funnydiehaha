@@ -27,7 +27,9 @@
 * [Communism: Not a 'Nice Idea' but a Material Necessity](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 * [Communization and Its Discontents](https://www.amazon.ca/Communization-Its-Discontents-Contestation-Contemporary/dp/157027231X/) by Benjamin Noys (Amazon)
 * [Eclipse and Re-emergence of the Communist Movement](https://www.chapters.indigo.ca/en-ca/books/eclipse-and-re-emergence-of/9781629630434-item.html) by Gilles Dauvé (Indigo)
+* [Fundamental Principles of Communist Production and Distribution](https://www.amazon.ca/gp/aw/d/B0851LZZ17/) by Group of International Communists (Amazon)
 * [The Human Species and the Earth's Crust](https://www.amazon.ca/Human-Species-Earths-Crust-13/dp/5684164749/) by Amadeo Bordiga (Amazon)
+* [What is Communism?](https://www.amazon.ca/dp/2343445133/) by Paul Mattick (Amazon)
 
 ### Critique of Political Economy
 
@@ -40,7 +42,7 @@
 
 ### Debates
 
-* [Bordiga: Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen (ICT)
+* [Bordiga Beyond the Myth](http://www.leftcom.org/en/store) by Onorato Damen (ICT)
 
 ### Feminism
 
