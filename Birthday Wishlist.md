@@ -117,6 +117,7 @@
 ### Programmatical Documents
 
 * [For Communism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [Platform of the Committee of Intesa 1925](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 * [Platform of the Internationalist Communist Tendency](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 * [Platform/Manifesto of the International Communist Current](https://en.internationalism.org/pamphlets) by the International Communist Current (ICC)
 * [Principles of Communism](https://www.amazon.ca/dp/9977090025/) by Friedrich Engels (Amazon)
