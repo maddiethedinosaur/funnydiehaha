@@ -64,7 +64,11 @@
 
 ### History
 
+* [1921: Beginning of the Counter-Revolution?](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [Gramsci between Marxism and Idealism](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
+* [Holocaust and Hiroshima](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 * [Paris: May 1968](https://www.amazon.ca/dp/9132180195/) by Maurice Brinton (Amazon)
+* [Spain 1934-9: From Working Class Struggle to Imperialist War](http://www.leftcom.org/en/store) by the Internationalist Communist Tendency (ICT)
 
 ### Journals
 
