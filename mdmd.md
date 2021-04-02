@@ -29,7 +29,7 @@
 * [On the Question of Dialectics](https://marxists.org/archive/lenin/works/1915/misc/x02.htm) by V.I. Lenin
 * [Afterword to the Second German Edition of Capital](https://marxists.org/archive/marx/works/1867-c1/p3.htm) by Karl Marx
 * [Ludwig Feuerbach](https://marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm) by Friedrich Engels
-* [Dialectics of Nature by Friedrich](https://marxists.org/archive/marx/works/1883/don/index.htm) Engels
+* [Dialectics of Nature](https://marxists.org/archive/marx/works/1883/don/index.htm) by Friedrich Engels
 * [Anti-Duhring Part I: Philosophy](https://marxists.org/archive/marx/works/1877/anti-duhring/) by Friedrich Engels
 * [Materialism and Empirio-Criticism](https://marxists.org/archive/lenin/works/1908/mec/) by V.I. Lenin
 * [Philosophical Noteboks](https://marxists.org/archive/lenin/works/cw/volume38.htm) by V.I. Lenin
