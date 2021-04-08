@@ -12,6 +12,9 @@
 * [Introduction](#introduction)
 * [Communism 101](#communism-101)
 * [The Principles of the Communist Movement](#the-principles of the-communist-movement)
+* [Left-Communism 101](#left-communism-101)
+* [The Basics of the Communist-Left](#the-principles-of-the-communist-left)
+* [Dialectical Materialism](#dialectical-materialism)
 
 ## Introduction
 
