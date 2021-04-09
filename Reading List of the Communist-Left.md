@@ -67,9 +67,21 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 ## Intro to the Communist-Left
 
-* [Introductions to Our Positions](http://www.leftcom.org/en/articles/2020-02-03/introductions-to-our-positions) by the Internationalist Communist Tendency
-
-*A brief history of the ICT, going from the origins of the Italian Communist-Left to the Internationalist Communist Party to the Internationalist Communist Tendency itself.*
+For Communism by the Internationalist Communist Tendency
+Reform or Revolution by Rosa Luxemburg
+The National Question by Rosa Luxemburg
+Who Needs the War? by Alexandra Kollontai
+The Proletarian Revolution and the Renegade Kautsky by V.I. Lenin
+The Formation of the Red Army by Karl Radek
+The Russia We Love and Defend by Onorato Damen
+Stalin and Stalinism by the Internationalist Communist Tendency
+Bourgeois Violence and Proletarian Defence by Onorato Damen
+Party and Class by Amadeo Bordiga
+Dialogue With Stalin by Amadeo Bordiga
+The Spirit of Horsepower by Amadeo Bordiga
+Centralised Party, Yes – Centralism over the Party, No! by Onorato Damen
+On the Union Question by Amadeo Bordiga and Onorato Damen
+What Does the Communist Left do? by the Internationalist Communist Tendency
 
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
 
@@ -79,27 +91,17 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
-## Revolution & War
-
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution) by Rosa Luxemburg
+
+
+
+* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
 
 
 
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 
 
-
-## Nationalism
-
-* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
-
-
-
-* [Theses on the Right of Nations to Self-Determination](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin) by Georgy Pyatakov, Yevgenia Bosch, and Nikolai Bukharin
-
-
-
-## The Proletarian Dictatorship
 
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
 
@@ -108,8 +110,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) by Amadeo Bordiga
 
 
-
-## Falsifiers
 
 * [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
 
@@ -123,8 +123,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
-## Bourgeois Democracy, Fascism & Anti-Fascism
-
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 
 
@@ -132,11 +130,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
 
 
-* [Against Fascism, Against Bourgeois Democracy. For Communism!](http://www.leftcom.org/en/articles/2013-04-25/against-fascism-against-bourgeois-democracy-for-communism) by the Internationalist Communist Tendency
-
-
-
-## The Party's Relation to the Class
 
 * [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
 
@@ -145,12 +138,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
 
 
-
-* [Our Intervention Within the Working Class](https://www.leftcom.org/en/articles/2012-09-12/our-intervention-within-the-working-class) by the Internationalist Communist Tendency
-
-
-
-## State Capitalism/"Actually Existing Socialism"
 
 * [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 
@@ -168,21 +155,7 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
-* [Mao's China, certified copy of the bourgeois capitalist society](https://www.quinterna.org/lingue/english/historical_en/maos_china_certified_copy.htm) by the International Communist Party
-
-
-
-* [Thesis on the Vietnamese Revolution](https://leftcomvietnam.blogspot.com/2020/10/thesis-on-vietnamese-revolution.html) by Left-Communist Group of Vietnam
-
-
-
-## The Organization and Tactics of the Party
-
 * [Centralised Party, Yes – Centralism over the Party, No!](http://www.leftcom.org/en/articles/2010-03-17/centralised-party-yes-centralism-over-the-party-no) by Onorato Damen
-
-
-
-* [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
 
 
 
@@ -261,4 +234,3 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 * [History and Class Consciousness](https://marxists.org/archive/lukacs/works/history/index.htm) by Georg Lukacs
-
