@@ -200,6 +200,8 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 * [History and Class Consciousness](https://marxists.org/archive/lukacs/works/history/index.htm) by Georg Lukacs
 
+
+
 ## Further Reading
 
 * [On the Future International](https://www.leftcom.org/en/articles/2018-06-22/on-the-future-international) by the Internationalist Communist Tendency
@@ -211,4 +213,3 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
-
