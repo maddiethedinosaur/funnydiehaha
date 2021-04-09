@@ -11,9 +11,9 @@
 
 * [Introduction](#introduction)
 * [Communism 101](#communism-101)
-* [The Principles of the Communist Movement](#the-principles-of-the-communist-movement)
-* [Left-Communism 101](#left-communism-101)
-* [The Basics of the Communist-Left](#the-principles-of-the-communist-left)
+* [The Principles of the Communist Movement](#the-basics-of-the-communist-orientation)
+* [Intro to the Communist-Left](#intro-to-the-communist-left)
+* [The Basics of the Communist-Left](#the-basics-of-the-communist-left)
 * [Dialectical Materialism](#dialectical-materialism)
 * [Further Reading](#further-reading)
 
@@ -31,7 +31,7 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 *The final programme for the Communist League, it is a larger and more detailed outline of some fundamental positions of the communist movement in a more traditional form.*
 
-## The Principles of the Communist Movement
+## The Basics of the Communist Orientation
 
 * [Theses on Feuerbach](https://www.marxists.org/archive/marx/works/1845/theses/theses.htm) by Karl Marx
 
@@ -65,16 +65,21 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 *Following a coup by Louis Bonaparte, Marx decided to write this. It contains an outline of how different social interests conflicting manifest as political struggles.*
 
-## Left-Communism 101
-
-* [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
-* [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
-
-## The Basics of the Communist-Left
+## Intro to the Communist-Left
 
 * [Introductions to Our Positions](http://www.leftcom.org/en/articles/2020-02-03/introductions-to-our-positions) by the Internationalist Communist Tendency
 
 *A brief history of the ICT, going from the origins of the Italian Communist-Left to the Internationalist Communist Party to the Internationalist Communist Tendency itself.*
+
+* [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
+
+
+
+* [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
+
+
+
+## Revolution & War
 
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution) by Rosa Luxemburg
 
@@ -96,10 +101,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
-* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
-
-
-
 * [Stalin and Stalinism](https://www.leftcom.org/en/articles/2003-08-01/stalin-and-stalinism) by the Internationalist Communist Tendency
 
 
@@ -116,6 +117,14 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
+* [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
+
+
+
+* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
+
+
+
 * [Dialogue With Stalin](https://marxists.org/archive/bordiga/works/1952/stalin.htm) by Amadeo Bordiga
 
 
@@ -124,7 +133,13 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
+## The Organization and Tactics of the Party
+
 * [Centralised Party, Yes – Centralism over the Party, No!](http://www.leftcom.org/en/articles/2010-03-17/centralised-party-yes-centralism-over-the-party-no) by Onorato Damen
+
+
+
+* [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
 
 
 
@@ -133,6 +148,10 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 * [For the International Party of the Proletariat](https://www.leftcom.org/en/articles/2020-05-21/for-the-international-party-of-the-proletariat) by the Internationalist Communist Tendency
+
+
+
+* [On the Future International](https://www.leftcom.org/en/articles/2018-06-22/on-the-future-international) by the Internationalist Communist Tendency
 
 
 
@@ -200,16 +219,3 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 * [History and Class Consciousness](https://marxists.org/archive/lukacs/works/history/index.htm) by Georg Lukacs
 
-
-
-## Further Reading
-
-* [On the Future International](https://www.leftcom.org/en/articles/2018-06-22/on-the-future-international) by the Internationalist Communist Tendency
-
-
-
-* [The Working Class Needs its Own Political Organisation](https://www.leftcom.org/en/articles/2019-12-09/the-working-class-needs-its-own-political-organisation) by the Internationalist Communist Tendency
-
-
-
-* [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
