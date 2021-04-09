@@ -85,19 +85,33 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
-* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
-
-
-
 * [Who Needs the War?](https://marxists.org/archive/kollonta/1915/whoneeds.htm) by Alexandra Kollontai
 
 
 
-* [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
+## Nationalism
+
+* [The National Question](https://marxists.org/archive/luxemburg/1909/national-question/index.htm) by Rosa Luxemburg
 
 
+
+* [Theses on the Right of Nations to Self-Determination](https://libcom.org/library/theses-right-nations-self-determination-georgy-pyatakov-yevgenia-bosch-nikolai-bukharin) by Georgy Pyatakov, Yevgenia Bosch, and Nikolai Bukharin
+
+
+
+## The Proletarian Dictatorship
 
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
+
+
+
+* [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) by Amadeo Bordiga
+
+
+
+## Falsifiers
+
+* [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
 
 
 
@@ -109,9 +123,20 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 
+## Bourgeois Democracy, Fascism & Anti-Fascism
+
 * [Bourgeois Violence and Proletarian Defence](https://marxists.org/archive/damen/1946/bourgeois-violence.htm) by Onorato Damen
 
 
+
+* [Anti-Fascism: Formula for Confusion](https://libcom.org/library/anti-fascism-formula-confusion-bilan-1934) by Bilan
+
+
+* [Against Fascism, Against Bourgeois Democracy. For Communism!](http://www.leftcom.org/en/articles/2013-04-25/against-fascism-against-bourgeois-democracy-for-communism) by the Internationalist Communist Tendency
+
+
+
+## The Party's Relation to the Class
 
 * [Party and Class](https://marxists.org/archive/bordiga/works/1921/party-class.htm) by Amadeo Bordiga
 
@@ -120,6 +145,12 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
 
 
+
+* [Our Intervention Within the Working Class](https://www.leftcom.org/en/articles/2012-09-12/our-intervention-within-the-working-class) by the Internationalist Communist Tendency
+
+
+
+## State Capitalism/"Actually Existing Socialism"
 
 * [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 
@@ -130,6 +161,18 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 
 * [The Spirit of Horsepower](https://marxists.org/archive/bordiga/works/1953/horsepower.htm) by Amadeo Bordiga
+
+
+
+* [Doctrine of the Body Possessed by the Devil](https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm) by Amadeo Bordiga
+
+
+
+* [Mao's China, certified copy of the bourgeois capitalist society](https://www.quinterna.org/lingue/english/historical_en/maos_china_certified_copy.htm) by the International Communist Party
+
+
+
+* [Thesis on the Vietnamese Revolution](https://leftcomvietnam.blogspot.com/2020/10/thesis-on-vietnamese-revolution.html) by Left-Communist Group of Vietnam
 
 
 
