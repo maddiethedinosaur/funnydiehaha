@@ -67,22 +67,6 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 ## Intro to the Communist-Left
 
-For Communism by the Internationalist Communist Tendency
-Reform or Revolution by Rosa Luxemburg
-The National Question by Rosa Luxemburg
-Who Needs the War? by Alexandra Kollontai
-The Proletarian Revolution and the Renegade Kautsky by V.I. Lenin
-The Formation of the Red Army by Karl Radek
-The Russia We Love and Defend by Onorato Damen
-Stalin and Stalinism by the Internationalist Communist Tendency
-Bourgeois Violence and Proletarian Defence by Onorato Damen
-Party and Class by Amadeo Bordiga
-Dialogue With Stalin by Amadeo Bordiga
-The Spirit of Horsepower by Amadeo Bordiga
-Centralised Party, Yes – Centralism over the Party, No! by Onorato Damen
-On the Union Question by Amadeo Bordiga and Onorato Damen
-What Does the Communist Left do? by the Internationalist Communist Tendency
-
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
 
 
@@ -103,15 +87,15 @@ What Does the Communist Left do? by the Internationalist Communist Tendency
 
 
 
+* [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
+
+
+
 * [The Formation of the Red Army](https://www.leftcom.org/en/articles/2019-02-11/the-formation-of-the-red-army-1918) by Karl Radek
 
 
 
-* [The System of Communist Representation](https://www.marxists.org/archive/bordiga/works/1919/representation.htm) by Amadeo Bordiga
-
-
-
-* [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V. I. Lenin
+* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 
 
 
@@ -136,10 +120,6 @@ What Does the Communist Left do? by the Internationalist Communist Tendency
 
 
 * [Class Consciousness and Revolutionary Organisation](http://www.leftcom.org/files/2018-06-30-consciousness.pdf) by the Internationalist Communist Tendency
-
-
-
-* [The Russia We Love and Defend](https://marxists.org/archive/damen/1943/love-russia.htm) by Onorato Damen
 
 
 
