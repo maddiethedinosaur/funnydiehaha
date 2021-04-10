@@ -24,9 +24,9 @@ Communist Manifesto (Marx + Engels), Right to be Lazy (Lafargue), Principles of 
 ## 2nd Row:
 The Proletarian Revolution and the Renegade Kautsky (Lenin), The National Question (Luxemburg), Reform or Revolution (Luxemburg), Wage Labour and Capital (Marx), The Human Species and the Earth's Crust (Bordiga), Critique of the Gotha Programme (Marx), Socialism: Utopian and Scientific (Engels)
 ## 3rd Row:
-Bordiga: Beyond the Myth, Class Consciousness and Revolutionary Organization (Damen), Capitalism and the Environment (Stefanini), Platform of the Committee of Intesa 1925 (ICT), Trotsky, Trotskyism, Trotskyists (ICT), The Fundamentals for a Marxist Orientation and Other Writings on Marxist Theory (Bordiga), A World Without Money: Communism (Blanc)
+Bordiga: Beyond the Myth (Damen), Class Consciousness and Revolutionary Organization (ICT), Capitalism and the Environment (Stefanini), Platform of the Committee of Intesa 1925 (ICT), Trotsky, Trotskyism, Trotskyists (ICT), The Fundamentals for a Marxist Orientation and Other Writings on Marxist Theory (Bordiga), A World Without Money: Communism (Blanc)
 ## 4th Row:
-Theories of Surplus Value Vol. 2 (Marx), Theories of Surplus Value Vol. 2 (Marx), Paris May 68 (Brinton), What is Communism?: with Capitalism and Planning and The Inevitability of Communism (Mattick), Society of the Spectacle (Debord), Marxism & Freedom (Dunayevskaya), Marx & Keynes (Mattick)
+Theories of Surplus Value Vol. 1 (Marx), Theories of Surplus Value Vol. 2 (Marx), Paris May 68 (Brinton), What is Communism?: with Capitalism and Planning and The Inevitability of Communism (Mattick), Society of the Spectacle (Debord), Marxism & Freedom (Dunayevskaya), Marx & Keynes (Mattick)
 ## 5th Row:
 Theories of Surplus Value Vol. 3 (Marx), Dialogue with Stalin (Bordiga), The Holy Family (Marx), Capital Vol. 1 (Marx), Capital Vol. 2 (Marx), Capital Vol. 3 (Marx), The Poverty of Philosophy (Marx), Gramsci: Between Marxism and Idealism (Damen)
 ## 6th Row:
