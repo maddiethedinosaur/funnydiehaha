@@ -12,6 +12,7 @@
 * [Introduction](#introduction)
 * [Communism 101](#communism-101)
 * [The Principles of the Communist Movement](#the-basics-of-the-communist-orientation)
+* [Left-Communism 101](#left-communism-101)
 * [Intro to the Communist-Left](#intro-to-the-communist-left)
 * [The Basics of the Communist-Left](#the-basics-of-the-communist-left)
 * [Dialectical Materialism](#dialectical-materialism)
@@ -65,7 +66,7 @@ I've decided to finish this document and write a short introduction. My goal of 
 
 *Following a coup by Louis Bonaparte, Marx decided to write this. It contains an outline of how different social interests conflicting manifest as political struggles.*
 
-## Intro to the Communist-Left
+## Left-Communism 101
 
 * [ICT Platform](http://www.leftcom.org/en/node/36775) by the Internationalist Communist Tendency
 
@@ -74,6 +75,8 @@ I've decided to finish this document and write a short introduction. My goal of 
 * [For Communism](https://leftcom.org/files/2019-for-communism_0.pdf) by the Internationalist Communist Tendency
 
 
+
+## Intro to the Communist-Left
 
 * [Reform or Revolution](https://marxists.org/archive/luxemburg/1900/reform-revolution) by Rosa Luxemburg
 
