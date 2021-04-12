@@ -206,7 +206,7 @@ The Platform of the Internationalist Communist Tendency, containing various fund
 
 
 
-* [Philosophical Noteboks](https://marxists.org/archive/lenin/works/cw/volume38.htm) by V.I. Lenin
+* [Philosophical Notebooks](https://marxists.org/archive/lenin/works/cw/volume38.htm) by V.I. Lenin
 
 
 
