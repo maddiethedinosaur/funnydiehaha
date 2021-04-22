@@ -361,7 +361,6 @@
 
 ### Communism
 
-* [The Fundamentals of Revolutionary Communism](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
 * [The Party’s Programme](http://www.pcint.org/17_CatEdProg/Catalogue.htm#IN_ENGLISH) by the International Communist Party
 
 ### Communist Program & Proletarian
@@ -443,9 +442,22 @@
 
 ## Lulu
 
+### Communism
+
+* [The ABC of Communism](https://www.lulu.com/en/us/shop/nikolai-bukharin/the-abc-of-communism/paperback/product-1djpq7j7.html?page=1&pageSize=4) by Nikolai Bukharin
+
 ### Marxism
 
 * [Marxism in a Nutshell](https://www.lulu.com/shop/robin-goodfellow/marxism-in-a-nutshell/paperback/product-22716400.html?page=1&pageSize=4) by Robin Goodfellow
+* [The Proletarian Revolution and the Renegade Kautsky](https://www.lulu.com/en/us/shop/vi-lenin/the-proletarian-revolution-and-the-renegade-kautsky/paperback/product-1q2gj7zp.html?page=1&pageSize=4) by Vladimir Lenin
+
+### Journals
+
+* [Class Line No. 1 — Summer-Autumn 2019](https://www.lulu.com/en/us/shop/workers-group/class-line-no-1-summer-autumn-2019/paperback/product-196ewjzq.html?page=1&pageSize=4) by Workers' Group
+
+### Queer
+
+* [An Android In Glasses](https://www.lulu.com/en/us/shop/emmy-vaught/an-android-in-glasses/paperback/product-1kwqqq9d.html?page=1&pageSize=4) by Emmy Vaught
 
 ## MHI
 
@@ -564,7 +576,6 @@
 ### Reform and Revolution
 
 * [In This World But Not of This World](https://subversionpress.files.wordpress.com/2015/03/in-this-world-bklt.pdf) by Gilles Dauvé
-* [The Proletarian Revolution and the Renegade Kautsky](https://drive.google.com/file/d/1GHP2orJgFUSNwdGCe4fr15PmQw0EG7Ck/view?usp=sharing) by Vladimir Lenin
 * [The Sanders Campaign](https://subversionpress.files.wordpress.com/2016/10/sanders-bklt.pdf) by ????
 * [The Subversion of Everyday Life](https://subversionpress.files.wordpress.com/2016/11/subversion-of-daily-bklt.pdf) by Kolinko
 * [We Are Not “Anti”](https://subversionpress.files.wordpress.com/2016/08/anti-bklt.pdf) by Bernard Lyon
