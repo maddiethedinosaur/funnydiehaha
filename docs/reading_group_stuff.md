@@ -46,7 +46,7 @@ _**The Basics of Leninism:**_
 
 - [Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/index.htm) by V.I. Lenin
 - [What Is To Be Done?](https://www.marxists.org/archive/lenin/works/1901/witbd/index.htm) by V.I. Lenin
-- [&quot;Left-Wing&quot; Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/index.htm) by V.I. Lenin
+- ["Left-Wing" Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/index.htm) by V.I. Lenin
 - [The Democratic Principle](https://www.marxists.org/archive/bordiga/works/1922/democratic-principle.htm) by Amadeo Bordiga
 - [The Proletarian Revolution and the Renegade Kautsky](https://marxists.org/archive/lenin/works/1918/prrk/index.htm) by V.I. Lenin
 - [1917](https://www.leftcom.org/en/articles/2007-11-01/1917) by the Internationalist Communist Tendency
