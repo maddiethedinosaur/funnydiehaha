@@ -30,7 +30,14 @@ p {
 }
 
 a {
-  color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
+}
+
+summary {
+  color: white;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 30px;
 }
